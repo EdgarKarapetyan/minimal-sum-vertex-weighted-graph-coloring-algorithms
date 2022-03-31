@@ -1,0 +1,11424 @@
+-- Test 1 --
+Algorithm 1 : 
+V0: 1
+V1: 1
+V2: 4
+V3: 0
+V4: 3
+V5: 0
+V6: 4
+V7: 2
+Vertex weight sum = 334
+
+Algorithm 2 : 
+V0: 1
+V1: 1
+V2: 4
+V3: 0
+V4: 3
+V5: 0
+V6: 4
+V7: 2
+Vertex weight sum = 334
+
+Algorithm 3 : 
+V0: 2
+V1: 2
+V2: 5
+V3: 1
+V4: 4
+V5: 1
+V6: 5
+V7: 3
+Vertex weight sum = 334
+
+-- Test 2 --
+Algorithm 1 : 
+V0: 5
+V1: 3
+V2: 5
+V3: 0
+V4: 3
+V5: 2
+V6: 4
+V7: 8
+V8: 5
+V9: 1
+V10: 4
+V11: 4
+V12: 1
+V13: 0
+V14: 2
+V15: 7
+V16: 6
+Vertex weight sum = 526
+
+Algorithm 2 : 
+V0: 5
+V1: 3
+V2: 5
+V3: 0
+V4: 3
+V5: 2
+V6: 4
+V7: 8
+V8: 5
+V9: 1
+V10: 4
+V11: 4
+V12: 1
+V13: 0
+V14: 2
+V15: 7
+V16: 6
+Vertex weight sum = 526
+
+Algorithm 3 : 
+V0: 6
+V1: 4
+V2: 6
+V3: 1
+V4: 4
+V5: 3
+V6: 5
+V7: 9
+V8: 6
+V9: 2
+V10: 5
+V11: 5
+V12: 2
+V13: 1
+V14: 3
+V15: 8
+V16: 7
+Vertex weight sum = 526
+
+-- Test 3 --
+Algorithm 1 : 
+V0: 2
+V1: 0
+V2: 4
+V3: 1
+V4: 3
+V5: 1
+V6: 2
+V7: 3
+V8: 0
+Vertex weight sum = 280
+
+Algorithm 2 : 
+V0: 2
+V1: 0
+V2: 4
+V3: 1
+V4: 3
+V5: 1
+V6: 2
+V7: 3
+V8: 0
+Vertex weight sum = 280
+
+Algorithm 3 : 
+V0: 3
+V1: 1
+V2: 5
+V3: 2
+V4: 4
+V5: 2
+V6: 3
+V7: 4
+V8: 1
+Vertex weight sum = 280
+
+-- Test 4 --
+Algorithm 1 : 
+V0: 1
+V1: 1
+V2: 2
+V3: 2
+V4: 0
+V5: 1
+V6: 3
+V7: 0
+V8: 2
+V9: 4
+Vertex weight sum = 296
+
+Algorithm 2 : 
+V0: 1
+V1: 2
+V2: 3
+V3: 3
+V4: 0
+V5: 1
+V6: 1
+V7: 0
+V8: 2
+V9: 2
+Vertex weight sum = 287
+
+Algorithm 3 : 
+V0: 2
+V1: 2
+V2: 3
+V3: 3
+V4: 1
+V5: 2
+V6: 4
+V7: 1
+V8: 3
+V9: 5
+Vertex weight sum = 296
+
+-- Test 5 --
+Algorithm 1 : 
+V0: 2
+V1: 1
+V2: 1
+V3: 4
+V4: 0
+V5: 0
+V6: 5
+V7: 0
+V8: 2
+V9: 3
+Vertex weight sum = 298
+
+Algorithm 2 : 
+V0: 2
+V1: 1
+V2: 1
+V3: 4
+V4: 0
+V5: 0
+V6: 5
+V7: 0
+V8: 2
+V9: 3
+Vertex weight sum = 298
+
+Algorithm 3 : 
+V0: 3
+V1: 2
+V2: 2
+V3: 5
+V4: 1
+V5: 1
+V6: 6
+V7: 1
+V8: 3
+V9: 4
+Vertex weight sum = 298
+
+-- Test 6 --
+Algorithm 1 : 
+V0: 2
+V1: 2
+V2: 1
+V3: 0
+V4: 4
+V5: 5
+V6: 3
+V7: 0
+V8: 0
+V9: 5
+V10: 1
+Vertex weight sum = 356
+
+Algorithm 2 : 
+V0: 2
+V1: 2
+V2: 1
+V3: 0
+V4: 5
+V5: 3
+V6: 4
+V7: 0
+V8: 0
+V9: 3
+V10: 1
+Vertex weight sum = 356
+
+Algorithm 3 : 
+V0: 3
+V1: 3
+V2: 2
+V3: 1
+V4: 5
+V5: 6
+V6: 4
+V7: 1
+V8: 1
+V9: 6
+V10: 2
+Vertex weight sum = 356
+
+-- Test 7 --
+Algorithm 1 : 
+V0: 0
+V1: 2
+V2: 1
+V3: 0
+V4: 3
+V5: 1
+V6: 3
+Vertex weight sum = 174
+
+Algorithm 2 : 
+V0: 0
+V1: 2
+V2: 1
+V3: 0
+V4: 3
+V5: 1
+V6: 3
+Vertex weight sum = 174
+
+Algorithm 3 : 
+V0: 1
+V1: 3
+V2: 2
+V3: 1
+V4: 4
+V5: 2
+V6: 4
+Vertex weight sum = 174
+
+-- Test 8 --
+Algorithm 1 : 
+V0: 4
+V1: 0
+V2: 1
+V3: 3
+V4: 1
+V5: 5
+V6: 2
+V7: 1
+V8: 6
+V9: 3
+V10: 0
+V11: 0
+V12: 3
+V13: 4
+V14: 2
+Vertex weight sum = 423
+
+Algorithm 2 : 
+V0: 4
+V1: 0
+V2: 2
+V3: 3
+V4: 2
+V5: 5
+V6: 1
+V7: 2
+V8: 6
+V9: 3
+V10: 0
+V11: 0
+V12: 3
+V13: 4
+V14: 1
+Vertex weight sum = 423
+
+Algorithm 3 : 
+V0: 5
+V1: 1
+V2: 2
+V3: 4
+V4: 2
+V5: 6
+V6: 3
+V7: 2
+V8: 7
+V9: 4
+V10: 1
+V11: 1
+V12: 4
+V13: 5
+V14: 3
+Vertex weight sum = 423
+
+-- Test 9 --
+Algorithm 1 : 
+V0: 4
+V1: 1
+V2: 2
+V3: 0
+V4: 3
+V5: 1
+V6: 0
+Vertex weight sum = 390
+
+Algorithm 2 : 
+V0: 4
+V1: 1
+V2: 3
+V3: 0
+V4: 2
+V5: 1
+V6: 0
+Vertex weight sum = 390
+
+Algorithm 3 : 
+V0: 5
+V1: 2
+V2: 3
+V3: 1
+V4: 4
+V5: 2
+V6: 1
+Vertex weight sum = 390
+
+-- Test 10 --
+Algorithm 1 : 
+V0: 5
+V1: 0
+V2: 3
+V3: 0
+V4: 1
+V5: 4
+V6: 5
+V7: 3
+V8: 2
+V9: 1
+Vertex weight sum = 385
+
+Algorithm 2 : 
+V0: 5
+V1: 0
+V2: 1
+V3: 0
+V4: 3
+V5: 4
+V6: 5
+V7: 3
+V8: 2
+V9: 1
+Vertex weight sum = 388
+
+Algorithm 3 : 
+V0: 6
+V1: 1
+V2: 4
+V3: 1
+V4: 2
+V5: 5
+V6: 6
+V7: 4
+V8: 3
+V9: 2
+Vertex weight sum = 385
+
+-- Test 11 --
+Algorithm 1 : 
+V0: 3
+V1: 0
+V2: 4
+V3: 5
+V4: 3
+V5: 1
+V6: 2
+V7: 1
+Vertex weight sum = 217
+
+Algorithm 2 : 
+V0: 3
+V1: 0
+V2: 4
+V3: 5
+V4: 3
+V5: 1
+V6: 2
+V7: 1
+Vertex weight sum = 217
+
+Algorithm 3 : 
+V0: 4
+V1: 1
+V2: 5
+V3: 6
+V4: 4
+V5: 2
+V6: 3
+V7: 2
+Vertex weight sum = 217
+
+-- Test 12 --
+Algorithm 1 : 
+V0: 2
+V1: 3
+V2: 4
+V3: 1
+V4: 1
+V5: 0
+V6: 0
+V7: 1
+Vertex weight sum = 146
+
+Algorithm 2 : 
+V0: 2
+V1: 3
+V2: 4
+V3: 1
+V4: 1
+V5: 0
+V6: 0
+V7: 1
+Vertex weight sum = 146
+
+Algorithm 3 : 
+V0: 3
+V1: 4
+V2: 5
+V3: 2
+V4: 2
+V5: 1
+V6: 1
+V7: 2
+Vertex weight sum = 146
+
+-- Test 13 --
+Algorithm 1 : 
+V0: 4
+V1: 1
+V2: 3
+V3: 9
+V4: 8
+V5: 0
+V6: 1
+V7: 6
+V8: 2
+V9: 7
+V10: 0
+V11: 5
+V12: 3
+V13: 2
+V14: 6
+V15: 8
+V16: 4
+V17: 3
+V18: 2
+Vertex weight sum = 547
+
+Algorithm 2 : 
+V0: 4
+V1: 7
+V2: 6
+V3: 6
+V4: 8
+V5: 0
+V6: 1
+V7: 4
+V8: 2
+V9: 1
+V10: 0
+V11: 5
+V12: 3
+V13: 2
+V14: 3
+V15: 8
+V16: 7
+V17: 3
+V18: 2
+Vertex weight sum = 605
+
+Algorithm 3 : 
+V0: 5
+V1: 2
+V2: 4
+V3: 10
+V4: 9
+V5: 1
+V6: 2
+V7: 7
+V8: 3
+V9: 8
+V10: 1
+V11: 6
+V12: 4
+V13: 3
+V14: 7
+V15: 9
+V16: 5
+V17: 4
+V18: 3
+Vertex weight sum = 547
+
+-- Test 14 --
+Algorithm 1 : 
+V0: 1
+V1: 7
+V2: 0
+V3: 1
+V4: 3
+V5: 2
+V6: 3
+V7: 0
+V8: 2
+V9: 4
+V10: 5
+V11: 6
+V12: 7
+V13: 2
+V14: 4
+V15: 8
+V16: 0
+V17: 6
+V18: 0
+Vertex weight sum = 450
+
+Algorithm 2 : 
+V0: 1
+V1: 6
+V2: 0
+V3: 1
+V4: 3
+V5: 2
+V6: 3
+V7: 0
+V8: 8
+V9: 7
+V10: 4
+V11: 5
+V12: 6
+V13: 4
+V14: 7
+V15: 2
+V16: 0
+V17: 5
+V18: 0
+Vertex weight sum = 472
+
+Algorithm 3 : 
+V0: 2
+V1: 8
+V2: 1
+V3: 2
+V4: 4
+V5: 3
+V6: 4
+V7: 1
+V8: 3
+V9: 5
+V10: 6
+V11: 7
+V12: 8
+V13: 3
+V14: 5
+V15: 9
+V16: 1
+V17: 7
+V18: 1
+Vertex weight sum = 450
+
+-- Test 15 --
+Algorithm 1 : 
+V0: 6
+V1: 0
+V2: 3
+V3: 4
+V4: 2
+V5: 4
+V6: 2
+V7: 7
+V8: 6
+V9: 1
+V10: 2
+V11: 5
+V12: 8
+V13: 4
+V14: 1
+V15: 5
+V16: 0
+V17: 3
+Vertex weight sum = 602
+
+Algorithm 2 : 
+V0: 5
+V1: 0
+V2: 3
+V3: 7
+V4: 2
+V5: 5
+V6: 2
+V7: 8
+V8: 5
+V9: 1
+V10: 2
+V11: 4
+V12: 6
+V13: 7
+V14: 1
+V15: 4
+V16: 0
+V17: 3
+Vertex weight sum = 602
+
+Algorithm 3 : 
+V0: 7
+V1: 1
+V2: 4
+V3: 5
+V4: 3
+V5: 5
+V6: 3
+V7: 8
+V8: 7
+V9: 2
+V10: 3
+V11: 6
+V12: 9
+V13: 5
+V14: 2
+V15: 6
+V16: 1
+V17: 4
+Vertex weight sum = 602
+
+-- Test 16 --
+Algorithm 1 : 
+V0: 2
+V1: 6
+V2: 7
+V3: 2
+V4: 1
+V5: 0
+V6: 5
+V7: 0
+V8: 4
+V9: 7
+V10: 3
+V11: 0
+V12: 3
+V13: 1
+V14: 3
+Vertex weight sum = 449
+
+Algorithm 2 : 
+V0: 4
+V1: 5
+V2: 7
+V3: 4
+V4: 3
+V5: 0
+V6: 2
+V7: 0
+V8: 6
+V9: 3
+V10: 1
+V11: 0
+V12: 1
+V13: 5
+V14: 1
+Vertex weight sum = 462
+
+Algorithm 3 : 
+V0: 3
+V1: 7
+V2: 8
+V3: 3
+V4: 2
+V5: 1
+V6: 6
+V7: 1
+V8: 5
+V9: 8
+V10: 4
+V11: 1
+V12: 4
+V13: 2
+V14: 4
+Vertex weight sum = 449
+
+-- Test 17 --
+Algorithm 1 : 
+V0: 3
+V1: 5
+V2: 2
+V3: 2
+V4: 0
+V5: 2
+V6: 0
+V7: 1
+V8: 4
+V9: 0
+V10: 1
+V11: 3
+Vertex weight sum = 319
+
+Algorithm 2 : 
+V0: 3
+V1: 5
+V2: 2
+V3: 2
+V4: 0
+V5: 2
+V6: 0
+V7: 1
+V8: 4
+V9: 0
+V10: 1
+V11: 3
+Vertex weight sum = 319
+
+Algorithm 3 : 
+V0: 4
+V1: 6
+V2: 3
+V3: 3
+V4: 1
+V5: 3
+V6: 1
+V7: 2
+V8: 5
+V9: 1
+V10: 2
+V11: 4
+Vertex weight sum = 319
+
+-- Test 18 --
+Algorithm 1 : 
+V0: 0
+V1: 1
+V2: 0
+V3: 1
+V4: 3
+V5: 2
+Vertex weight sum = 170
+
+Algorithm 2 : 
+V0: 0
+V1: 1
+V2: 0
+V3: 1
+V4: 3
+V5: 2
+Vertex weight sum = 170
+
+Algorithm 3 : 
+V0: 1
+V1: 2
+V2: 1
+V3: 2
+V4: 4
+V5: 3
+Vertex weight sum = 170
+
+-- Test 19 --
+Algorithm 1 : 
+V0: 4
+V1: 2
+V2: 3
+V3: 1
+V4: 0
+V5: 4
+V6: 5
+V7: 2
+V8: 0
+V9: 1
+V10: 6
+V11: 2
+V12: 3
+Vertex weight sum = 448
+
+Algorithm 2 : 
+V0: 4
+V1: 2
+V2: 3
+V3: 1
+V4: 0
+V5: 4
+V6: 6
+V7: 2
+V8: 0
+V9: 1
+V10: 5
+V11: 2
+V12: 3
+Vertex weight sum = 448
+
+Algorithm 3 : 
+V0: 5
+V1: 3
+V2: 4
+V3: 2
+V4: 1
+V5: 5
+V6: 6
+V7: 3
+V8: 1
+V9: 2
+V10: 7
+V11: 3
+V12: 4
+Vertex weight sum = 448
+
+-- Test 20 --
+Algorithm 1 : 
+V0: 6
+V1: 1
+V2: 1
+V3: 3
+V4: 7
+V5: 2
+V6: 0
+V7: 2
+V8: 5
+V9: 3
+V10: 0
+V11: 4
+V12: 8
+V13: 2
+V14: 1
+V15: 4
+V16: 6
+Vertex weight sum = 584
+
+Algorithm 2 : 
+V0: 6
+V1: 1
+V2: 1
+V3: 3
+V4: 7
+V5: 2
+V6: 0
+V7: 2
+V8: 5
+V9: 3
+V10: 0
+V11: 4
+V12: 8
+V13: 2
+V14: 1
+V15: 4
+V16: 6
+Vertex weight sum = 584
+
+Algorithm 3 : 
+V0: 7
+V1: 2
+V2: 2
+V3: 4
+V4: 8
+V5: 3
+V6: 1
+V7: 3
+V8: 6
+V9: 4
+V10: 1
+V11: 5
+V12: 9
+V13: 3
+V14: 2
+V15: 5
+V16: 7
+Vertex weight sum = 584
+
+-- Test 21 --
+Algorithm 1 : 
+V0: 4
+V1: 0
+V2: 5
+V3: 1
+V4: 0
+V5: 6
+V6: 3
+V7: 4
+V8: 2
+V9: 0
+V10: 2
+V11: 1
+V12: 0
+Vertex weight sum = 535
+
+Algorithm 2 : 
+V0: 5
+V1: 0
+V2: 4
+V3: 1
+V4: 0
+V5: 6
+V6: 3
+V7: 5
+V8: 2
+V9: 0
+V10: 2
+V11: 1
+V12: 0
+Vertex weight sum = 535
+
+Algorithm 3 : 
+V0: 5
+V1: 1
+V2: 6
+V3: 2
+V4: 1
+V5: 7
+V6: 4
+V7: 5
+V8: 3
+V9: 1
+V10: 3
+V11: 2
+V12: 1
+Vertex weight sum = 535
+
+-- Test 22 --
+Algorithm 1 : 
+V0: 2
+V1: 1
+V2: 0
+V3: 3
+V4: 1
+Vertex weight sum = 194
+
+Algorithm 2 : 
+V0: 2
+V1: 1
+V2: 0
+V3: 3
+V4: 1
+Vertex weight sum = 194
+
+Algorithm 3 : 
+V0: 3
+V1: 2
+V2: 1
+V3: 4
+V4: 2
+Vertex weight sum = 194
+
+-- Test 23 --
+Algorithm 1 : 
+V0: 1
+V1: 0
+V2: 2
+V3: 0
+V4: 1
+V5: 3
+V6: 4
+V7: 3
+V8: 5
+V9: 2
+Vertex weight sum = 452
+
+Algorithm 2 : 
+V0: 1
+V1: 0
+V2: 2
+V3: 0
+V4: 1
+V5: 3
+V6: 4
+V7: 3
+V8: 5
+V9: 2
+Vertex weight sum = 452
+
+Algorithm 3 : 
+V0: 2
+V1: 1
+V2: 3
+V3: 1
+V4: 2
+V5: 4
+V6: 5
+V7: 4
+V8: 6
+V9: 3
+Vertex weight sum = 452
+
+-- Test 24 --
+Algorithm 1 : 
+V0: 1
+V1: 1
+V2: 2
+V3: 0
+V4: 3
+V5: 0
+Vertex weight sum = 216
+
+Algorithm 2 : 
+V0: 1
+V1: 1
+V2: 2
+V3: 0
+V4: 3
+V5: 0
+Vertex weight sum = 216
+
+Algorithm 3 : 
+V0: 2
+V1: 2
+V2: 3
+V3: 1
+V4: 4
+V5: 1
+Vertex weight sum = 216
+
+-- Test 25 --
+Algorithm 1 : 
+V0: 0
+V1: 3
+V2: 0
+V3: 1
+V4: 2
+V5: 3
+V6: 0
+V7: 2
+V8: 4
+Vertex weight sum = 307
+
+Algorithm 2 : 
+V0: 0
+V1: 3
+V2: 0
+V3: 1
+V4: 2
+V5: 3
+V6: 0
+V7: 2
+V8: 4
+Vertex weight sum = 307
+
+Algorithm 3 : 
+V0: 1
+V1: 4
+V2: 1
+V3: 2
+V4: 3
+V5: 4
+V6: 1
+V7: 3
+V8: 5
+Vertex weight sum = 307
+
+-- Test 26 --
+Algorithm 1 : 
+V0: 0
+V1: 3
+V2: 1
+V3: 2
+V4: 4
+V5: 5
+V6: 1
+V7: 5
+V8: 3
+V9: 0
+V10: 4
+V11: 6
+V12: 7
+V13: 0
+V14: 5
+V15: 2
+Vertex weight sum = 421
+
+Algorithm 2 : 
+V0: 0
+V1: 3
+V2: 1
+V3: 2
+V4: 4
+V5: 5
+V6: 1
+V7: 5
+V8: 3
+V9: 0
+V10: 4
+V11: 6
+V12: 7
+V13: 0
+V14: 5
+V15: 2
+Vertex weight sum = 421
+
+Algorithm 3 : 
+V0: 1
+V1: 4
+V2: 2
+V3: 3
+V4: 5
+V5: 6
+V6: 2
+V7: 6
+V8: 4
+V9: 1
+V10: 5
+V11: 7
+V12: 8
+V13: 1
+V14: 6
+V15: 3
+Vertex weight sum = 421
+
+-- Test 27 --
+Algorithm 1 : 
+V0: 0
+V1: 5
+V2: 1
+V3: 3
+V4: 2
+V5: 0
+V6: 4
+V7: 4
+V8: 1
+V9: 5
+V10: 0
+V11: 2
+Vertex weight sum = 443
+
+Algorithm 2 : 
+V0: 0
+V1: 5
+V2: 1
+V3: 2
+V4: 1
+V5: 0
+V6: 3
+V7: 3
+V8: 5
+V9: 4
+V10: 0
+V11: 4
+Vertex weight sum = 478
+
+Algorithm 3 : 
+V0: 1
+V1: 6
+V2: 2
+V3: 4
+V4: 3
+V5: 1
+V6: 5
+V7: 5
+V8: 2
+V9: 6
+V10: 1
+V11: 3
+Vertex weight sum = 443
+
+-- Test 28 --
+Algorithm 1 : 
+V0: 1
+V1: 2
+V2: 1
+V3: 0
+V4: 3
+V5: 4
+V6: 5
+V7: 0
+V8: 2
+V9: 5
+Vertex weight sum = 362
+
+Algorithm 2 : 
+V0: 1
+V1: 2
+V2: 1
+V3: 0
+V4: 3
+V5: 4
+V6: 5
+V7: 0
+V8: 2
+V9: 5
+Vertex weight sum = 362
+
+Algorithm 3 : 
+V0: 2
+V1: 3
+V2: 2
+V3: 1
+V4: 4
+V5: 5
+V6: 6
+V7: 1
+V8: 3
+V9: 6
+Vertex weight sum = 362
+
+-- Test 29 --
+Algorithm 1 : 
+V0: 3
+V1: 1
+V2: 2
+V3: 0
+V4: 0
+V5: 1
+Vertex weight sum = 239
+
+Algorithm 2 : 
+V0: 3
+V1: 2
+V2: 1
+V3: 0
+V4: 0
+V5: 1
+Vertex weight sum = 244
+
+Algorithm 3 : 
+V0: 4
+V1: 2
+V2: 3
+V3: 1
+V4: 1
+V5: 2
+Vertex weight sum = 239
+
+-- Test 30 --
+Algorithm 1 : 
+V0: 1
+V1: 2
+V2: 0
+V3: 3
+V4: 2
+V5: 4
+V6: 0
+Vertex weight sum = 261
+
+Algorithm 2 : 
+V0: 1
+V1: 4
+V2: 0
+V3: 2
+V4: 4
+V5: 3
+V6: 0
+Vertex weight sum = 261
+
+Algorithm 3 : 
+V0: 2
+V1: 3
+V2: 1
+V3: 4
+V4: 3
+V5: 5
+V6: 1
+Vertex weight sum = 261
+
+-- Test 31 --
+Algorithm 1 : 
+V0: 3
+V1: 7
+V2: 4
+V3: 5
+V4: 5
+V5: 1
+V6: 0
+V7: 6
+V8: 3
+V9: 2
+V10: 4
+V11: 2
+V12: 1
+V13: 6
+V14: 5
+V15: 8
+V16: 0
+V17: 2
+Vertex weight sum = 459
+
+Algorithm 2 : 
+V0: 3
+V1: 6
+V2: 7
+V3: 3
+V4: 4
+V5: 1
+V6: 0
+V7: 5
+V8: 4
+V9: 2
+V10: 3
+V11: 2
+V12: 1
+V13: 5
+V14: 7
+V15: 8
+V16: 0
+V17: 2
+Vertex weight sum = 458
+
+Algorithm 3 : 
+V0: 4
+V1: 8
+V2: 5
+V3: 6
+V4: 6
+V5: 2
+V6: 1
+V7: 7
+V8: 4
+V9: 3
+V10: 5
+V11: 3
+V12: 2
+V13: 7
+V14: 6
+V15: 9
+V16: 1
+V17: 3
+Vertex weight sum = 459
+
+-- Test 32 --
+Algorithm 1 : 
+V0: 6
+V1: 3
+V2: 1
+V3: 2
+V4: 1
+V5: 0
+V6: 4
+V7: 0
+V8: 5
+V9: 0
+Vertex weight sum = 448
+
+Algorithm 2 : 
+V0: 1
+V1: 3
+V2: 1
+V3: 2
+V4: 4
+V5: 0
+V6: 4
+V7: 0
+V8: 5
+V9: 0
+Vertex weight sum = 431
+
+Algorithm 3 : 
+V0: 7
+V1: 4
+V2: 2
+V3: 3
+V4: 2
+V5: 1
+V6: 5
+V7: 1
+V8: 6
+V9: 1
+Vertex weight sum = 448
+
+-- Test 33 --
+Algorithm 1 : 
+V0: 4
+V1: 5
+V2: 5
+V3: 3
+V4: 2
+V5: 8
+V6: 3
+V7: 7
+V8: 6
+V9: 1
+V10: 0
+V11: 0
+V12: 6
+V13: 0
+V14: 5
+V15: 1
+V16: 4
+V17: 2
+Vertex weight sum = 506
+
+Algorithm 2 : 
+V0: 1
+V1: 2
+V2: 8
+V3: 3
+V4: 6
+V5: 6
+V6: 7
+V7: 5
+V8: 6
+V9: 1
+V10: 0
+V11: 0
+V12: 4
+V13: 0
+V14: 3
+V15: 4
+V16: 2
+V17: 5
+Vertex weight sum = 650
+
+Algorithm 3 : 
+V0: 5
+V1: 6
+V2: 6
+V3: 4
+V4: 3
+V5: 9
+V6: 4
+V7: 8
+V8: 7
+V9: 2
+V10: 1
+V11: 1
+V12: 7
+V13: 1
+V14: 6
+V15: 2
+V16: 5
+V17: 3
+Vertex weight sum = 506
+
+-- Test 34 --
+Algorithm 1 : 
+V0: 0
+V1: 1
+V2: 2
+V3: 2
+V4: 3
+V5: 0
+V6: 4
+V7: 5
+V8: 1
+Vertex weight sum = 311
+
+Algorithm 2 : 
+V0: 0
+V1: 1
+V2: 2
+V3: 2
+V4: 3
+V5: 0
+V6: 5
+V7: 4
+V8: 1
+Vertex weight sum = 311
+
+Algorithm 3 : 
+V0: 1
+V1: 2
+V2: 3
+V3: 3
+V4: 4
+V5: 1
+V6: 5
+V7: 6
+V8: 2
+Vertex weight sum = 311
+
+-- Test 35 --
+Algorithm 1 : 
+V0: 0
+V1: 2
+V2: 2
+V3: 5
+V4: 1
+V5: 1
+V6: 8
+V7: 7
+V8: 4
+V9: 3
+V10: 0
+V11: 3
+V12: 4
+V13: 0
+V14: 6
+V15: 3
+V16: 2
+Vertex weight sum = 588
+
+Algorithm 2 : 
+V0: 0
+V1: 2
+V2: 1
+V3: 5
+V4: 1
+V5: 3
+V6: 7
+V7: 1
+V8: 4
+V9: 3
+V10: 0
+V11: 3
+V12: 4
+V13: 0
+V14: 6
+V15: 3
+V16: 2
+Vertex weight sum = 560
+
+Algorithm 3 : 
+V0: 1
+V1: 3
+V2: 3
+V3: 6
+V4: 2
+V5: 2
+V6: 9
+V7: 8
+V8: 5
+V9: 4
+V10: 1
+V11: 4
+V12: 5
+V13: 1
+V14: 7
+V15: 4
+V16: 3
+Vertex weight sum = 588
+
+-- Test 36 --
+Algorithm 1 : 
+V0: 1
+V1: 7
+V2: 0
+V3: 3
+V4: 2
+V5: 4
+V6: 6
+V7: 4
+V8: 0
+V9: 5
+V10: 2
+V11: 5
+V12: 0
+V13: 1
+Vertex weight sum = 344
+
+Algorithm 2 : 
+V0: 1
+V1: 6
+V2: 0
+V3: 3
+V4: 2
+V5: 1
+V6: 5
+V7: 1
+V8: 0
+V9: 4
+V10: 2
+V11: 4
+V12: 0
+V13: 7
+Vertex weight sum = 369
+
+Algorithm 3 : 
+V0: 2
+V1: 8
+V2: 1
+V3: 4
+V4: 3
+V5: 5
+V6: 7
+V7: 5
+V8: 1
+V9: 6
+V10: 3
+V11: 6
+V12: 1
+V13: 2
+Vertex weight sum = 344
+
+-- Test 37 --
+Algorithm 1 : 
+V0: 3
+V1: 1
+V2: 5
+V3: 5
+V4: 2
+V5: 4
+V6: 1
+V7: 3
+V8: 0
+V9: 0
+V10: 1
+V11: 8
+V12: 3
+V13: 2
+V14: 0
+V15: 7
+V16: 2
+V17: 5
+V18: 6
+Vertex weight sum = 596
+
+Algorithm 2 : 
+V0: 3
+V1: 1
+V2: 5
+V3: 5
+V4: 8
+V5: 4
+V6: 1
+V7: 3
+V8: 0
+V9: 0
+V10: 1
+V11: 9
+V12: 2
+V13: 2
+V14: 0
+V15: 7
+V16: 2
+V17: 5
+V18: 6
+Vertex weight sum = 636
+
+Algorithm 3 : 
+V0: 4
+V1: 2
+V2: 6
+V3: 6
+V4: 3
+V5: 5
+V6: 2
+V7: 4
+V8: 1
+V9: 1
+V10: 2
+V11: 9
+V12: 4
+V13: 3
+V14: 1
+V15: 8
+V16: 3
+V17: 6
+V18: 7
+Vertex weight sum = 596
+
+-- Test 38 --
+Algorithm 1 : 
+V0: 5
+V1: 3
+V2: 5
+V3: 2
+V4: 2
+V5: 4
+V6: 5
+V7: 1
+V8: 0
+V9: 7
+V10: 1
+V11: 2
+V12: 1
+V13: 2
+V14: 3
+V15: 4
+V16: 6
+V17: 0
+Vertex weight sum = 502
+
+Algorithm 2 : 
+V0: 4
+V1: 3
+V2: 4
+V3: 2
+V4: 2
+V5: 6
+V6: 7
+V7: 1
+V8: 0
+V9: 4
+V10: 1
+V11: 2
+V12: 1
+V13: 2
+V14: 3
+V15: 5
+V16: 5
+V17: 0
+Vertex weight sum = 554
+
+Algorithm 3 : 
+V0: 6
+V1: 4
+V2: 6
+V3: 3
+V4: 3
+V5: 5
+V6: 6
+V7: 2
+V8: 1
+V9: 8
+V10: 2
+V11: 3
+V12: 2
+V13: 3
+V14: 4
+V15: 5
+V16: 7
+V17: 1
+Vertex weight sum = 502
+
+-- Test 39 --
+Algorithm 1 : 
+V0: 3
+V1: 5
+V2: 0
+V3: 0
+V4: 1
+V5: 2
+V6: 4
+V7: 0
+V8: 3
+Vertex weight sum = 271
+
+Algorithm 2 : 
+V0: 2
+V1: 5
+V2: 0
+V3: 0
+V4: 1
+V5: 4
+V6: 3
+V7: 0
+V8: 2
+Vertex weight sum = 271
+
+Algorithm 3 : 
+V0: 4
+V1: 6
+V2: 1
+V3: 1
+V4: 2
+V5: 3
+V6: 5
+V7: 1
+V8: 4
+Vertex weight sum = 271
+
+-- Test 40 --
+Algorithm 1 : 
+V0: 7
+V1: 3
+V2: 3
+V3: 0
+V4: 4
+V5: 1
+V6: 5
+V7: 1
+V8: 8
+V9: 2
+V10: 1
+V11: 0
+V12: 4
+V13: 5
+V14: 6
+V15: 2
+Vertex weight sum = 602
+
+Algorithm 2 : 
+V0: 7
+V1: 3
+V2: 3
+V3: 0
+V4: 4
+V5: 1
+V6: 5
+V7: 1
+V8: 8
+V9: 2
+V10: 1
+V11: 0
+V12: 4
+V13: 5
+V14: 6
+V15: 2
+Vertex weight sum = 602
+
+Algorithm 3 : 
+V0: 8
+V1: 4
+V2: 4
+V3: 1
+V4: 5
+V5: 2
+V6: 6
+V7: 2
+V8: 9
+V9: 3
+V10: 2
+V11: 1
+V12: 5
+V13: 6
+V14: 7
+V15: 3
+Vertex weight sum = 602
+
+-- Test 41 --
+Algorithm 1 : 
+V0: 2
+V1: 3
+V2: 0
+V3: 0
+V4: 2
+V5: 1
+V6: 3
+V7: 0
+Vertex weight sum = 233
+
+Algorithm 2 : 
+V0: 4
+V1: 3
+V2: 0
+V3: 0
+V4: 2
+V5: 1
+V6: 2
+V7: 0
+Vertex weight sum = 272
+
+Algorithm 3 : 
+V0: 3
+V1: 4
+V2: 1
+V3: 1
+V4: 3
+V5: 2
+V6: 4
+V7: 1
+Vertex weight sum = 233
+
+-- Test 42 --
+Algorithm 1 : 
+V0: 4
+V1: 1
+V2: 2
+V3: 0
+V4: 1
+V5: 1
+V6: 3
+V7: 3
+V8: 0
+V9: 4
+Vertex weight sum = 215
+
+Algorithm 2 : 
+V0: 4
+V1: 1
+V2: 2
+V3: 0
+V4: 1
+V5: 1
+V6: 3
+V7: 3
+V8: 0
+V9: 4
+Vertex weight sum = 215
+
+Algorithm 3 : 
+V0: 5
+V1: 2
+V2: 3
+V3: 1
+V4: 2
+V5: 2
+V6: 4
+V7: 4
+V8: 1
+V9: 5
+Vertex weight sum = 215
+
+-- Test 43 --
+Algorithm 1 : 
+V0: 0
+V1: 1
+V2: 3
+V3: 2
+V4: 1
+V5: 0
+Vertex weight sum = 182
+
+Algorithm 2 : 
+V0: 0
+V1: 1
+V2: 3
+V3: 2
+V4: 1
+V5: 0
+Vertex weight sum = 182
+
+Algorithm 3 : 
+V0: 1
+V1: 2
+V2: 4
+V3: 3
+V4: 2
+V5: 1
+Vertex weight sum = 182
+
+-- Test 44 --
+Algorithm 1 : 
+V0: 2
+V1: 7
+V2: 2
+V3: 0
+V4: 3
+V5: 0
+V6: 2
+V7: 5
+V8: 3
+V9: 5
+V10: 4
+V11: 0
+V12: 7
+V13: 1
+V14: 0
+V15: 6
+V16: 1
+Vertex weight sum = 534
+
+Algorithm 2 : 
+V0: 2
+V1: 7
+V2: 2
+V3: 0
+V4: 3
+V5: 0
+V6: 2
+V7: 5
+V8: 3
+V9: 5
+V10: 4
+V11: 0
+V12: 7
+V13: 1
+V14: 0
+V15: 6
+V16: 1
+Vertex weight sum = 534
+
+Algorithm 3 : 
+V0: 3
+V1: 8
+V2: 3
+V3: 1
+V4: 4
+V5: 1
+V6: 3
+V7: 6
+V8: 4
+V9: 6
+V10: 5
+V11: 1
+V12: 8
+V13: 2
+V14: 1
+V15: 7
+V16: 2
+Vertex weight sum = 534
+
+-- Test 45 --
+Algorithm 1 : 
+V0: 5
+V1: 2
+V2: 0
+V3: 4
+V4: 3
+V5: 7
+V6: 4
+V7: 0
+V8: 0
+V9: 8
+V10: 4
+V11: 3
+V12: 3
+V13: 1
+V14: 1
+V15: 2
+V16: 6
+V17: 6
+V18: 5
+Vertex weight sum = 492
+
+Algorithm 2 : 
+V0: 4
+V1: 2
+V2: 0
+V3: 3
+V4: 2
+V5: 6
+V6: 3
+V7: 0
+V8: 0
+V9: 7
+V10: 3
+V11: 2
+V12: 2
+V13: 1
+V14: 1
+V15: 7
+V16: 5
+V17: 5
+V18: 4
+Vertex weight sum = 484
+
+Algorithm 3 : 
+V0: 6
+V1: 3
+V2: 1
+V3: 5
+V4: 4
+V5: 8
+V6: 5
+V7: 1
+V8: 1
+V9: 9
+V10: 5
+V11: 4
+V12: 4
+V13: 2
+V14: 2
+V15: 3
+V16: 7
+V17: 7
+V18: 6
+Vertex weight sum = 492
+
+-- Test 46 --
+Algorithm 1 : 
+V0: 3
+V1: 0
+V2: 0
+V3: 5
+V4: 4
+V5: 6
+V6: 1
+V7: 4
+V8: 1
+V9: 2
+V10: 2
+V11: 0
+V12: 1
+Vertex weight sum = 311
+
+Algorithm 2 : 
+V0: 3
+V1: 0
+V2: 0
+V3: 5
+V4: 4
+V5: 6
+V6: 1
+V7: 4
+V8: 1
+V9: 2
+V10: 2
+V11: 0
+V12: 1
+Vertex weight sum = 311
+
+Algorithm 3 : 
+V0: 4
+V1: 1
+V2: 1
+V3: 6
+V4: 5
+V5: 7
+V6: 2
+V7: 5
+V8: 2
+V9: 3
+V10: 3
+V11: 1
+V12: 2
+Vertex weight sum = 311
+
+-- Test 47 --
+Algorithm 1 : 
+V0: 0
+V1: 3
+V2: 0
+V3: 0
+V4: 6
+V5: 2
+V6: 1
+V7: 1
+V8: 4
+V9: 3
+V10: 4
+V11: 2
+V12: 5
+Vertex weight sum = 384
+
+Algorithm 2 : 
+V0: 0
+V1: 3
+V2: 0
+V3: 0
+V4: 5
+V5: 2
+V6: 1
+V7: 1
+V8: 4
+V9: 3
+V10: 4
+V11: 2
+V12: 6
+Vertex weight sum = 384
+
+Algorithm 3 : 
+V0: 1
+V1: 4
+V2: 1
+V3: 1
+V4: 7
+V5: 3
+V6: 2
+V7: 2
+V8: 5
+V9: 4
+V10: 5
+V11: 3
+V12: 6
+Vertex weight sum = 384
+
+-- Test 48 --
+Algorithm 1 : 
+V0: 4
+V1: 3
+V2: 5
+V3: 0
+V4: 3
+V5: 0
+V6: 1
+V7: 6
+V8: 1
+V9: 0
+V10: 6
+V11: 2
+V12: 4
+Vertex weight sum = 419
+
+Algorithm 2 : 
+V0: 3
+V1: 4
+V2: 6
+V3: 0
+V4: 4
+V5: 0
+V6: 1
+V7: 5
+V8: 1
+V9: 0
+V10: 5
+V11: 2
+V12: 3
+Vertex weight sum = 419
+
+Algorithm 3 : 
+V0: 5
+V1: 4
+V2: 6
+V3: 1
+V4: 4
+V5: 1
+V6: 2
+V7: 7
+V8: 2
+V9: 1
+V10: 7
+V11: 3
+V12: 5
+Vertex weight sum = 419
+
+-- Test 49 --
+Algorithm 1 : 
+V0: 1
+V1: 1
+V2: 2
+V3: 0
+V4: 0
+Vertex weight sum = 265
+
+Algorithm 2 : 
+V0: 2
+V1: 2
+V2: 1
+V3: 0
+V4: 0
+Vertex weight sum = 265
+
+Algorithm 3 : 
+V0: 2
+V1: 2
+V2: 3
+V3: 1
+V4: 1
+Vertex weight sum = 265
+
+-- Test 50 --
+Algorithm 1 : 
+V0: 0
+V1: 0
+V2: 3
+V3: 2
+V4: 1
+Vertex weight sum = 234
+
+Algorithm 2 : 
+V0: 0
+V1: 0
+V2: 3
+V3: 2
+V4: 1
+Vertex weight sum = 234
+
+Algorithm 3 : 
+V0: 1
+V1: 1
+V2: 4
+V3: 3
+V4: 2
+Vertex weight sum = 234
+
+-- Test 51 --
+Algorithm 1 : 
+V0: 4
+V1: 6
+V2: 1
+V3: 0
+V4: 6
+V5: 7
+V6: 2
+V7: 4
+V8: 1
+V9: 2
+V10: 5
+V11: 3
+V12: 2
+V13: 3
+V14: 5
+Vertex weight sum = 478
+
+Algorithm 2 : 
+V0: 4
+V1: 6
+V2: 1
+V3: 0
+V4: 6
+V5: 7
+V6: 2
+V7: 4
+V8: 1
+V9: 2
+V10: 5
+V11: 3
+V12: 2
+V13: 3
+V14: 5
+Vertex weight sum = 478
+
+Algorithm 3 : 
+V0: 5
+V1: 7
+V2: 2
+V3: 1
+V4: 7
+V5: 8
+V6: 3
+V7: 5
+V8: 2
+V9: 3
+V10: 6
+V11: 4
+V12: 3
+V13: 4
+V14: 6
+Vertex weight sum = 478
+
+-- Test 52 --
+Algorithm 1 : 
+V0: 4
+V1: 5
+V2: 0
+V3: 3
+V4: 3
+V5: 1
+V6: 0
+V7: 2
+V8: 0
+V9: 4
+V10: 6
+V11: 1
+Vertex weight sum = 384
+
+Algorithm 2 : 
+V0: 3
+V1: 5
+V2: 0
+V3: 4
+V4: 4
+V5: 1
+V6: 0
+V7: 2
+V8: 0
+V9: 3
+V10: 6
+V11: 1
+Vertex weight sum = 384
+
+Algorithm 3 : 
+V0: 5
+V1: 6
+V2: 1
+V3: 4
+V4: 4
+V5: 2
+V6: 1
+V7: 3
+V8: 1
+V9: 5
+V10: 7
+V11: 2
+Vertex weight sum = 384
+
+-- Test 53 --
+Algorithm 1 : 
+V0: 1
+V1: 1
+V2: 3
+V3: 0
+V4: 0
+V5: 2
+V6: 2
+Vertex weight sum = 261
+
+Algorithm 2 : 
+V0: 1
+V1: 1
+V2: 3
+V3: 0
+V4: 0
+V5: 2
+V6: 2
+Vertex weight sum = 261
+
+Algorithm 3 : 
+V0: 2
+V1: 2
+V2: 4
+V3: 1
+V4: 1
+V5: 3
+V6: 3
+Vertex weight sum = 261
+
+-- Test 54 --
+Algorithm 1 : 
+V0: 8
+V1: 2
+V2: 4
+V3: 2
+V4: 9
+V5: 5
+V6: 0
+V7: 3
+V8: 4
+V9: 6
+V10: 0
+V11: 7
+V12: 2
+V13: 1
+Vertex weight sum = 504
+
+Algorithm 2 : 
+V0: 6
+V1: 2
+V2: 4
+V3: 2
+V4: 7
+V5: 5
+V6: 0
+V7: 3
+V8: 4
+V9: 8
+V10: 0
+V11: 9
+V12: 2
+V13: 1
+Vertex weight sum = 504
+
+Algorithm 3 : 
+V0: 9
+V1: 3
+V2: 5
+V3: 3
+V4: 10
+V5: 6
+V6: 1
+V7: 4
+V8: 5
+V9: 7
+V10: 1
+V11: 8
+V12: 3
+V13: 2
+Vertex weight sum = 504
+
+-- Test 55 --
+Algorithm 1 : 
+V0: 3
+V1: 7
+V2: 2
+V3: 8
+V4: 9
+V5: 5
+V6: 4
+V7: 7
+V8: 0
+V9: 8
+V10: 6
+V11: 0
+V12: 1
+V13: 1
+V14: 1
+V15: 10
+V16: 3
+V17: 0
+Vertex weight sum = 578
+
+Algorithm 2 : 
+V0: 3
+V1: 7
+V2: 2
+V3: 8
+V4: 9
+V5: 5
+V6: 4
+V7: 7
+V8: 0
+V9: 8
+V10: 6
+V11: 0
+V12: 1
+V13: 1
+V14: 1
+V15: 10
+V16: 3
+V17: 0
+Vertex weight sum = 578
+
+Algorithm 3 : 
+V0: 4
+V1: 8
+V2: 3
+V3: 9
+V4: 10
+V5: 6
+V6: 5
+V7: 8
+V8: 1
+V9: 9
+V10: 7
+V11: 1
+V12: 2
+V13: 2
+V14: 2
+V15: 11
+V16: 4
+V17: 1
+Vertex weight sum = 578
+
+-- Test 56 --
+Algorithm 1 : 
+V0: 3
+V1: 1
+V2: 2
+V3: 2
+V4: 0
+V5: 0
+Vertex weight sum = 174
+
+Algorithm 2 : 
+V0: 2
+V1: 3
+V2: 1
+V3: 1
+V4: 0
+V5: 0
+Vertex weight sum = 174
+
+Algorithm 3 : 
+V0: 4
+V1: 2
+V2: 3
+V3: 3
+V4: 1
+V5: 1
+Vertex weight sum = 174
+
+-- Test 57 --
+Algorithm 1 : 
+V0: 8
+V1: 2
+V2: 4
+V3: 7
+V4: 3
+V5: 0
+V6: 6
+V7: 4
+V8: 0
+V9: 3
+V10: 5
+V11: 8
+V12: 1
+V13: 1
+V14: 2
+V15: 0
+Vertex weight sum = 680
+
+Algorithm 2 : 
+V0: 8
+V1: 2
+V2: 5
+V3: 7
+V4: 3
+V5: 0
+V6: 6
+V7: 5
+V8: 0
+V9: 3
+V10: 4
+V11: 8
+V12: 1
+V13: 1
+V14: 2
+V15: 0
+Vertex weight sum = 680
+
+Algorithm 3 : 
+V0: 9
+V1: 3
+V2: 5
+V3: 8
+V4: 4
+V5: 1
+V6: 7
+V7: 5
+V8: 1
+V9: 4
+V10: 6
+V11: 9
+V12: 2
+V13: 2
+V14: 3
+V15: 1
+Vertex weight sum = 680
+
+-- Test 58 --
+Algorithm 1 : 
+V0: 2
+V1: 2
+V2: 0
+V3: 3
+V4: 2
+V5: 1
+V6: 0
+V7: 1
+Vertex weight sum = 261
+
+Algorithm 2 : 
+V0: 0
+V1: 2
+V2: 4
+V3: 3
+V4: 0
+V5: 1
+V6: 0
+V7: 1
+Vertex weight sum = 322
+
+Algorithm 3 : 
+V0: 3
+V1: 3
+V2: 1
+V3: 4
+V4: 3
+V5: 2
+V6: 1
+V7: 2
+Vertex weight sum = 261
+
+-- Test 59 --
+Algorithm 1 : 
+V0: 2
+V1: 3
+V2: 2
+V3: 0
+V4: 3
+V5: 4
+V6: 4
+V7: 0
+V8: 1
+V9: 3
+V10: 0
+V11: 6
+V12: 5
+V13: 5
+V14: 1
+V15: 5
+V16: 0
+Vertex weight sum = 451
+
+Algorithm 2 : 
+V0: 2
+V1: 5
+V2: 2
+V3: 0
+V4: 5
+V5: 3
+V6: 3
+V7: 0
+V8: 1
+V9: 5
+V10: 0
+V11: 6
+V12: 4
+V13: 4
+V14: 1
+V15: 4
+V16: 0
+Vertex weight sum = 451
+
+Algorithm 3 : 
+V0: 3
+V1: 4
+V2: 3
+V3: 1
+V4: 4
+V5: 5
+V6: 5
+V7: 1
+V8: 2
+V9: 4
+V10: 1
+V11: 7
+V12: 6
+V13: 6
+V14: 2
+V15: 6
+V16: 1
+Vertex weight sum = 451
+
+-- Test 60 --
+Algorithm 1 : 
+V0: 0
+V1: 4
+V2: 7
+V3: 5
+V4: 2
+V5: 2
+V6: 8
+V7: 1
+V8: 3
+V9: 1
+V10: 6
+V11: 0
+V12: 2
+Vertex weight sum = 592
+
+Algorithm 2 : 
+V0: 0
+V1: 4
+V2: 2
+V3: 5
+V4: 2
+V5: 7
+V6: 8
+V7: 1
+V8: 3
+V9: 1
+V10: 6
+V11: 0
+V12: 2
+Vertex weight sum = 631
+
+Algorithm 3 : 
+V0: 1
+V1: 5
+V2: 8
+V3: 6
+V4: 3
+V5: 3
+V6: 9
+V7: 2
+V8: 4
+V9: 2
+V10: 7
+V11: 1
+V12: 3
+Vertex weight sum = 592
+
+-- Test 61 --
+Algorithm 1 : 
+V0: 3
+V1: 0
+V2: 0
+V3: 3
+V4: 3
+V5: 4
+V6: 2
+V7: 2
+V8: 1
+V9: 4
+V10: 1
+Vertex weight sum = 265
+
+Algorithm 2 : 
+V0: 3
+V1: 0
+V2: 0
+V3: 3
+V4: 3
+V5: 4
+V6: 2
+V7: 2
+V8: 1
+V9: 4
+V10: 1
+Vertex weight sum = 265
+
+Algorithm 3 : 
+V0: 4
+V1: 1
+V2: 1
+V3: 4
+V4: 4
+V5: 5
+V6: 3
+V7: 3
+V8: 2
+V9: 5
+V10: 2
+Vertex weight sum = 265
+
+-- Test 62 --
+Algorithm 1 : 
+V0: 1
+V1: 1
+V2: 3
+V3: 2
+V4: 3
+V5: 1
+V6: 0
+V7: 4
+V8: 0
+V9: 2
+V10: 4
+Vertex weight sum = 288
+
+Algorithm 2 : 
+V0: 1
+V1: 1
+V2: 3
+V3: 2
+V4: 3
+V5: 1
+V6: 0
+V7: 4
+V8: 0
+V9: 2
+V10: 4
+Vertex weight sum = 288
+
+Algorithm 3 : 
+V0: 2
+V1: 2
+V2: 4
+V3: 3
+V4: 4
+V5: 2
+V6: 1
+V7: 5
+V8: 1
+V9: 3
+V10: 5
+Vertex weight sum = 288
+
+-- Test 63 --
+Algorithm 1 : 
+V0: 7
+V1: 0
+V2: 3
+V3: 0
+V4: 5
+V5: 2
+V6: 2
+V7: 1
+V8: 2
+V9: 4
+V10: 7
+V11: 0
+V12: 3
+V13: 6
+V14: 3
+V15: 1
+V16: 1
+Vertex weight sum = 418
+
+Algorithm 2 : 
+V0: 7
+V1: 0
+V2: 3
+V3: 0
+V4: 5
+V5: 2
+V6: 2
+V7: 1
+V8: 1
+V9: 4
+V10: 7
+V11: 0
+V12: 2
+V13: 6
+V14: 3
+V15: 1
+V16: 6
+Vertex weight sum = 460
+
+Algorithm 3 : 
+V0: 8
+V1: 1
+V2: 4
+V3: 1
+V4: 6
+V5: 3
+V6: 3
+V7: 2
+V8: 3
+V9: 5
+V10: 8
+V11: 1
+V12: 4
+V13: 7
+V14: 4
+V15: 2
+V16: 2
+Vertex weight sum = 418
+
+-- Test 64 --
+Algorithm 1 : 
+V0: 8
+V1: 2
+V2: 4
+V3: 8
+V4: 5
+V5: 3
+V6: 9
+V7: 6
+V8: 6
+V9: 1
+V10: 6
+V11: 1
+V12: 5
+V13: 7
+V14: 3
+V15: 2
+V16: 0
+V17: 4
+V18: 0
+Vertex weight sum = 629
+
+Algorithm 2 : 
+V0: 8
+V1: 2
+V2: 4
+V3: 7
+V4: 8
+V5: 3
+V6: 9
+V7: 5
+V8: 5
+V9: 1
+V10: 5
+V11: 1
+V12: 7
+V13: 6
+V14: 3
+V15: 2
+V16: 0
+V17: 4
+V18: 0
+Vertex weight sum = 630
+
+Algorithm 3 : 
+V0: 9
+V1: 3
+V2: 5
+V3: 9
+V4: 6
+V5: 4
+V6: 10
+V7: 7
+V8: 7
+V9: 2
+V10: 7
+V11: 2
+V12: 6
+V13: 8
+V14: 4
+V15: 3
+V16: 1
+V17: 5
+V18: 1
+Vertex weight sum = 629
+
+-- Test 65 --
+Algorithm 1 : 
+V0: 1
+V1: 3
+V2: 2
+V3: 0
+V4: 0
+V5: 2
+V6: 1
+V7: 2
+Vertex weight sum = 283
+
+Algorithm 2 : 
+V0: 4
+V1: 3
+V2: 1
+V3: 0
+V4: 0
+V5: 2
+V6: 1
+V7: 1
+Vertex weight sum = 329
+
+Algorithm 3 : 
+V0: 2
+V1: 4
+V2: 3
+V3: 1
+V4: 1
+V5: 3
+V6: 2
+V7: 3
+Vertex weight sum = 283
+
+-- Test 66 --
+Algorithm 1 : 
+V0: 1
+V1: 1
+V2: 4
+V3: 3
+V4: 0
+V5: 0
+V6: 2
+V7: 2
+Vertex weight sum = 297
+
+Algorithm 2 : 
+V0: 1
+V1: 1
+V2: 4
+V3: 3
+V4: 0
+V5: 0
+V6: 2
+V7: 2
+Vertex weight sum = 297
+
+Algorithm 3 : 
+V0: 2
+V1: 2
+V2: 5
+V3: 4
+V4: 1
+V5: 1
+V6: 3
+V7: 3
+Vertex weight sum = 297
+
+-- Test 67 --
+Algorithm 1 : 
+V0: 3
+V1: 0
+V2: 2
+V3: 4
+V4: 0
+V5: 0
+V6: 0
+V7: 1
+V8: 7
+V9: 2
+V10: 2
+V11: 7
+V12: 1
+V13: 8
+V14: 3
+V15: 6
+V16: 5
+V17: 4
+V18: 6
+Vertex weight sum = 564
+
+Algorithm 2 : 
+V0: 3
+V1: 0
+V2: 2
+V3: 8
+V4: 0
+V5: 0
+V6: 0
+V7: 1
+V8: 6
+V9: 2
+V10: 1
+V11: 7
+V12: 5
+V13: 9
+V14: 3
+V15: 6
+V16: 5
+V17: 4
+V18: 4
+Vertex weight sum = 631
+
+Algorithm 3 : 
+V0: 4
+V1: 1
+V2: 3
+V3: 5
+V4: 1
+V5: 1
+V6: 1
+V7: 2
+V8: 8
+V9: 3
+V10: 3
+V11: 8
+V12: 2
+V13: 9
+V14: 4
+V15: 7
+V16: 6
+V17: 5
+V18: 7
+Vertex weight sum = 564
+
+-- Test 68 --
+Algorithm 1 : 
+V0: 3
+V1: 6
+V2: 0
+V3: 3
+V4: 2
+V5: 4
+V6: 7
+V7: 1
+V8: 6
+V9: 4
+V10: 8
+V11: 5
+V12: 0
+V13: 0
+V14: 2
+V15: 3
+Vertex weight sum = 580
+
+Algorithm 2 : 
+V0: 2
+V1: 5
+V2: 0
+V3: 2
+V4: 1
+V5: 3
+V6: 3
+V7: 7
+V8: 5
+V9: 8
+V10: 6
+V11: 4
+V12: 0
+V13: 0
+V14: 1
+V15: 2
+Vertex weight sum = 621
+
+Algorithm 3 : 
+V0: 4
+V1: 7
+V2: 1
+V3: 4
+V4: 3
+V5: 5
+V6: 8
+V7: 2
+V8: 7
+V9: 5
+V10: 9
+V11: 6
+V12: 1
+V13: 1
+V14: 3
+V15: 4
+Vertex weight sum = 580
+
+-- Test 69 --
+Algorithm 1 : 
+V0: 2
+V1: 3
+V2: 1
+V3: 0
+V4: 2
+V5: 1
+V6: 1
+Vertex weight sum = 221
+
+Algorithm 2 : 
+V0: 2
+V1: 3
+V2: 1
+V3: 0
+V4: 2
+V5: 1
+V6: 1
+Vertex weight sum = 221
+
+Algorithm 3 : 
+V0: 3
+V1: 4
+V2: 2
+V3: 1
+V4: 3
+V5: 2
+V6: 2
+Vertex weight sum = 221
+
+-- Test 70 --
+Algorithm 1 : 
+V0: 0
+V1: 1
+V2: 3
+V3: 4
+V4: 1
+V5: 2
+V6: 0
+V7: 3
+V8: 7
+V9: 5
+V10: 0
+V11: 8
+V12: 6
+V13: 2
+V14: 6
+V15: 4
+Vertex weight sum = 522
+
+Algorithm 2 : 
+V0: 0
+V1: 1
+V2: 3
+V3: 4
+V4: 1
+V5: 2
+V6: 0
+V7: 3
+V8: 7
+V9: 5
+V10: 0
+V11: 8
+V12: 6
+V13: 2
+V14: 6
+V15: 4
+Vertex weight sum = 522
+
+Algorithm 3 : 
+V0: 1
+V1: 2
+V2: 4
+V3: 5
+V4: 2
+V5: 3
+V6: 1
+V7: 4
+V8: 8
+V9: 6
+V10: 1
+V11: 9
+V12: 7
+V13: 3
+V14: 7
+V15: 5
+Vertex weight sum = 522
+
+-- Test 71 --
+Algorithm 1 : 
+V0: 0
+V1: 3
+V2: 2
+V3: 1
+V4: 4
+V5: 2
+Vertex weight sum = 276
+
+Algorithm 2 : 
+V0: 0
+V1: 3
+V2: 2
+V3: 1
+V4: 4
+V5: 2
+Vertex weight sum = 276
+
+Algorithm 3 : 
+V0: 1
+V1: 4
+V2: 3
+V3: 2
+V4: 5
+V5: 3
+Vertex weight sum = 276
+
+-- Test 72 --
+Algorithm 1 : 
+V0: 1
+V1: 5
+V2: 1
+V3: 5
+V4: 7
+V5: 0
+V6: 6
+V7: 4
+V8: 8
+V9: 0
+V10: 9
+V11: 7
+V12: 1
+V13: 8
+V14: 2
+V15: 6
+V16: 0
+V17: 4
+V18: 3
+Vertex weight sum = 574
+
+Algorithm 2 : 
+V0: 1
+V1: 4
+V2: 1
+V3: 8
+V4: 8
+V5: 0
+V6: 3
+V7: 2
+V8: 5
+V9: 0
+V10: 5
+V11: 4
+V12: 1
+V13: 9
+V14: 6
+V15: 3
+V16: 0
+V17: 2
+V18: 7
+Vertex weight sum = 583
+
+Algorithm 3 : 
+V0: 2
+V1: 6
+V2: 2
+V3: 6
+V4: 8
+V5: 1
+V6: 7
+V7: 5
+V8: 9
+V9: 1
+V10: 10
+V11: 8
+V12: 2
+V13: 9
+V14: 3
+V15: 7
+V16: 1
+V17: 5
+V18: 4
+Vertex weight sum = 574
+
+-- Test 73 --
+Algorithm 1 : 
+V0: 2
+V1: 1
+V2: 2
+V3: 6
+V4: 4
+V5: 5
+V6: 4
+V7: 0
+V8: 1
+V9: 1
+V10: 5
+V11: 3
+V12: 7
+V13: 0
+V14: 6
+V15: 4
+Vertex weight sum = 502
+
+Algorithm 2 : 
+V0: 2
+V1: 1
+V2: 2
+V3: 6
+V4: 4
+V5: 5
+V6: 4
+V7: 0
+V8: 1
+V9: 1
+V10: 5
+V11: 3
+V12: 7
+V13: 0
+V14: 6
+V15: 4
+Vertex weight sum = 502
+
+Algorithm 3 : 
+V0: 3
+V1: 2
+V2: 3
+V3: 7
+V4: 5
+V5: 6
+V6: 5
+V7: 1
+V8: 2
+V9: 2
+V10: 6
+V11: 4
+V12: 8
+V13: 1
+V14: 7
+V15: 5
+Vertex weight sum = 502
+
+-- Test 74 --
+Algorithm 1 : 
+V0: 7
+V1: 4
+V2: 4
+V3: 1
+V4: 3
+V5: 5
+V6: 6
+V7: 0
+V8: 3
+V9: 2
+V10: 2
+V11: 5
+V12: 8
+V13: 0
+V14: 3
+V15: 1
+Vertex weight sum = 535
+
+Algorithm 2 : 
+V0: 6
+V1: 4
+V2: 4
+V3: 1
+V4: 3
+V5: 5
+V6: 5
+V7: 0
+V8: 3
+V9: 2
+V10: 2
+V11: 6
+V12: 7
+V13: 0
+V14: 3
+V15: 1
+Vertex weight sum = 507
+
+Algorithm 3 : 
+V0: 8
+V1: 5
+V2: 5
+V3: 2
+V4: 4
+V5: 6
+V6: 7
+V7: 1
+V8: 4
+V9: 3
+V10: 3
+V11: 6
+V12: 9
+V13: 1
+V14: 4
+V15: 2
+Vertex weight sum = 535
+
+-- Test 75 --
+Algorithm 1 : 
+V0: 5
+V1: 4
+V2: 3
+V3: 5
+V4: 2
+V5: 5
+V6: 0
+V7: 7
+V8: 1
+V9: 6
+V10: 6
+V11: 1
+V12: 3
+V13: 8
+V14: 0
+Vertex weight sum = 563
+
+Algorithm 2 : 
+V0: 5
+V1: 4
+V2: 3
+V3: 5
+V4: 2
+V5: 5
+V6: 0
+V7: 7
+V8: 1
+V9: 6
+V10: 6
+V11: 1
+V12: 3
+V13: 8
+V14: 0
+Vertex weight sum = 563
+
+Algorithm 3 : 
+V0: 6
+V1: 5
+V2: 4
+V3: 6
+V4: 3
+V5: 6
+V6: 1
+V7: 8
+V8: 2
+V9: 7
+V10: 7
+V11: 2
+V12: 4
+V13: 9
+V14: 1
+Vertex weight sum = 563
+
+-- Test 76 --
+Algorithm 1 : 
+V0: 1
+V1: 5
+V2: 3
+V3: 0
+V4: 4
+V5: 4
+V6: 2
+V7: 4
+V8: 2
+V9: 3
+V10: 1
+V11: 0
+Vertex weight sum = 386
+
+Algorithm 2 : 
+V0: 1
+V1: 5
+V2: 3
+V3: 0
+V4: 4
+V5: 4
+V6: 2
+V7: 4
+V8: 2
+V9: 3
+V10: 1
+V11: 0
+Vertex weight sum = 386
+
+Algorithm 3 : 
+V0: 2
+V1: 6
+V2: 4
+V3: 1
+V4: 5
+V5: 5
+V6: 3
+V7: 5
+V8: 3
+V9: 4
+V10: 2
+V11: 1
+Vertex weight sum = 386
+
+-- Test 77 --
+Algorithm 1 : 
+V0: 1
+V1: 0
+V2: 0
+V3: 1
+V4: 2
+Vertex weight sum = 191
+
+Algorithm 2 : 
+V0: 1
+V1: 0
+V2: 0
+V3: 1
+V4: 2
+Vertex weight sum = 191
+
+Algorithm 3 : 
+V0: 2
+V1: 1
+V2: 1
+V3: 2
+V4: 3
+Vertex weight sum = 191
+
+-- Test 78 --
+Algorithm 1 : 
+V0: 1
+V1: 0
+V2: 0
+V3: 2
+V4: 1
+V5: 3
+Vertex weight sum = 245
+
+Algorithm 2 : 
+V0: 1
+V1: 0
+V2: 0
+V3: 2
+V4: 1
+V5: 3
+Vertex weight sum = 245
+
+Algorithm 3 : 
+V0: 2
+V1: 1
+V2: 1
+V3: 3
+V4: 2
+V5: 4
+Vertex weight sum = 245
+
+-- Test 79 --
+Algorithm 1 : 
+V0: 0
+V1: 2
+V2: 4
+V3: 0
+V4: 4
+V5: 0
+V6: 6
+V7: 3
+V8: 5
+V9: 2
+V10: 1
+V11: 6
+V12: 6
+V13: 3
+V14: 5
+V15: 1
+Vertex weight sum = 557
+
+Algorithm 2 : 
+V0: 0
+V1: 2
+V2: 7
+V3: 0
+V4: 4
+V5: 0
+V6: 6
+V7: 3
+V8: 5
+V9: 2
+V10: 1
+V11: 6
+V12: 4
+V13: 3
+V14: 5
+V15: 1
+Vertex weight sum = 595
+
+Algorithm 3 : 
+V0: 1
+V1: 3
+V2: 5
+V3: 1
+V4: 5
+V5: 1
+V6: 7
+V7: 4
+V8: 6
+V9: 3
+V10: 2
+V11: 7
+V12: 7
+V13: 4
+V14: 6
+V15: 2
+Vertex weight sum = 557
+
+-- Test 80 --
+Algorithm 1 : 
+V0: 0
+V1: 3
+V2: 2
+V3: 1
+V4: 1
+V5: 0
+Vertex weight sum = 193
+
+Algorithm 2 : 
+V0: 0
+V1: 3
+V2: 1
+V3: 2
+V4: 2
+V5: 0
+Vertex weight sum = 193
+
+Algorithm 3 : 
+V0: 1
+V1: 4
+V2: 3
+V3: 2
+V4: 2
+V5: 1
+Vertex weight sum = 193
+
+-- Test 81 --
+Algorithm 1 : 
+V0: 0
+V1: 2
+V2: 3
+V3: 0
+V4: 3
+V5: 1
+V6: 1
+Vertex weight sum = 263
+
+Algorithm 2 : 
+V0: 0
+V1: 1
+V2: 2
+V3: 0
+V4: 2
+V5: 3
+V6: 3
+Vertex weight sum = 263
+
+Algorithm 3 : 
+V0: 1
+V1: 3
+V2: 4
+V3: 1
+V4: 4
+V5: 2
+V6: 2
+Vertex weight sum = 263
+
+-- Test 82 --
+Algorithm 1 : 
+V0: 0
+V1: 1
+V2: 2
+V3: 3
+V4: 0
+V5: 1
+V6: 0
+V7: 2
+Vertex weight sum = 188
+
+Algorithm 2 : 
+V0: 0
+V1: 3
+V2: 1
+V3: 2
+V4: 0
+V5: 2
+V6: 0
+V7: 1
+Vertex weight sum = 229
+
+Algorithm 3 : 
+V0: 1
+V1: 2
+V2: 3
+V3: 4
+V4: 1
+V5: 2
+V6: 1
+V7: 3
+Vertex weight sum = 188
+
+-- Test 83 --
+Algorithm 1 : 
+V0: 2
+V1: 0
+V2: 1
+V3: 1
+V4: 1
+V5: 0
+Vertex weight sum = 219
+
+Algorithm 2 : 
+V0: 2
+V1: 0
+V2: 1
+V3: 1
+V4: 1
+V5: 0
+Vertex weight sum = 219
+
+Algorithm 3 : 
+V0: 3
+V1: 1
+V2: 2
+V3: 2
+V4: 2
+V5: 1
+Vertex weight sum = 219
+
+-- Test 84 --
+Algorithm 1 : 
+V0: 1
+V1: 5
+V2: 0
+V3: 3
+V4: 4
+V5: 0
+V6: 4
+V7: 6
+V8: 0
+V9: 7
+V10: 2
+V11: 2
+V12: 3
+Vertex weight sum = 498
+
+Algorithm 2 : 
+V0: 1
+V1: 4
+V2: 6
+V3: 2
+V4: 3
+V5: 0
+V6: 3
+V7: 5
+V8: 5
+V9: 6
+V10: 7
+V11: 0
+V12: 2
+Vertex weight sum = 498
+
+Algorithm 3 : 
+V0: 2
+V1: 6
+V2: 1
+V3: 4
+V4: 5
+V5: 1
+V6: 5
+V7: 7
+V8: 1
+V9: 8
+V10: 3
+V11: 3
+V12: 4
+Vertex weight sum = 498
+
+-- Test 85 --
+Algorithm 1 : 
+V0: 1
+V1: 2
+V2: 0
+V3: 0
+V4: 3
+V5: 1
+Vertex weight sum = 276
+
+Algorithm 2 : 
+V0: 1
+V1: 0
+V2: 0
+V3: 1
+V4: 2
+V5: 1
+Vertex weight sum = 230
+
+Algorithm 3 : 
+V0: 2
+V1: 3
+V2: 1
+V3: 1
+V4: 4
+V5: 2
+Vertex weight sum = 276
+
+-- Test 86 --
+Algorithm 1 : 
+V0: 2
+V1: 3
+V2: 0
+V3: 2
+V4: 0
+V5: 1
+Vertex weight sum = 244
+
+Algorithm 2 : 
+V0: 2
+V1: 3
+V2: 0
+V3: 2
+V4: 0
+V5: 1
+Vertex weight sum = 244
+
+Algorithm 3 : 
+V0: 3
+V1: 4
+V2: 1
+V3: 3
+V4: 1
+V5: 2
+Vertex weight sum = 244
+
+-- Test 87 --
+Algorithm 1 : 
+V0: 1
+V1: 4
+V2: 0
+V3: 3
+V4: 3
+V5: 2
+V6: 4
+V7: 1
+V8: 5
+V9: 0
+Vertex weight sum = 356
+
+Algorithm 2 : 
+V0: 1
+V1: 3
+V2: 0
+V3: 2
+V4: 2
+V5: 4
+V6: 3
+V7: 1
+V8: 5
+V9: 0
+Vertex weight sum = 356
+
+Algorithm 3 : 
+V0: 2
+V1: 5
+V2: 1
+V3: 4
+V4: 4
+V5: 3
+V6: 5
+V7: 2
+V8: 6
+V9: 1
+Vertex weight sum = 356
+
+-- Test 88 --
+Algorithm 1 : 
+V0: 3
+V1: 3
+V2: 0
+V3: 1
+V4: 1
+V5: 4
+V6: 3
+V7: 9
+V8: 4
+V9: 8
+V10: 2
+V11: 7
+V12: 2
+V13: 6
+V14: 1
+V15: 0
+V16: 4
+V17: 6
+V18: 5
+Vertex weight sum = 631
+
+Algorithm 2 : 
+V0: 3
+V1: 3
+V2: 0
+V3: 1
+V4: 1
+V5: 4
+V6: 3
+V7: 8
+V8: 4
+V9: 7
+V10: 2
+V11: 9
+V12: 2
+V13: 6
+V14: 1
+V15: 0
+V16: 4
+V17: 6
+V18: 5
+Vertex weight sum = 631
+
+Algorithm 3 : 
+V0: 4
+V1: 4
+V2: 1
+V3: 2
+V4: 2
+V5: 5
+V6: 4
+V7: 10
+V8: 5
+V9: 9
+V10: 3
+V11: 8
+V12: 3
+V13: 7
+V14: 2
+V15: 1
+V16: 5
+V17: 7
+V18: 6
+Vertex weight sum = 631
+
+-- Test 89 --
+Algorithm 1 : 
+V0: 5
+V1: 1
+V2: 0
+V3: 3
+V4: 3
+V5: 2
+V6: 0
+V7: 2
+V8: 1
+V9: 4
+V10: 6
+V11: 4
+Vertex weight sum = 507
+
+Algorithm 2 : 
+V0: 3
+V1: 1
+V2: 0
+V3: 5
+V4: 4
+V5: 2
+V6: 0
+V7: 2
+V8: 1
+V9: 3
+V10: 4
+V11: 5
+Vertex weight sum = 515
+
+Algorithm 3 : 
+V0: 6
+V1: 2
+V2: 1
+V3: 4
+V4: 4
+V5: 3
+V6: 1
+V7: 3
+V8: 2
+V9: 5
+V10: 7
+V11: 5
+Vertex weight sum = 507
+
+-- Test 90 --
+Algorithm 1 : 
+V0: 5
+V1: 0
+V2: 1
+V3: 0
+V4: 3
+V5: 6
+V6: 3
+V7: 1
+V8: 2
+V9: 5
+V10: 4
+V11: 2
+Vertex weight sum = 374
+
+Algorithm 2 : 
+V0: 5
+V1: 0
+V2: 1
+V3: 0
+V4: 3
+V5: 6
+V6: 3
+V7: 1
+V8: 2
+V9: 5
+V10: 4
+V11: 2
+Vertex weight sum = 374
+
+Algorithm 3 : 
+V0: 6
+V1: 1
+V2: 2
+V3: 1
+V4: 4
+V5: 7
+V6: 4
+V7: 2
+V8: 3
+V9: 6
+V10: 5
+V11: 3
+Vertex weight sum = 374
+
+-- Test 91 --
+Algorithm 1 : 
+V0: 3
+V1: 4
+V2: 0
+V3: 1
+V4: 5
+V5: 2
+V6: 6
+V7: 1
+V8: 0
+V9: 2
+V10: 5
+Vertex weight sum = 441
+
+Algorithm 2 : 
+V0: 3
+V1: 4
+V2: 0
+V3: 1
+V4: 5
+V5: 2
+V6: 6
+V7: 1
+V8: 0
+V9: 2
+V10: 5
+Vertex weight sum = 441
+
+Algorithm 3 : 
+V0: 4
+V1: 5
+V2: 1
+V3: 2
+V4: 6
+V5: 3
+V6: 7
+V7: 2
+V8: 1
+V9: 3
+V10: 6
+Vertex weight sum = 441
+
+-- Test 92 --
+Algorithm 1 : 
+V0: 4
+V1: 3
+V2: 1
+V3: 0
+V4: 0
+V5: 2
+V6: 4
+V7: 3
+V8: 5
+Vertex weight sum = 381
+
+Algorithm 2 : 
+V0: 4
+V1: 3
+V2: 1
+V3: 0
+V4: 0
+V5: 2
+V6: 4
+V7: 3
+V8: 5
+Vertex weight sum = 381
+
+Algorithm 3 : 
+V0: 5
+V1: 4
+V2: 2
+V3: 1
+V4: 1
+V5: 3
+V6: 5
+V7: 4
+V8: 6
+Vertex weight sum = 381
+
+-- Test 93 --
+Algorithm 1 : 
+V0: 2
+V1: 1
+V2: 0
+V3: 0
+V4: 3
+V5: 3
+V6: 1
+Vertex weight sum = 212
+
+Algorithm 2 : 
+V0: 2
+V1: 1
+V2: 0
+V3: 0
+V4: 3
+V5: 3
+V6: 1
+Vertex weight sum = 212
+
+Algorithm 3 : 
+V0: 3
+V1: 2
+V2: 1
+V3: 1
+V4: 4
+V5: 4
+V6: 2
+Vertex weight sum = 212
+
+-- Test 94 --
+Algorithm 1 : 
+V0: 0
+V1: 1
+V2: 2
+V3: 2
+V4: 3
+V5: 4
+V6: 0
+V7: 1
+Vertex weight sum = 245
+
+Algorithm 2 : 
+V0: 0
+V1: 1
+V2: 2
+V3: 2
+V4: 3
+V5: 4
+V6: 0
+V7: 1
+Vertex weight sum = 245
+
+Algorithm 3 : 
+V0: 1
+V1: 2
+V2: 3
+V3: 3
+V4: 4
+V5: 5
+V6: 1
+V7: 2
+Vertex weight sum = 245
+
+-- Test 95 --
+Algorithm 1 : 
+V0: 5
+V1: 4
+V2: 5
+V3: 2
+V4: 0
+V5: 3
+V6: 0
+V7: 7
+V8: 1
+V9: 4
+V10: 2
+V11: 1
+V12: 3
+V13: 0
+V14: 6
+Vertex weight sum = 563
+
+Algorithm 2 : 
+V0: 5
+V1: 4
+V2: 5
+V3: 3
+V4: 0
+V5: 2
+V6: 0
+V7: 1
+V8: 7
+V9: 4
+V10: 2
+V11: 1
+V12: 2
+V13: 0
+V14: 6
+Vertex weight sum = 570
+
+Algorithm 3 : 
+V0: 6
+V1: 5
+V2: 6
+V3: 3
+V4: 1
+V5: 4
+V6: 1
+V7: 8
+V8: 2
+V9: 5
+V10: 3
+V11: 2
+V12: 4
+V13: 1
+V14: 7
+Vertex weight sum = 563
+
+-- Test 96 --
+Algorithm 1 : 
+V0: 3
+V1: 0
+V2: 0
+V3: 0
+V4: 1
+V5: 2
+V6: 1
+Vertex weight sum = 234
+
+Algorithm 2 : 
+V0: 3
+V1: 0
+V2: 0
+V3: 0
+V4: 1
+V5: 2
+V6: 1
+Vertex weight sum = 234
+
+Algorithm 3 : 
+V0: 4
+V1: 1
+V2: 1
+V3: 1
+V4: 2
+V5: 3
+V6: 2
+Vertex weight sum = 234
+
+-- Test 97 --
+Algorithm 1 : 
+V0: 2
+V1: 6
+V2: 1
+V3: 3
+V4: 5
+V5: 5
+V6: 3
+V7: 4
+V8: 0
+V9: 2
+V10: 1
+V11: 0
+Vertex weight sum = 375
+
+Algorithm 2 : 
+V0: 2
+V1: 5
+V2: 1
+V3: 3
+V4: 4
+V5: 4
+V6: 3
+V7: 6
+V8: 0
+V9: 2
+V10: 1
+V11: 0
+Vertex weight sum = 375
+
+Algorithm 3 : 
+V0: 3
+V1: 7
+V2: 2
+V3: 4
+V4: 6
+V5: 6
+V6: 4
+V7: 5
+V8: 1
+V9: 3
+V10: 2
+V11: 1
+Vertex weight sum = 375
+
+-- Test 98 --
+Algorithm 1 : 
+V0: 0
+V1: 0
+V2: 1
+V3: 2
+V4: 2
+V5: 1
+V6: 1
+Vertex weight sum = 203
+
+Algorithm 2 : 
+V0: 0
+V1: 0
+V2: 1
+V3: 2
+V4: 2
+V5: 1
+V6: 1
+Vertex weight sum = 203
+
+Algorithm 3 : 
+V0: 1
+V1: 1
+V2: 2
+V3: 3
+V4: 3
+V5: 2
+V6: 2
+Vertex weight sum = 203
+
+-- Test 99 --
+Algorithm 1 : 
+V0: 0
+V1: 0
+V2: 2
+V3: 3
+V4: 1
+Vertex weight sum = 192
+
+Algorithm 2 : 
+V0: 0
+V1: 0
+V2: 2
+V3: 3
+V4: 1
+Vertex weight sum = 192
+
+Algorithm 3 : 
+V0: 1
+V1: 1
+V2: 3
+V3: 4
+V4: 2
+Vertex weight sum = 192
+
+-- Test 100 --
+Algorithm 1 : 
+V0: 2
+V1: 0
+V2: 0
+V3: 4
+V4: 1
+V5: 3
+Vertex weight sum = 266
+
+Algorithm 2 : 
+V0: 2
+V1: 0
+V2: 0
+V3: 4
+V4: 1
+V5: 3
+Vertex weight sum = 266
+
+Algorithm 3 : 
+V0: 3
+V1: 1
+V2: 1
+V3: 5
+V4: 2
+V5: 4
+Vertex weight sum = 266
+
+-- Test 101 --
+Algorithm 1 : 
+V0: 5
+V1: 5
+V2: 0
+V3: 5
+V4: 2
+V5: 3
+V6: 4
+V7: 1
+V8: 0
+Vertex weight sum = 323
+
+Algorithm 2 : 
+V0: 5
+V1: 5
+V2: 0
+V3: 5
+V4: 2
+V5: 3
+V6: 4
+V7: 1
+V8: 0
+Vertex weight sum = 323
+
+Algorithm 3 : 
+V0: 6
+V1: 6
+V2: 1
+V3: 6
+V4: 3
+V5: 4
+V6: 5
+V7: 2
+V8: 1
+Vertex weight sum = 323
+
+-- Test 102 --
+Algorithm 1 : 
+V0: 1
+V1: 3
+V2: 3
+V3: 2
+V4: 2
+V5: 1
+V6: 5
+V7: 3
+V8: 4
+V9: 1
+V10: 0
+Vertex weight sum = 341
+
+Algorithm 2 : 
+V0: 1
+V1: 3
+V2: 3
+V3: 2
+V4: 2
+V5: 1
+V6: 5
+V7: 3
+V8: 4
+V9: 1
+V10: 0
+Vertex weight sum = 341
+
+Algorithm 3 : 
+V0: 2
+V1: 4
+V2: 4
+V3: 3
+V4: 3
+V5: 2
+V6: 6
+V7: 4
+V8: 5
+V9: 2
+V10: 1
+Vertex weight sum = 341
+
+-- Test 103 --
+Algorithm 1 : 
+V0: 1
+V1: 0
+V2: 0
+V3: 1
+V4: 3
+V5: 4
+V6: 2
+V7: 2
+V8: 6
+V9: 0
+V10: 1
+V11: 5
+V12: 3
+Vertex weight sum = 329
+
+Algorithm 2 : 
+V0: 1
+V1: 0
+V2: 0
+V3: 1
+V4: 3
+V5: 4
+V6: 2
+V7: 2
+V8: 6
+V9: 0
+V10: 1
+V11: 5
+V12: 3
+Vertex weight sum = 329
+
+Algorithm 3 : 
+V0: 2
+V1: 1
+V2: 1
+V3: 2
+V4: 4
+V5: 5
+V6: 3
+V7: 3
+V8: 7
+V9: 1
+V10: 2
+V11: 6
+V12: 4
+Vertex weight sum = 329
+
+-- Test 104 --
+Algorithm 1 : 
+V0: 1
+V1: 0
+V2: 2
+V3: 3
+V4: 0
+V5: 5
+V6: 1
+V7: 3
+V8: 0
+V9: 4
+V10: 1
+Vertex weight sum = 338
+
+Algorithm 2 : 
+V0: 1
+V1: 0
+V2: 2
+V3: 3
+V4: 0
+V5: 5
+V6: 1
+V7: 3
+V8: 0
+V9: 4
+V10: 1
+Vertex weight sum = 338
+
+Algorithm 3 : 
+V0: 2
+V1: 1
+V2: 3
+V3: 4
+V4: 1
+V5: 6
+V6: 2
+V7: 4
+V8: 1
+V9: 5
+V10: 2
+Vertex weight sum = 338
+
+-- Test 105 --
+Algorithm 1 : 
+V0: 2
+V1: 3
+V2: 7
+V3: 1
+V4: 0
+V5: 3
+V6: 2
+V7: 0
+V8: 6
+V9: 0
+V10: 4
+V11: 4
+V12: 5
+V13: 1
+V14: 5
+Vertex weight sum = 511
+
+Algorithm 2 : 
+V0: 2
+V1: 3
+V2: 6
+V3: 1
+V4: 0
+V5: 3
+V6: 2
+V7: 0
+V8: 4
+V9: 0
+V10: 7
+V11: 4
+V12: 5
+V13: 2
+V14: 1
+Vertex weight sum = 544
+
+Algorithm 3 : 
+V0: 3
+V1: 4
+V2: 8
+V3: 2
+V4: 1
+V5: 4
+V6: 3
+V7: 1
+V8: 7
+V9: 1
+V10: 5
+V11: 5
+V12: 6
+V13: 2
+V14: 6
+Vertex weight sum = 511
+
+-- Test 106 --
+Algorithm 1 : 
+V0: 0
+V1: 1
+V2: 1
+V3: 4
+V4: 3
+V5: 0
+V6: 2
+V7: 1
+V8: 1
+Vertex weight sum = 245
+
+Algorithm 2 : 
+V0: 0
+V1: 1
+V2: 1
+V3: 4
+V4: 3
+V5: 0
+V6: 2
+V7: 1
+V8: 1
+Vertex weight sum = 245
+
+Algorithm 3 : 
+V0: 1
+V1: 2
+V2: 2
+V3: 5
+V4: 4
+V5: 1
+V6: 3
+V7: 2
+V8: 2
+Vertex weight sum = 245
+
+-- Test 107 --
+Algorithm 1 : 
+V0: 1
+V1: 2
+V2: 3
+V3: 0
+V4: 1
+V5: 0
+V6: 2
+V7: 4
+Vertex weight sum = 328
+
+Algorithm 2 : 
+V0: 1
+V1: 2
+V2: 3
+V3: 0
+V4: 1
+V5: 0
+V6: 2
+V7: 4
+Vertex weight sum = 328
+
+Algorithm 3 : 
+V0: 2
+V1: 3
+V2: 4
+V3: 1
+V4: 2
+V5: 1
+V6: 3
+V7: 5
+Vertex weight sum = 328
+
+-- Test 108 --
+Algorithm 1 : 
+V0: 2
+V1: 3
+V2: 3
+V3: 0
+V4: 5
+V5: 1
+V6: 4
+V7: 1
+V8: 5
+V9: 3
+V10: 1
+V11: 6
+V12: 2
+V13: 0
+Vertex weight sum = 424
+
+Algorithm 2 : 
+V0: 6
+V1: 2
+V2: 2
+V3: 0
+V4: 4
+V5: 1
+V6: 3
+V7: 1
+V8: 4
+V9: 2
+V10: 1
+V11: 5
+V12: 6
+V13: 0
+Vertex weight sum = 424
+
+Algorithm 3 : 
+V0: 3
+V1: 4
+V2: 4
+V3: 1
+V4: 6
+V5: 2
+V6: 5
+V7: 2
+V8: 6
+V9: 4
+V10: 2
+V11: 7
+V12: 3
+V13: 1
+Vertex weight sum = 424
+
+-- Test 109 --
+Algorithm 1 : 
+V0: 3
+V1: 0
+V2: 5
+V3: 8
+V4: 9
+V5: 4
+V6: 5
+V7: 1
+V8: 4
+V9: 0
+V10: 2
+V11: 6
+V12: 1
+V13: 0
+V14: 6
+V15: 3
+V16: 7
+V17: 7
+Vertex weight sum = 620
+
+Algorithm 2 : 
+V0: 3
+V1: 0
+V2: 5
+V3: 7
+V4: 8
+V5: 4
+V6: 5
+V7: 1
+V8: 4
+V9: 0
+V10: 2
+V11: 9
+V12: 1
+V13: 0
+V14: 9
+V15: 3
+V16: 6
+V17: 6
+Vertex weight sum = 620
+
+Algorithm 3 : 
+V0: 4
+V1: 1
+V2: 6
+V3: 9
+V4: 10
+V5: 5
+V6: 6
+V7: 2
+V8: 5
+V9: 1
+V10: 3
+V11: 7
+V12: 2
+V13: 1
+V14: 7
+V15: 4
+V16: 8
+V17: 8
+Vertex weight sum = 620
+
+-- Test 110 --
+Algorithm 1 : 
+V0: 3
+V1: 0
+V2: 2
+V3: 1
+V4: 2
+V5: 3
+V6: 0
+V7: 1
+V8: 1
+V9: 4
+Vertex weight sum = 317
+
+Algorithm 2 : 
+V0: 2
+V1: 0
+V2: 4
+V3: 1
+V4: 4
+V5: 2
+V6: 0
+V7: 1
+V8: 1
+V9: 3
+Vertex weight sum = 317
+
+Algorithm 3 : 
+V0: 4
+V1: 1
+V2: 3
+V3: 2
+V4: 3
+V5: 4
+V6: 1
+V7: 2
+V8: 2
+V9: 5
+Vertex weight sum = 317
+
+-- Test 111 --
+Algorithm 1 : 
+V0: 1
+V1: 2
+V2: 6
+V3: 4
+V4: 1
+V5: 5
+V6: 7
+V7: 2
+V8: 1
+V9: 0
+V10: 3
+V11: 4
+V12: 0
+V13: 0
+V14: 5
+V15: 3
+Vertex weight sum = 448
+
+Algorithm 2 : 
+V0: 1
+V1: 2
+V2: 5
+V3: 3
+V4: 1
+V5: 4
+V6: 7
+V7: 2
+V8: 1
+V9: 0
+V10: 6
+V11: 5
+V12: 0
+V13: 0
+V14: 3
+V15: 4
+Vertex weight sum = 455
+
+Algorithm 3 : 
+V0: 2
+V1: 3
+V2: 7
+V3: 5
+V4: 2
+V5: 6
+V6: 8
+V7: 3
+V8: 2
+V9: 1
+V10: 4
+V11: 5
+V12: 1
+V13: 1
+V14: 6
+V15: 4
+Vertex weight sum = 448
+
+-- Test 112 --
+Algorithm 1 : 
+V0: 6
+V1: 4
+V2: 3
+V3: 5
+V4: 3
+V5: 0
+V6: 4
+V7: 5
+V8: 0
+V9: 2
+V10: 1
+V11: 1
+V12: 2
+Vertex weight sum = 434
+
+Algorithm 2 : 
+V0: 5
+V1: 3
+V2: 4
+V3: 6
+V4: 4
+V5: 0
+V6: 3
+V7: 6
+V8: 0
+V9: 2
+V10: 1
+V11: 1
+V12: 2
+Vertex weight sum = 434
+
+Algorithm 3 : 
+V0: 7
+V1: 5
+V2: 4
+V3: 6
+V4: 4
+V5: 1
+V6: 5
+V7: 6
+V8: 1
+V9: 3
+V10: 2
+V11: 2
+V12: 3
+Vertex weight sum = 434
+
+-- Test 113 --
+Algorithm 1 : 
+V0: 2
+V1: 0
+V2: 3
+V3: 1
+V4: 0
+V5: 4
+V6: 3
+Vertex weight sum = 254
+
+Algorithm 2 : 
+V0: 2
+V1: 0
+V2: 3
+V3: 1
+V4: 0
+V5: 4
+V6: 3
+Vertex weight sum = 254
+
+Algorithm 3 : 
+V0: 3
+V1: 1
+V2: 4
+V3: 2
+V4: 1
+V5: 5
+V6: 4
+Vertex weight sum = 254
+
+-- Test 114 --
+Algorithm 1 : 
+V0: 2
+V1: 5
+V2: 1
+V3: 1
+V4: 0
+V5: 0
+V6: 3
+V7: 4
+Vertex weight sum = 359
+
+Algorithm 2 : 
+V0: 2
+V1: 4
+V2: 1
+V3: 1
+V4: 0
+V5: 0
+V6: 3
+V7: 5
+Vertex weight sum = 359
+
+Algorithm 3 : 
+V0: 3
+V1: 6
+V2: 2
+V3: 2
+V4: 1
+V5: 1
+V6: 4
+V7: 5
+Vertex weight sum = 359
+
+-- Test 115 --
+Algorithm 1 : 
+V0: 0
+V1: 3
+V2: 2
+V3: 0
+V4: 5
+V5: 2
+V6: 1
+V7: 1
+V8: 3
+V9: 1
+V10: 4
+V11: 3
+V12: 2
+Vertex weight sum = 381
+
+Algorithm 2 : 
+V0: 0
+V1: 3
+V2: 2
+V3: 0
+V4: 5
+V5: 2
+V6: 1
+V7: 1
+V8: 3
+V9: 1
+V10: 4
+V11: 3
+V12: 2
+Vertex weight sum = 381
+
+Algorithm 3 : 
+V0: 1
+V1: 4
+V2: 3
+V3: 1
+V4: 6
+V5: 3
+V6: 2
+V7: 2
+V8: 4
+V9: 2
+V10: 5
+V11: 4
+V12: 3
+Vertex weight sum = 381
+
+-- Test 116 --
+Algorithm 1 : 
+V0: 0
+V1: 1
+V2: 2
+V3: 0
+V4: 1
+V5: 3
+Vertex weight sum = 305
+
+Algorithm 2 : 
+V0: 0
+V1: 1
+V2: 2
+V3: 0
+V4: 1
+V5: 3
+Vertex weight sum = 305
+
+Algorithm 3 : 
+V0: 1
+V1: 2
+V2: 3
+V3: 1
+V4: 2
+V5: 4
+Vertex weight sum = 305
+
+-- Test 117 --
+Algorithm 1 : 
+V0: 1
+V1: 5
+V2: 0
+V3: 1
+V4: 2
+V5: 4
+V6: 2
+V7: 3
+V8: 0
+V9: 3
+Vertex weight sum = 252
+
+Algorithm 2 : 
+V0: 1
+V1: 5
+V2: 0
+V3: 1
+V4: 2
+V5: 3
+V6: 2
+V7: 4
+V8: 0
+V9: 4
+Vertex weight sum = 252
+
+Algorithm 3 : 
+V0: 2
+V1: 6
+V2: 1
+V3: 2
+V4: 3
+V5: 5
+V6: 3
+V7: 4
+V8: 1
+V9: 4
+Vertex weight sum = 252
+
+-- Test 118 --
+Algorithm 1 : 
+V0: 3
+V1: 1
+V2: 2
+V3: 4
+V4: 4
+V5: 0
+V6: 7
+V7: 6
+V8: 1
+V9: 3
+V10: 5
+V11: 0
+V12: 8
+Vertex weight sum = 436
+
+Algorithm 2 : 
+V0: 3
+V1: 1
+V2: 2
+V3: 4
+V4: 4
+V5: 0
+V6: 7
+V7: 6
+V8: 1
+V9: 3
+V10: 5
+V11: 0
+V12: 8
+Vertex weight sum = 436
+
+Algorithm 3 : 
+V0: 4
+V1: 2
+V2: 3
+V3: 5
+V4: 5
+V5: 1
+V6: 8
+V7: 7
+V8: 2
+V9: 4
+V10: 6
+V11: 1
+V12: 9
+Vertex weight sum = 436
+
+-- Test 119 --
+Algorithm 1 : 
+V0: 1
+V1: 3
+V2: 4
+V3: 0
+V4: 2
+V5: 0
+V6: 3
+V7: 5
+V8: 1
+V9: 2
+Vertex weight sum = 271
+
+Algorithm 2 : 
+V0: 1
+V1: 3
+V2: 4
+V3: 0
+V4: 2
+V5: 0
+V6: 3
+V7: 5
+V8: 1
+V9: 2
+Vertex weight sum = 271
+
+Algorithm 3 : 
+V0: 2
+V1: 4
+V2: 5
+V3: 1
+V4: 3
+V5: 1
+V6: 4
+V7: 6
+V8: 2
+V9: 3
+Vertex weight sum = 271
+
+-- Test 120 --
+Algorithm 1 : 
+V0: 1
+V1: 6
+V2: 2
+V3: 5
+V4: 0
+V5: 3
+V6: 2
+V7: 4
+Vertex weight sum = 317
+
+Algorithm 2 : 
+V0: 1
+V1: 6
+V2: 2
+V3: 5
+V4: 0
+V5: 3
+V6: 2
+V7: 4
+Vertex weight sum = 317
+
+Algorithm 3 : 
+V0: 2
+V1: 7
+V2: 3
+V3: 6
+V4: 1
+V5: 4
+V6: 3
+V7: 5
+Vertex weight sum = 317
+
+-- Test 121 --
+Algorithm 1 : 
+V0: 0
+V1: 1
+V2: 3
+V3: 2
+V4: 2
+V5: 4
+V6: 0
+V7: 1
+V8: 4
+Vertex weight sum = 318
+
+Algorithm 2 : 
+V0: 0
+V1: 1
+V2: 3
+V3: 2
+V4: 2
+V5: 4
+V6: 0
+V7: 1
+V8: 4
+Vertex weight sum = 318
+
+Algorithm 3 : 
+V0: 1
+V1: 2
+V2: 4
+V3: 3
+V4: 3
+V5: 5
+V6: 1
+V7: 2
+V8: 5
+Vertex weight sum = 318
+
+-- Test 122 --
+Algorithm 1 : 
+V0: 0
+V1: 5
+V2: 0
+V3: 1
+V4: 5
+V5: 2
+V6: 7
+V7: 1
+V8: 3
+V9: 4
+V10: 2
+V11: 3
+V12: 0
+V13: 6
+V14: 2
+Vertex weight sum = 454
+
+Algorithm 2 : 
+V0: 0
+V1: 5
+V2: 0
+V3: 1
+V4: 5
+V5: 2
+V6: 7
+V7: 1
+V8: 3
+V9: 4
+V10: 2
+V11: 3
+V12: 0
+V13: 6
+V14: 2
+Vertex weight sum = 454
+
+Algorithm 3 : 
+V0: 1
+V1: 6
+V2: 1
+V3: 2
+V4: 6
+V5: 3
+V6: 8
+V7: 2
+V8: 4
+V9: 5
+V10: 3
+V11: 4
+V12: 1
+V13: 7
+V14: 3
+Vertex weight sum = 454
+
+-- Test 123 --
+Algorithm 1 : 
+V0: 1
+V1: 2
+V2: 0
+V3: 3
+V4: 3
+Vertex weight sum = 220
+
+Algorithm 2 : 
+V0: 1
+V1: 2
+V2: 0
+V3: 3
+V4: 3
+Vertex weight sum = 220
+
+Algorithm 3 : 
+V0: 2
+V1: 3
+V2: 1
+V3: 4
+V4: 4
+Vertex weight sum = 220
+
+-- Test 124 --
+Algorithm 1 : 
+V0: 0
+V1: 1
+V2: 0
+V3: 2
+V4: 4
+V5: 3
+V6: 0
+V7: 2
+V8: 5
+V9: 1
+Vertex weight sum = 313
+
+Algorithm 2 : 
+V0: 0
+V1: 1
+V2: 5
+V3: 0
+V4: 3
+V5: 2
+V6: 2
+V7: 0
+V8: 4
+V9: 1
+Vertex weight sum = 319
+
+Algorithm 3 : 
+V0: 1
+V1: 2
+V2: 1
+V3: 3
+V4: 5
+V5: 4
+V6: 1
+V7: 3
+V8: 6
+V9: 2
+Vertex weight sum = 313
+
+-- Test 125 --
+Algorithm 1 : 
+V0: 6
+V1: 0
+V2: 1
+V3: 2
+V4: 3
+V5: 5
+V6: 2
+V7: 3
+V8: 3
+V9: 1
+V10: 0
+V11: 7
+V12: 4
+V13: 1
+V14: 4
+V15: 8
+V16: 2
+V17: 6
+V18: 0
+Vertex weight sum = 595
+
+Algorithm 2 : 
+V0: 6
+V1: 0
+V2: 1
+V3: 2
+V4: 3
+V5: 5
+V6: 2
+V7: 3
+V8: 3
+V9: 1
+V10: 0
+V11: 7
+V12: 4
+V13: 1
+V14: 4
+V15: 8
+V16: 2
+V17: 6
+V18: 0
+Vertex weight sum = 595
+
+Algorithm 3 : 
+V0: 7
+V1: 1
+V2: 2
+V3: 3
+V4: 4
+V5: 6
+V6: 3
+V7: 4
+V8: 4
+V9: 2
+V10: 1
+V11: 8
+V12: 5
+V13: 2
+V14: 5
+V15: 9
+V16: 3
+V17: 7
+V18: 1
+Vertex weight sum = 595
+
+-- Test 126 --
+Algorithm 1 : 
+V0: 5
+V1: 1
+V2: 5
+V3: 2
+V4: 0
+V5: 1
+V6: 3
+V7: 7
+V8: 3
+V9: 0
+V10: 2
+V11: 1
+V12: 0
+V13: 6
+V14: 1
+V15: 4
+V16: 2
+Vertex weight sum = 425
+
+Algorithm 2 : 
+V0: 5
+V1: 1
+V2: 5
+V3: 2
+V4: 0
+V5: 1
+V6: 3
+V7: 7
+V8: 3
+V9: 0
+V10: 2
+V11: 1
+V12: 0
+V13: 6
+V14: 1
+V15: 4
+V16: 2
+Vertex weight sum = 425
+
+Algorithm 3 : 
+V0: 6
+V1: 2
+V2: 6
+V3: 3
+V4: 1
+V5: 2
+V6: 4
+V7: 8
+V8: 4
+V9: 1
+V10: 3
+V11: 2
+V12: 1
+V13: 7
+V14: 2
+V15: 5
+V16: 3
+Vertex weight sum = 425
+
+-- Test 127 --
+Algorithm 1 : 
+V0: 2
+V1: 3
+V2: 7
+V3: 0
+V4: 3
+V5: 6
+V6: 5
+V7: 4
+V8: 0
+V9: 1
+V10: 3
+V11: 1
+V12: 8
+V13: 4
+V14: 2
+V15: 4
+V16: 1
+Vertex weight sum = 466
+
+Algorithm 2 : 
+V0: 2
+V1: 3
+V2: 7
+V3: 0
+V4: 3
+V5: 6
+V6: 5
+V7: 4
+V8: 0
+V9: 1
+V10: 3
+V11: 1
+V12: 8
+V13: 4
+V14: 2
+V15: 4
+V16: 1
+Vertex weight sum = 466
+
+Algorithm 3 : 
+V0: 3
+V1: 4
+V2: 8
+V3: 1
+V4: 4
+V5: 7
+V6: 6
+V7: 5
+V8: 1
+V9: 2
+V10: 4
+V11: 2
+V12: 9
+V13: 5
+V14: 3
+V15: 5
+V16: 2
+Vertex weight sum = 466
+
+-- Test 128 --
+Algorithm 1 : 
+V0: 3
+V1: 0
+V2: 2
+V3: 5
+V4: 2
+V5: 4
+V6: 0
+V7: 1
+V8: 1
+Vertex weight sum = 261
+
+Algorithm 2 : 
+V0: 2
+V1: 0
+V2: 2
+V3: 4
+V4: 3
+V5: 3
+V6: 0
+V7: 1
+V8: 1
+Vertex weight sum = 255
+
+Algorithm 3 : 
+V0: 4
+V1: 1
+V2: 3
+V3: 6
+V4: 3
+V5: 5
+V6: 1
+V7: 2
+V8: 2
+Vertex weight sum = 261
+
+-- Test 129 --
+Algorithm 1 : 
+V0: 1
+V1: 1
+V2: 2
+V3: 2
+V4: 0
+V5: 0
+Vertex weight sum = 235
+
+Algorithm 2 : 
+V0: 1
+V1: 1
+V2: 2
+V3: 2
+V4: 0
+V5: 0
+Vertex weight sum = 235
+
+Algorithm 3 : 
+V0: 2
+V1: 2
+V2: 3
+V3: 3
+V4: 1
+V5: 1
+Vertex weight sum = 235
+
+-- Test 130 --
+Algorithm 1 : 
+V0: 5
+V1: 0
+V2: 5
+V3: 1
+V4: 8
+V5: 1
+V6: 1
+V7: 4
+V8: 3
+V9: 0
+V10: 6
+V11: 2
+V12: 2
+V13: 0
+V14: 3
+V15: 0
+V16: 7
+V17: 4
+Vertex weight sum = 529
+
+Algorithm 2 : 
+V0: 5
+V1: 0
+V2: 5
+V3: 1
+V4: 7
+V5: 1
+V6: 1
+V7: 4
+V8: 3
+V9: 0
+V10: 8
+V11: 2
+V12: 2
+V13: 0
+V14: 3
+V15: 0
+V16: 6
+V17: 4
+Vertex weight sum = 529
+
+Algorithm 3 : 
+V0: 6
+V1: 1
+V2: 6
+V3: 2
+V4: 9
+V5: 2
+V6: 2
+V7: 5
+V8: 4
+V9: 1
+V10: 7
+V11: 3
+V12: 3
+V13: 1
+V14: 4
+V15: 1
+V16: 8
+V17: 5
+Vertex weight sum = 529
+
+-- Test 131 --
+Algorithm 1 : 
+V0: 9
+V1: 2
+V2: 3
+V3: 7
+V4: 8
+V5: 0
+V6: 2
+V7: 1
+V8: 10
+V9: 7
+V10: 1
+V11: 5
+V12: 0
+V13: 4
+V14: 6
+V15: 3
+V16: 5
+V17: 1
+Vertex weight sum = 606
+
+Algorithm 2 : 
+V0: 8
+V1: 2
+V2: 3
+V3: 6
+V4: 7
+V5: 0
+V6: 5
+V7: 1
+V8: 9
+V9: 6
+V10: 1
+V11: 2
+V12: 0
+V13: 4
+V14: 5
+V15: 3
+V16: 2
+V17: 1
+Vertex weight sum = 568
+
+Algorithm 3 : 
+V0: 10
+V1: 3
+V2: 4
+V3: 8
+V4: 9
+V5: 1
+V6: 3
+V7: 2
+V8: 11
+V9: 8
+V10: 2
+V11: 6
+V12: 1
+V13: 5
+V14: 7
+V15: 4
+V16: 6
+V17: 2
+Vertex weight sum = 606
+
+-- Test 132 --
+Algorithm 1 : 
+V0: 2
+V1: 5
+V2: 3
+V3: 4
+V4: 5
+V5: 0
+V6: 6
+V7: 6
+V8: 4
+V9: 6
+V10: 0
+V11: 2
+V12: 1
+V13: 1
+V14: 4
+V15: 7
+V16: 2
+Vertex weight sum = 306
+
+Algorithm 2 : 
+V0: 1
+V1: 6
+V2: 3
+V3: 4
+V4: 4
+V5: 0
+V6: 5
+V7: 5
+V8: 4
+V9: 5
+V10: 0
+V11: 1
+V12: 2
+V13: 8
+V14: 2
+V15: 7
+V16: 1
+Vertex weight sum = 351
+
+Algorithm 3 : 
+V0: 3
+V1: 6
+V2: 4
+V3: 5
+V4: 6
+V5: 1
+V6: 7
+V7: 7
+V8: 5
+V9: 7
+V10: 1
+V11: 3
+V12: 2
+V13: 2
+V14: 5
+V15: 8
+V16: 3
+Vertex weight sum = 306
+
+-- Test 133 --
+Algorithm 1 : 
+V0: 3
+V1: 0
+V2: 1
+V3: 2
+V4: 0
+V5: 0
+Vertex weight sum = 313
+
+Algorithm 2 : 
+V0: 3
+V1: 0
+V2: 1
+V3: 2
+V4: 0
+V5: 0
+Vertex weight sum = 313
+
+Algorithm 3 : 
+V0: 4
+V1: 1
+V2: 2
+V3: 3
+V4: 1
+V5: 1
+Vertex weight sum = 313
+
+-- Test 134 --
+Algorithm 1 : 
+V0: 5
+V1: 1
+V2: 2
+V3: 4
+V4: 2
+V5: 0
+V6: 6
+V7: 3
+V8: 0
+V9: 3
+V10: 1
+V11: 0
+V12: 4
+V13: 4
+V14: 7
+V15: 8
+V16: 6
+V17: 1
+Vertex weight sum = 447
+
+Algorithm 2 : 
+V0: 8
+V1: 1
+V2: 2
+V3: 4
+V4: 2
+V5: 0
+V6: 5
+V7: 3
+V8: 0
+V9: 7
+V10: 1
+V11: 0
+V12: 4
+V13: 3
+V14: 6
+V15: 7
+V16: 5
+V17: 1
+Vertex weight sum = 489
+
+Algorithm 3 : 
+V0: 6
+V1: 2
+V2: 3
+V3: 5
+V4: 3
+V5: 1
+V6: 7
+V7: 4
+V8: 1
+V9: 4
+V10: 2
+V11: 1
+V12: 5
+V13: 5
+V14: 8
+V15: 9
+V16: 7
+V17: 2
+Vertex weight sum = 447
+
+-- Test 135 --
+Algorithm 1 : 
+V0: 4
+V1: 5
+V2: 5
+V3: 0
+V4: 1
+V5: 3
+V6: 2
+V7: 2
+Vertex weight sum = 266
+
+Algorithm 2 : 
+V0: 4
+V1: 5
+V2: 5
+V3: 0
+V4: 1
+V5: 3
+V6: 2
+V7: 2
+Vertex weight sum = 266
+
+Algorithm 3 : 
+V0: 5
+V1: 6
+V2: 6
+V3: 1
+V4: 2
+V5: 4
+V6: 3
+V7: 3
+Vertex weight sum = 266
+
+-- Test 136 --
+Algorithm 1 : 
+V0: 9
+V1: 3
+V2: 5
+V3: 6
+V4: 8
+V5: 6
+V6: 7
+V7: 1
+V8: 4
+V9: 0
+V10: 0
+V11: 4
+V12: 2
+V13: 2
+V14: 2
+V15: 5
+V16: 1
+V17: 7
+V18: 3
+Vertex weight sum = 656
+
+Algorithm 2 : 
+V0: 9
+V1: 3
+V2: 5
+V3: 6
+V4: 8
+V5: 6
+V6: 7
+V7: 1
+V8: 4
+V9: 0
+V10: 0
+V11: 4
+V12: 2
+V13: 2
+V14: 2
+V15: 5
+V16: 1
+V17: 7
+V18: 3
+Vertex weight sum = 656
+
+Algorithm 3 : 
+V0: 10
+V1: 4
+V2: 6
+V3: 7
+V4: 9
+V5: 7
+V6: 8
+V7: 2
+V8: 5
+V9: 1
+V10: 1
+V11: 5
+V12: 3
+V13: 3
+V14: 3
+V15: 6
+V16: 2
+V17: 8
+V18: 4
+Vertex weight sum = 656
+
+-- Test 137 --
+Algorithm 1 : 
+V0: 0
+V1: 1
+V2: 1
+V3: 0
+V4: 0
+V5: 3
+V6: 2
+V7: 2
+V8: 1
+Vertex weight sum = 309
+
+Algorithm 2 : 
+V0: 0
+V1: 1
+V2: 1
+V3: 0
+V4: 0
+V5: 3
+V6: 2
+V7: 2
+V8: 1
+Vertex weight sum = 309
+
+Algorithm 3 : 
+V0: 1
+V1: 2
+V2: 2
+V3: 1
+V4: 1
+V5: 4
+V6: 3
+V7: 3
+V8: 2
+Vertex weight sum = 309
+
+-- Test 138 --
+Algorithm 1 : 
+V0: 7
+V1: 5
+V2: 6
+V3: 2
+V4: 4
+V5: 2
+V6: 1
+V7: 3
+V8: 0
+V9: 0
+V10: 6
+V11: 8
+Vertex weight sum = 569
+
+Algorithm 2 : 
+V0: 7
+V1: 5
+V2: 6
+V3: 2
+V4: 4
+V5: 2
+V6: 1
+V7: 3
+V8: 0
+V9: 0
+V10: 6
+V11: 8
+Vertex weight sum = 569
+
+Algorithm 3 : 
+V0: 8
+V1: 6
+V2: 7
+V3: 3
+V4: 5
+V5: 3
+V6: 2
+V7: 4
+V8: 1
+V9: 1
+V10: 7
+V11: 9
+Vertex weight sum = 569
+
+-- Test 139 --
+Algorithm 1 : 
+V0: 1
+V1: 2
+V2: 0
+V3: 2
+V4: 0
+Vertex weight sum = 116
+
+Algorithm 2 : 
+V0: 2
+V1: 1
+V2: 0
+V3: 1
+V4: 0
+Vertex weight sum = 116
+
+Algorithm 3 : 
+V0: 2
+V1: 3
+V2: 1
+V3: 3
+V4: 1
+Vertex weight sum = 116
+
+-- Test 140 --
+Algorithm 1 : 
+V0: 3
+V1: 5
+V2: 4
+V3: 2
+V4: 1
+V5: 2
+V6: 0
+V7: 0
+Vertex weight sum = 189
+
+Algorithm 2 : 
+V0: 3
+V1: 5
+V2: 4
+V3: 2
+V4: 1
+V5: 2
+V6: 0
+V7: 0
+Vertex weight sum = 189
+
+Algorithm 3 : 
+V0: 4
+V1: 6
+V2: 5
+V3: 3
+V4: 2
+V5: 3
+V6: 1
+V7: 1
+Vertex weight sum = 189
+
+-- Test 141 --
+Algorithm 1 : 
+V0: 8
+V1: 0
+V2: 5
+V3: 7
+V4: 9
+V5: 1
+V6: 5
+V7: 10
+V8: 6
+V9: 3
+V10: 4
+V11: 6
+V12: 8
+V13: 0
+V14: 2
+V15: 1
+V16: 2
+V17: 0
+V18: 3
+Vertex weight sum = 718
+
+Algorithm 2 : 
+V0: 4
+V1: 0
+V2: 2
+V3: 10
+V4: 5
+V5: 4
+V6: 2
+V7: 11
+V8: 3
+V9: 1
+V10: 9
+V11: 3
+V12: 6
+V13: 0
+V14: 1
+V15: 5
+V16: 8
+V17: 0
+V18: 7
+Vertex weight sum = 723
+
+Algorithm 3 : 
+V0: 9
+V1: 1
+V2: 6
+V3: 8
+V4: 10
+V5: 2
+V6: 6
+V7: 11
+V8: 7
+V9: 4
+V10: 5
+V11: 7
+V12: 9
+V13: 1
+V14: 3
+V15: 2
+V16: 3
+V17: 1
+V18: 4
+Vertex weight sum = 718
+
+-- Test 142 --
+Algorithm 1 : 
+V0: 3
+V1: 5
+V2: 1
+V3: 4
+V4: 0
+V5: 3
+V6: 4
+V7: 2
+V8: 7
+V9: 1
+V10: 2
+V11: 8
+V12: 8
+V13: 9
+V14: 6
+V15: 0
+V16: 1
+Vertex weight sum = 564
+
+Algorithm 2 : 
+V0: 8
+V1: 5
+V2: 1
+V3: 4
+V4: 0
+V5: 3
+V6: 7
+V7: 2
+V8: 3
+V9: 1
+V10: 2
+V11: 8
+V12: 7
+V13: 4
+V14: 6
+V15: 0
+V16: 1
+Vertex weight sum = 635
+
+Algorithm 3 : 
+V0: 4
+V1: 6
+V2: 2
+V3: 5
+V4: 1
+V5: 4
+V6: 5
+V7: 3
+V8: 8
+V9: 2
+V10: 3
+V11: 9
+V12: 9
+V13: 10
+V14: 7
+V15: 1
+V16: 2
+Vertex weight sum = 564
+
+-- Test 143 --
+Algorithm 1 : 
+V0: 1
+V1: 0
+V2: 1
+V3: 2
+V4: 0
+Vertex weight sum = 153
+
+Algorithm 2 : 
+V0: 1
+V1: 0
+V2: 1
+V3: 2
+V4: 0
+Vertex weight sum = 153
+
+Algorithm 3 : 
+V0: 2
+V1: 1
+V2: 2
+V3: 3
+V4: 1
+Vertex weight sum = 153
+
+-- Test 144 --
+Algorithm 1 : 
+V0: 2
+V1: 8
+V2: 5
+V3: 2
+V4: 1
+V5: 0
+V6: 0
+V7: 4
+V8: 3
+V9: 7
+V10: 1
+V11: 0
+V12: 6
+V13: 1
+V14: 8
+V15: 3
+V16: 4
+Vertex weight sum = 589
+
+Algorithm 2 : 
+V0: 2
+V1: 1
+V2: 5
+V3: 2
+V4: 9
+V5: 0
+V6: 0
+V7: 4
+V8: 3
+V9: 7
+V10: 1
+V11: 0
+V12: 6
+V13: 1
+V14: 8
+V15: 3
+V16: 4
+Vertex weight sum = 637
+
+Algorithm 3 : 
+V0: 3
+V1: 9
+V2: 6
+V3: 3
+V4: 2
+V5: 1
+V6: 1
+V7: 5
+V8: 4
+V9: 8
+V10: 2
+V11: 1
+V12: 7
+V13: 2
+V14: 9
+V15: 4
+V16: 5
+Vertex weight sum = 589
+
+-- Test 145 --
+Algorithm 1 : 
+V0: 0
+V1: 3
+V2: 1
+V3: 0
+V4: 2
+Vertex weight sum = 235
+
+Algorithm 2 : 
+V0: 0
+V1: 3
+V2: 1
+V3: 0
+V4: 2
+Vertex weight sum = 235
+
+Algorithm 3 : 
+V0: 1
+V1: 4
+V2: 2
+V3: 1
+V4: 3
+Vertex weight sum = 235
+
+-- Test 146 --
+Algorithm 1 : 
+V0: 2
+V1: 0
+V2: 1
+V3: 3
+V4: 4
+V5: 1
+V6: 0
+V7: 6
+V8: 2
+V9: 3
+V10: 0
+V11: 4
+V12: 5
+Vertex weight sum = 308
+
+Algorithm 2 : 
+V0: 6
+V1: 0
+V2: 1
+V3: 2
+V4: 3
+V5: 1
+V6: 0
+V7: 5
+V8: 3
+V9: 2
+V10: 0
+V11: 7
+V12: 4
+Vertex weight sum = 347
+
+Algorithm 3 : 
+V0: 3
+V1: 1
+V2: 2
+V3: 4
+V4: 5
+V5: 2
+V6: 1
+V7: 7
+V8: 3
+V9: 4
+V10: 1
+V11: 5
+V12: 6
+Vertex weight sum = 308
+
+-- Test 147 --
+Algorithm 1 : 
+V0: 3
+V1: 1
+V2: 0
+V3: 4
+V4: 0
+V5: 2
+Vertex weight sum = 245
+
+Algorithm 2 : 
+V0: 3
+V1: 1
+V2: 0
+V3: 4
+V4: 0
+V5: 2
+Vertex weight sum = 245
+
+Algorithm 3 : 
+V0: 4
+V1: 2
+V2: 1
+V3: 5
+V4: 1
+V5: 3
+Vertex weight sum = 245
+
+-- Test 148 --
+Algorithm 1 : 
+V0: 1
+V1: 3
+V2: 0
+V3: 0
+V4: 0
+V5: 4
+V6: 3
+V7: 2
+V8: 5
+V9: 2
+Vertex weight sum = 326
+
+Algorithm 2 : 
+V0: 1
+V1: 3
+V2: 0
+V3: 0
+V4: 0
+V5: 4
+V6: 3
+V7: 2
+V8: 5
+V9: 2
+Vertex weight sum = 326
+
+Algorithm 3 : 
+V0: 2
+V1: 4
+V2: 1
+V3: 1
+V4: 1
+V5: 5
+V6: 4
+V7: 3
+V8: 6
+V9: 3
+Vertex weight sum = 326
+
+-- Test 149 --
+Algorithm 1 : 
+V0: 1
+V1: 4
+V2: 6
+V3: 4
+V4: 7
+V5: 1
+V6: 1
+V7: 5
+V8: 2
+V9: 3
+V10: 3
+V11: 0
+V12: 2
+V13: 7
+V14: 2
+V15: 5
+V16: 0
+Vertex weight sum = 483
+
+Algorithm 2 : 
+V0: 1
+V1: 3
+V2: 6
+V3: 3
+V4: 7
+V5: 1
+V6: 1
+V7: 5
+V8: 2
+V9: 4
+V10: 6
+V11: 0
+V12: 2
+V13: 7
+V14: 2
+V15: 4
+V16: 0
+Vertex weight sum = 507
+
+Algorithm 3 : 
+V0: 2
+V1: 5
+V2: 7
+V3: 5
+V4: 8
+V5: 2
+V6: 2
+V7: 6
+V8: 3
+V9: 4
+V10: 4
+V11: 1
+V12: 3
+V13: 8
+V14: 3
+V15: 6
+V16: 1
+Vertex weight sum = 483
+
+-- Test 150 --
+Algorithm 1 : 
+V0: 0
+V1: 4
+V2: 5
+V3: 3
+V4: 4
+V5: 0
+V6: 6
+V7: 1
+V8: 1
+V9: 2
+V10: 2
+V11: 3
+V12: 6
+V13: 3
+V14: 7
+V15: 6
+V16: 2
+Vertex weight sum = 494
+
+Algorithm 2 : 
+V0: 0
+V1: 3
+V2: 7
+V3: 6
+V4: 3
+V5: 0
+V6: 4
+V7: 1
+V8: 1
+V9: 2
+V10: 2
+V11: 3
+V12: 5
+V13: 4
+V14: 5
+V15: 4
+V16: 2
+Vertex weight sum = 534
+
+Algorithm 3 : 
+V0: 1
+V1: 5
+V2: 6
+V3: 4
+V4: 5
+V5: 1
+V6: 7
+V7: 2
+V8: 2
+V9: 3
+V10: 3
+V11: 4
+V12: 7
+V13: 4
+V14: 8
+V15: 7
+V16: 3
+Vertex weight sum = 494
+
+-- Test 151 --
+Algorithm 1 : 
+V0: 0
+V1: 2
+V2: 0
+V3: 2
+V4: 2
+V5: 1
+Vertex weight sum = 220
+
+Algorithm 2 : 
+V0: 0
+V1: 2
+V2: 0
+V3: 2
+V4: 2
+V5: 1
+Vertex weight sum = 220
+
+Algorithm 3 : 
+V0: 1
+V1: 3
+V2: 1
+V3: 3
+V4: 3
+V5: 2
+Vertex weight sum = 220
+
+-- Test 152 --
+Algorithm 1 : 
+V0: 0
+V1: 1
+V2: 1
+V3: 2
+V4: 3
+V5: 5
+V6: 0
+V7: 4
+V8: 3
+V9: 1
+V10: 4
+V11: 7
+V12: 6
+Vertex weight sum = 423
+
+Algorithm 2 : 
+V0: 0
+V1: 1
+V2: 1
+V3: 2
+V4: 3
+V5: 5
+V6: 0
+V7: 4
+V8: 3
+V9: 1
+V10: 4
+V11: 7
+V12: 6
+Vertex weight sum = 423
+
+Algorithm 3 : 
+V0: 1
+V1: 2
+V2: 2
+V3: 3
+V4: 4
+V5: 6
+V6: 1
+V7: 5
+V8: 4
+V9: 2
+V10: 5
+V11: 8
+V12: 7
+Vertex weight sum = 423
+
+-- Test 153 --
+Algorithm 1 : 
+V0: 2
+V1: 4
+V2: 1
+V3: 5
+V4: 4
+V5: 3
+V6: 1
+V7: 0
+V8: 7
+V9: 6
+V10: 0
+V11: 3
+V12: 2
+V13: 2
+V14: 1
+V15: 0
+V16: 3
+Vertex weight sum = 523
+
+Algorithm 2 : 
+V0: 2
+V1: 4
+V2: 1
+V3: 6
+V4: 4
+V5: 3
+V6: 1
+V7: 0
+V8: 7
+V9: 5
+V10: 0
+V11: 3
+V12: 2
+V13: 2
+V14: 1
+V15: 0
+V16: 3
+Vertex weight sum = 523
+
+Algorithm 3 : 
+V0: 3
+V1: 5
+V2: 2
+V3: 6
+V4: 5
+V5: 4
+V6: 2
+V7: 1
+V8: 8
+V9: 7
+V10: 1
+V11: 4
+V12: 3
+V13: 3
+V14: 2
+V15: 1
+V16: 4
+Vertex weight sum = 523
+
+-- Test 154 --
+Algorithm 1 : 
+V0: 2
+V1: 0
+V2: 7
+V3: 8
+V4: 0
+V5: 2
+V6: 2
+V7: 4
+V8: 1
+V9: 0
+V10: 1
+V11: 6
+V12: 1
+V13: 3
+V14: 5
+Vertex weight sum = 447
+
+Algorithm 2 : 
+V0: 2
+V1: 0
+V2: 8
+V3: 7
+V4: 0
+V5: 2
+V6: 2
+V7: 4
+V8: 1
+V9: 0
+V10: 1
+V11: 6
+V12: 1
+V13: 3
+V14: 5
+Vertex weight sum = 447
+
+Algorithm 3 : 
+V0: 3
+V1: 1
+V2: 8
+V3: 9
+V4: 1
+V5: 3
+V6: 3
+V7: 5
+V8: 2
+V9: 1
+V10: 2
+V11: 7
+V12: 2
+V13: 4
+V14: 6
+Vertex weight sum = 447
+
+-- Test 155 --
+Algorithm 1 : 
+V0: 0
+V1: 0
+V2: 2
+V3: 5
+V4: 1
+V5: 3
+V6: 1
+V7: 3
+V8: 4
+V9: 0
+V10: 2
+Vertex weight sum = 385
+
+Algorithm 2 : 
+V0: 0
+V1: 0
+V2: 2
+V3: 5
+V4: 1
+V5: 3
+V6: 1
+V7: 3
+V8: 4
+V9: 0
+V10: 2
+Vertex weight sum = 385
+
+Algorithm 3 : 
+V0: 1
+V1: 1
+V2: 3
+V3: 6
+V4: 2
+V5: 4
+V6: 2
+V7: 4
+V8: 5
+V9: 1
+V10: 3
+Vertex weight sum = 385
+
+-- Test 156 --
+Algorithm 1 : 
+V0: 8
+V1: 5
+V2: 0
+V3: 7
+V4: 1
+V5: 0
+V6: 2
+V7: 6
+V8: 3
+V9: 1
+V10: 6
+V11: 5
+V12: 2
+V13: 4
+V14: 3
+V15: 9
+V16: 7
+V17: 0
+Vertex weight sum = 615
+
+Algorithm 2 : 
+V0: 7
+V1: 4
+V2: 0
+V3: 6
+V4: 1
+V5: 0
+V6: 8
+V7: 5
+V8: 3
+V9: 1
+V10: 5
+V11: 4
+V12: 2
+V13: 9
+V14: 3
+V15: 8
+V16: 2
+V17: 0
+Vertex weight sum = 631
+
+Algorithm 3 : 
+V0: 9
+V1: 6
+V2: 1
+V3: 8
+V4: 2
+V5: 1
+V6: 3
+V7: 7
+V8: 4
+V9: 2
+V10: 7
+V11: 6
+V12: 3
+V13: 5
+V14: 4
+V15: 10
+V16: 8
+V17: 1
+Vertex weight sum = 615
+
+-- Test 157 --
+Algorithm 1 : 
+V0: 3
+V1: 0
+V2: 4
+V3: 1
+V4: 2
+V5: 3
+V6: 2
+V7: 0
+Vertex weight sum = 311
+
+Algorithm 2 : 
+V0: 3
+V1: 0
+V2: 4
+V3: 1
+V4: 2
+V5: 3
+V6: 2
+V7: 0
+Vertex weight sum = 311
+
+Algorithm 3 : 
+V0: 4
+V1: 1
+V2: 5
+V3: 2
+V4: 3
+V5: 4
+V6: 3
+V7: 1
+Vertex weight sum = 311
+
+-- Test 158 --
+Algorithm 1 : 
+V0: 0
+V1: 6
+V2: 5
+V3: 2
+V4: 0
+V5: 4
+V6: 2
+V7: 1
+V8: 4
+V9: 1
+V10: 3
+Vertex weight sum = 261
+
+Algorithm 2 : 
+V0: 0
+V1: 4
+V2: 6
+V3: 2
+V4: 0
+V5: 3
+V6: 2
+V7: 1
+V8: 3
+V9: 1
+V10: 5
+Vertex weight sum = 261
+
+Algorithm 3 : 
+V0: 1
+V1: 7
+V2: 6
+V3: 3
+V4: 1
+V5: 5
+V6: 3
+V7: 2
+V8: 5
+V9: 2
+V10: 4
+Vertex weight sum = 261
+
+-- Test 159 --
+Algorithm 1 : 
+V0: 1
+V1: 0
+V2: 1
+V3: 0
+V4: 2
+V5: 3
+V6: 0
+V7: 2
+V8: 0
+Vertex weight sum = 194
+
+Algorithm 2 : 
+V0: 1
+V1: 0
+V2: 1
+V3: 0
+V4: 2
+V5: 3
+V6: 0
+V7: 2
+V8: 0
+Vertex weight sum = 194
+
+Algorithm 3 : 
+V0: 2
+V1: 1
+V2: 2
+V3: 1
+V4: 3
+V5: 4
+V6: 1
+V7: 3
+V8: 1
+Vertex weight sum = 194
+
+-- Test 160 --
+Algorithm 1 : 
+V0: 0
+V1: 1
+V2: 2
+V3: 3
+V4: 2
+V5: 1
+V6: 0
+V7: 0
+Vertex weight sum = 233
+
+Algorithm 2 : 
+V0: 0
+V1: 1
+V2: 2
+V3: 3
+V4: 2
+V5: 1
+V6: 0
+V7: 0
+Vertex weight sum = 233
+
+Algorithm 3 : 
+V0: 1
+V1: 2
+V2: 3
+V3: 4
+V4: 3
+V5: 2
+V6: 1
+V7: 1
+Vertex weight sum = 233
+
+-- Test 161 --
+Algorithm 1 : 
+V0: 1
+V1: 0
+V2: 3
+V3: 1
+V4: 0
+V5: 4
+V6: 2
+Vertex weight sum = 341
+
+Algorithm 2 : 
+V0: 1
+V1: 0
+V2: 3
+V3: 1
+V4: 0
+V5: 4
+V6: 2
+Vertex weight sum = 341
+
+Algorithm 3 : 
+V0: 2
+V1: 1
+V2: 4
+V3: 2
+V4: 1
+V5: 5
+V6: 3
+Vertex weight sum = 341
+
+-- Test 162 --
+Algorithm 1 : 
+V0: 3
+V1: 0
+V2: 2
+V3: 4
+V4: 0
+V5: 5
+V6: 3
+V7: 1
+V8: 0
+V9: 6
+V10: 1
+V11: 5
+Vertex weight sum = 448
+
+Algorithm 2 : 
+V0: 3
+V1: 0
+V2: 2
+V3: 4
+V4: 0
+V5: 5
+V6: 3
+V7: 1
+V8: 0
+V9: 6
+V10: 1
+V11: 5
+Vertex weight sum = 448
+
+Algorithm 3 : 
+V0: 4
+V1: 1
+V2: 3
+V3: 5
+V4: 1
+V5: 6
+V6: 4
+V7: 2
+V8: 1
+V9: 7
+V10: 2
+V11: 6
+Vertex weight sum = 448
+
+-- Test 163 --
+Algorithm 1 : 
+V0: 6
+V1: 6
+V2: 4
+V3: 4
+V4: 3
+V5: 5
+V6: 2
+V7: 0
+V8: 3
+V9: 5
+V10: 2
+V11: 7
+V12: 0
+V13: 1
+V14: 1
+V15: 0
+V16: 2
+V17: 1
+Vertex weight sum = 453
+
+Algorithm 2 : 
+V0: 4
+V1: 5
+V2: 3
+V3: 4
+V4: 7
+V5: 6
+V6: 2
+V7: 0
+V8: 3
+V9: 8
+V10: 2
+V11: 6
+V12: 0
+V13: 1
+V14: 1
+V15: 0
+V16: 2
+V17: 1
+Vertex weight sum = 519
+
+Algorithm 3 : 
+V0: 7
+V1: 7
+V2: 5
+V3: 5
+V4: 4
+V5: 6
+V6: 3
+V7: 1
+V8: 4
+V9: 6
+V10: 3
+V11: 8
+V12: 1
+V13: 2
+V14: 2
+V15: 1
+V16: 3
+V17: 2
+Vertex weight sum = 453
+
+-- Test 164 --
+Algorithm 1 : 
+V0: 5
+V1: 2
+V2: 5
+V3: 2
+V4: 5
+V5: 4
+V6: 0
+V7: 1
+V8: 6
+V9: 1
+V10: 1
+V11: 3
+V12: 2
+V13: 3
+V14: 0
+V15: 4
+V16: 6
+V17: 0
+Vertex weight sum = 405
+
+Algorithm 2 : 
+V0: 5
+V1: 2
+V2: 5
+V3: 2
+V4: 3
+V5: 4
+V6: 0
+V7: 1
+V8: 6
+V9: 1
+V10: 1
+V11: 3
+V12: 2
+V13: 6
+V14: 0
+V15: 4
+V16: 7
+V17: 0
+Vertex weight sum = 419
+
+Algorithm 3 : 
+V0: 6
+V1: 3
+V2: 6
+V3: 3
+V4: 6
+V5: 5
+V6: 1
+V7: 2
+V8: 7
+V9: 2
+V10: 2
+V11: 4
+V12: 3
+V13: 4
+V14: 1
+V15: 5
+V16: 7
+V17: 1
+Vertex weight sum = 405
+
+-- Test 165 --
+Algorithm 1 : 
+V0: 1
+V1: 2
+V2: 1
+V3: 3
+V4: 0
+V5: 0
+Vertex weight sum = 270
+
+Algorithm 2 : 
+V0: 1
+V1: 2
+V2: 1
+V3: 3
+V4: 0
+V5: 0
+Vertex weight sum = 270
+
+Algorithm 3 : 
+V0: 2
+V1: 3
+V2: 2
+V3: 4
+V4: 1
+V5: 1
+Vertex weight sum = 270
+
+-- Test 166 --
+Algorithm 1 : 
+V0: 2
+V1: 1
+V2: 1
+V3: 3
+V4: 0
+Vertex weight sum = 234
+
+Algorithm 2 : 
+V0: 2
+V1: 1
+V2: 1
+V3: 3
+V4: 0
+Vertex weight sum = 234
+
+Algorithm 3 : 
+V0: 3
+V1: 2
+V2: 2
+V3: 4
+V4: 1
+Vertex weight sum = 234
+
+-- Test 167 --
+Algorithm 1 : 
+V0: 1
+V1: 4
+V2: 4
+V3: 0
+V4: 2
+V5: 1
+V6: 5
+V7: 3
+V8: 0
+V9: 2
+V10: 6
+V11: 5
+V12: 3
+V13: 6
+Vertex weight sum = 446
+
+Algorithm 2 : 
+V0: 1
+V1: 6
+V2: 5
+V3: 0
+V4: 2
+V5: 1
+V6: 4
+V7: 3
+V8: 0
+V9: 2
+V10: 5
+V11: 4
+V12: 3
+V13: 5
+Vertex weight sum = 462
+
+Algorithm 3 : 
+V0: 2
+V1: 5
+V2: 5
+V3: 1
+V4: 3
+V5: 2
+V6: 6
+V7: 4
+V8: 1
+V9: 3
+V10: 7
+V11: 6
+V12: 4
+V13: 7
+Vertex weight sum = 446
+
+-- Test 168 --
+Algorithm 1 : 
+V0: 3
+V1: 4
+V2: 2
+V3: 0
+V4: 1
+V5: 1
+V6: 4
+V7: 0
+Vertex weight sum = 345
+
+Algorithm 2 : 
+V0: 3
+V1: 4
+V2: 2
+V3: 0
+V4: 1
+V5: 1
+V6: 4
+V7: 0
+Vertex weight sum = 345
+
+Algorithm 3 : 
+V0: 4
+V1: 5
+V2: 3
+V3: 1
+V4: 2
+V5: 2
+V6: 5
+V7: 1
+Vertex weight sum = 345
+
+-- Test 169 --
+Algorithm 1 : 
+V0: 0
+V1: 5
+V2: 1
+V3: 2
+V4: 5
+V5: 7
+V6: 1
+V7: 2
+V8: 3
+V9: 6
+V10: 4
+V11: 4
+V12: 3
+V13: 8
+V14: 1
+Vertex weight sum = 400
+
+Algorithm 2 : 
+V0: 0
+V1: 5
+V2: 1
+V3: 2
+V4: 5
+V5: 7
+V6: 1
+V7: 2
+V8: 3
+V9: 6
+V10: 4
+V11: 4
+V12: 3
+V13: 8
+V14: 1
+Vertex weight sum = 400
+
+Algorithm 3 : 
+V0: 1
+V1: 6
+V2: 2
+V3: 3
+V4: 6
+V5: 8
+V6: 2
+V7: 3
+V8: 4
+V9: 7
+V10: 5
+V11: 5
+V12: 4
+V13: 9
+V14: 2
+Vertex weight sum = 400
+
+-- Test 170 --
+Algorithm 1 : 
+V0: 2
+V1: 1
+V2: 4
+V3: 6
+V4: 3
+V5: 1
+V6: 4
+V7: 3
+V8: 0
+V9: 3
+V10: 7
+V11: 2
+V12: 5
+V13: 1
+Vertex weight sum = 501
+
+Algorithm 2 : 
+V0: 2
+V1: 1
+V2: 4
+V3: 6
+V4: 3
+V5: 1
+V6: 4
+V7: 3
+V8: 0
+V9: 3
+V10: 7
+V11: 2
+V12: 5
+V13: 1
+Vertex weight sum = 501
+
+Algorithm 3 : 
+V0: 3
+V1: 2
+V2: 5
+V3: 7
+V4: 4
+V5: 2
+V6: 5
+V7: 4
+V8: 1
+V9: 4
+V10: 8
+V11: 3
+V12: 6
+V13: 2
+Vertex weight sum = 501
+
+-- Test 171 --
+Algorithm 1 : 
+V0: 5
+V1: 5
+V2: 1
+V3: 2
+V4: 4
+V5: 6
+V6: 3
+V7: 0
+V8: 4
+V9: 0
+V10: 3
+V11: 1
+V12: 2
+Vertex weight sum = 547
+
+Algorithm 2 : 
+V0: 6
+V1: 6
+V2: 1
+V3: 2
+V4: 4
+V5: 5
+V6: 3
+V7: 0
+V8: 4
+V9: 0
+V10: 3
+V11: 1
+V12: 2
+Vertex weight sum = 547
+
+Algorithm 3 : 
+V0: 6
+V1: 6
+V2: 2
+V3: 3
+V4: 5
+V5: 7
+V6: 4
+V7: 1
+V8: 5
+V9: 1
+V10: 4
+V11: 2
+V12: 3
+Vertex weight sum = 547
+
+-- Test 172 --
+Algorithm 1 : 
+V0: 0
+V1: 3
+V2: 1
+V3: 0
+V4: 2
+Vertex weight sum = 156
+
+Algorithm 2 : 
+V0: 0
+V1: 3
+V2: 1
+V3: 0
+V4: 2
+Vertex weight sum = 156
+
+Algorithm 3 : 
+V0: 1
+V1: 4
+V2: 2
+V3: 1
+V4: 3
+Vertex weight sum = 156
+
+-- Test 173 --
+Algorithm 1 : 
+V0: 0
+V1: 5
+V2: 3
+V3: 0
+V4: 6
+V5: 5
+V6: 1
+V7: 4
+V8: 2
+V9: 3
+V10: 0
+V11: 2
+V12: 7
+V13: 4
+V14: 1
+V15: 0
+Vertex weight sum = 381
+
+Algorithm 2 : 
+V0: 0
+V1: 5
+V2: 1
+V3: 0
+V4: 3
+V5: 5
+V6: 1
+V7: 4
+V8: 2
+V9: 3
+V10: 0
+V11: 2
+V12: 6
+V13: 4
+V14: 5
+V15: 0
+Vertex weight sum = 393
+
+Algorithm 3 : 
+V0: 1
+V1: 6
+V2: 4
+V3: 1
+V4: 7
+V5: 6
+V6: 2
+V7: 5
+V8: 3
+V9: 4
+V10: 1
+V11: 3
+V12: 8
+V13: 5
+V14: 2
+V15: 1
+Vertex weight sum = 381
+
+-- Test 174 --
+Algorithm 1 : 
+V0: 4
+V1: 2
+V2: 2
+V3: 3
+V4: 2
+V5: 0
+V6: 6
+V7: 1
+V8: 7
+V9: 5
+V10: 4
+V11: 0
+Vertex weight sum = 414
+
+Algorithm 2 : 
+V0: 4
+V1: 2
+V2: 2
+V3: 3
+V4: 2
+V5: 0
+V6: 6
+V7: 1
+V8: 7
+V9: 5
+V10: 4
+V11: 0
+Vertex weight sum = 414
+
+Algorithm 3 : 
+V0: 5
+V1: 3
+V2: 3
+V3: 4
+V4: 3
+V5: 1
+V6: 7
+V7: 2
+V8: 8
+V9: 6
+V10: 5
+V11: 1
+Vertex weight sum = 414
+
+-- Test 175 --
+Algorithm 1 : 
+V0: 2
+V1: 5
+V2: 0
+V3: 6
+V4: 4
+V5: 4
+V6: 0
+V7: 1
+V8: 1
+V9: 0
+V10: 3
+V11: 2
+Vertex weight sum = 388
+
+Algorithm 2 : 
+V0: 2
+V1: 5
+V2: 0
+V3: 6
+V4: 4
+V5: 4
+V6: 0
+V7: 1
+V8: 1
+V9: 0
+V10: 3
+V11: 2
+Vertex weight sum = 388
+
+Algorithm 3 : 
+V0: 3
+V1: 6
+V2: 1
+V3: 7
+V4: 5
+V5: 5
+V6: 1
+V7: 2
+V8: 2
+V9: 1
+V10: 4
+V11: 3
+Vertex weight sum = 388
+
+-- Test 176 --
+Algorithm 1 : 
+V0: 3
+V1: 0
+V2: 4
+V3: 3
+V4: 2
+V5: 5
+V6: 2
+V7: 0
+V8: 1
+V9: 1
+Vertex weight sum = 300
+
+Algorithm 2 : 
+V0: 3
+V1: 0
+V2: 4
+V3: 3
+V4: 2
+V5: 5
+V6: 2
+V7: 0
+V8: 1
+V9: 1
+Vertex weight sum = 300
+
+Algorithm 3 : 
+V0: 4
+V1: 1
+V2: 5
+V3: 4
+V4: 3
+V5: 6
+V6: 3
+V7: 1
+V8: 2
+V9: 2
+Vertex weight sum = 300
+
+-- Test 177 --
+Algorithm 1 : 
+V0: 4
+V1: 4
+V2: 1
+V3: 1
+V4: 2
+V5: 6
+V6: 5
+V7: 6
+V8: 3
+V9: 1
+V10: 0
+V11: 0
+V12: 0
+V13: 4
+V14: 3
+V15: 2
+V16: 5
+Vertex weight sum = 432
+
+Algorithm 2 : 
+V0: 3
+V1: 3
+V2: 6
+V3: 2
+V4: 1
+V5: 5
+V6: 4
+V7: 5
+V8: 2
+V9: 1
+V10: 0
+V11: 0
+V12: 0
+V13: 3
+V14: 2
+V15: 1
+V16: 4
+Vertex weight sum = 432
+
+Algorithm 3 : 
+V0: 5
+V1: 5
+V2: 2
+V3: 2
+V4: 3
+V5: 7
+V6: 6
+V7: 7
+V8: 4
+V9: 2
+V10: 1
+V11: 1
+V12: 1
+V13: 5
+V14: 4
+V15: 3
+V16: 6
+Vertex weight sum = 432
+
+-- Test 178 --
+Algorithm 1 : 
+V0: 0
+V1: 3
+V2: 2
+V3: 0
+V4: 4
+V5: 1
+Vertex weight sum = 292
+
+Algorithm 2 : 
+V0: 0
+V1: 3
+V2: 2
+V3: 0
+V4: 4
+V5: 1
+Vertex weight sum = 292
+
+Algorithm 3 : 
+V0: 1
+V1: 4
+V2: 3
+V3: 1
+V4: 5
+V5: 2
+Vertex weight sum = 292
+
+-- Test 179 --
+Algorithm 1 : 
+V0: 6
+V1: 3
+V2: 4
+V3: 5
+V4: 0
+V5: 1
+V6: 5
+V7: 1
+V8: 3
+V9: 0
+V10: 2
+V11: 1
+V12: 2
+V13: 0
+Vertex weight sum = 304
+
+Algorithm 2 : 
+V0: 6
+V1: 3
+V2: 4
+V3: 5
+V4: 0
+V5: 1
+V6: 5
+V7: 1
+V8: 3
+V9: 0
+V10: 2
+V11: 1
+V12: 2
+V13: 0
+Vertex weight sum = 304
+
+Algorithm 3 : 
+V0: 7
+V1: 4
+V2: 5
+V3: 6
+V4: 1
+V5: 2
+V6: 6
+V7: 2
+V8: 4
+V9: 1
+V10: 3
+V11: 2
+V12: 3
+V13: 1
+Vertex weight sum = 304
+
+-- Test 180 --
+Algorithm 1 : 
+V0: 3
+V1: 0
+V2: 2
+V3: 2
+V4: 2
+V5: 1
+V6: 1
+V7: 4
+V8: 3
+V9: 3
+V10: 0
+V11: 4
+Vertex weight sum = 395
+
+Algorithm 2 : 
+V0: 3
+V1: 0
+V2: 2
+V3: 2
+V4: 2
+V5: 1
+V6: 1
+V7: 4
+V8: 3
+V9: 3
+V10: 0
+V11: 4
+Vertex weight sum = 395
+
+Algorithm 3 : 
+V0: 4
+V1: 1
+V2: 3
+V3: 3
+V4: 3
+V5: 2
+V6: 2
+V7: 5
+V8: 4
+V9: 4
+V10: 1
+V11: 5
+Vertex weight sum = 395
+
+-- Test 181 --
+Algorithm 1 : 
+V0: 3
+V1: 2
+V2: 2
+V3: 1
+V4: 4
+V5: 0
+V6: 4
+V7: 1
+V8: 3
+V9: 0
+Vertex weight sum = 331
+
+Algorithm 2 : 
+V0: 3
+V1: 2
+V2: 2
+V3: 1
+V4: 4
+V5: 0
+V6: 4
+V7: 1
+V8: 3
+V9: 0
+Vertex weight sum = 331
+
+Algorithm 3 : 
+V0: 4
+V1: 3
+V2: 3
+V3: 2
+V4: 5
+V5: 1
+V6: 5
+V7: 2
+V8: 4
+V9: 1
+Vertex weight sum = 331
+
+-- Test 182 --
+Algorithm 1 : 
+V0: 4
+V1: 1
+V2: 0
+V3: 3
+V4: 0
+V5: 2
+V6: 4
+V7: 1
+Vertex weight sum = 227
+
+Algorithm 2 : 
+V0: 4
+V1: 1
+V2: 0
+V3: 3
+V4: 0
+V5: 2
+V6: 4
+V7: 1
+Vertex weight sum = 227
+
+Algorithm 3 : 
+V0: 5
+V1: 2
+V2: 1
+V3: 4
+V4: 1
+V5: 3
+V6: 5
+V7: 2
+Vertex weight sum = 227
+
+-- Test 183 --
+Algorithm 1 : 
+V0: 0
+V1: 5
+V2: 2
+V3: 6
+V4: 3
+V5: 0
+V6: 1
+V7: 1
+V8: 1
+V9: 3
+V10: 5
+V11: 8
+V12: 6
+V13: 2
+V14: 0
+V15: 4
+V16: 7
+V17: 4
+Vertex weight sum = 506
+
+Algorithm 2 : 
+V0: 0
+V1: 4
+V2: 2
+V3: 6
+V4: 3
+V5: 0
+V6: 1
+V7: 1
+V8: 1
+V9: 3
+V10: 5
+V11: 8
+V12: 6
+V13: 2
+V14: 0
+V15: 4
+V16: 7
+V17: 7
+Vertex weight sum = 533
+
+Algorithm 3 : 
+V0: 1
+V1: 6
+V2: 3
+V3: 7
+V4: 4
+V5: 1
+V6: 2
+V7: 2
+V8: 2
+V9: 4
+V10: 6
+V11: 9
+V12: 7
+V13: 3
+V14: 1
+V15: 5
+V16: 8
+V17: 5
+Vertex weight sum = 506
+
+-- Test 184 --
+Algorithm 1 : 
+V0: 6
+V1: 0
+V2: 2
+V3: 5
+V4: 0
+V5: 1
+V6: 3
+V7: 4
+V8: 6
+V9: 3
+V10: 7
+V11: 4
+V12: 3
+V13: 2
+V14: 1
+Vertex weight sum = 438
+
+Algorithm 2 : 
+V0: 5
+V1: 0
+V2: 2
+V3: 4
+V4: 0
+V5: 1
+V6: 6
+V7: 3
+V8: 5
+V9: 6
+V10: 7
+V11: 3
+V12: 4
+V13: 2
+V14: 1
+Vertex weight sum = 438
+
+Algorithm 3 : 
+V0: 7
+V1: 1
+V2: 3
+V3: 6
+V4: 1
+V5: 2
+V6: 4
+V7: 5
+V8: 7
+V9: 4
+V10: 8
+V11: 5
+V12: 4
+V13: 3
+V14: 2
+Vertex weight sum = 438
+
+-- Test 185 --
+Algorithm 1 : 
+V0: 0
+V1: 0
+V2: 0
+V3: 3
+V4: 1
+V5: 2
+Vertex weight sum = 110
+
+Algorithm 2 : 
+V0: 0
+V1: 0
+V2: 0
+V3: 2
+V4: 3
+V5: 1
+Vertex weight sum = 110
+
+Algorithm 3 : 
+V0: 1
+V1: 1
+V2: 1
+V3: 4
+V4: 2
+V5: 3
+Vertex weight sum = 110
+
+-- Test 186 --
+Algorithm 1 : 
+V0: 0
+V1: 0
+V2: 2
+V3: 1
+V4: 0
+V5: 3
+Vertex weight sum = 162
+
+Algorithm 2 : 
+V0: 0
+V1: 0
+V2: 2
+V3: 1
+V4: 0
+V5: 3
+Vertex weight sum = 162
+
+Algorithm 3 : 
+V0: 1
+V1: 1
+V2: 3
+V3: 2
+V4: 1
+V5: 4
+Vertex weight sum = 162
+
+-- Test 187 --
+Algorithm 1 : 
+V0: 4
+V1: 7
+V2: 3
+V3: 3
+V4: 4
+V5: 2
+V6: 6
+V7: 1
+V8: 0
+V9: 0
+V10: 5
+V11: 0
+V12: 2
+V13: 4
+V14: 6
+V15: 5
+V16: 8
+V17: 1
+Vertex weight sum = 535
+
+Algorithm 2 : 
+V0: 3
+V1: 6
+V2: 3
+V3: 4
+V4: 3
+V5: 2
+V6: 5
+V7: 1
+V8: 0
+V9: 0
+V10: 7
+V11: 0
+V12: 2
+V13: 8
+V14: 5
+V15: 4
+V16: 7
+V17: 1
+Vertex weight sum = 587
+
+Algorithm 3 : 
+V0: 5
+V1: 8
+V2: 4
+V3: 4
+V4: 5
+V5: 3
+V6: 7
+V7: 2
+V8: 1
+V9: 1
+V10: 6
+V11: 1
+V12: 3
+V13: 5
+V14: 7
+V15: 6
+V16: 9
+V17: 2
+Vertex weight sum = 535
+
+-- Test 188 --
+Algorithm 1 : 
+V0: 0
+V1: 2
+V2: 4
+V3: 1
+V4: 3
+V5: 2
+V6: 0
+V7: 4
+Vertex weight sum = 186
+
+Algorithm 2 : 
+V0: 0
+V1: 2
+V2: 4
+V3: 1
+V4: 3
+V5: 2
+V6: 0
+V7: 4
+Vertex weight sum = 186
+
+Algorithm 3 : 
+V0: 1
+V1: 3
+V2: 5
+V3: 2
+V4: 4
+V5: 3
+V6: 1
+V7: 5
+Vertex weight sum = 186
+
+-- Test 189 --
+Algorithm 1 : 
+V0: 1
+V1: 3
+V2: 0
+V3: 5
+V4: 1
+V5: 4
+V6: 5
+V7: 2
+V8: 2
+V9: 0
+Vertex weight sum = 490
+
+Algorithm 2 : 
+V0: 1
+V1: 3
+V2: 0
+V3: 5
+V4: 1
+V5: 4
+V6: 5
+V7: 2
+V8: 2
+V9: 0
+Vertex weight sum = 490
+
+Algorithm 3 : 
+V0: 2
+V1: 4
+V2: 1
+V3: 6
+V4: 2
+V5: 5
+V6: 6
+V7: 3
+V8: 3
+V9: 1
+Vertex weight sum = 490
+
+-- Test 190 --
+Algorithm 1 : 
+V0: 1
+V1: 3
+V2: 6
+V3: 1
+V4: 5
+V5: 2
+V6: 0
+V7: 4
+V8: 2
+V9: 0
+Vertex weight sum = 474
+
+Algorithm 2 : 
+V0: 2
+V1: 3
+V2: 6
+V3: 2
+V4: 5
+V5: 1
+V6: 0
+V7: 4
+V8: 1
+V9: 0
+Vertex weight sum = 474
+
+Algorithm 3 : 
+V0: 2
+V1: 4
+V2: 7
+V3: 2
+V4: 6
+V5: 3
+V6: 1
+V7: 5
+V8: 3
+V9: 1
+Vertex weight sum = 474
+
+-- Test 191 --
+Algorithm 1 : 
+V0: 1
+V1: 2
+V2: 1
+V3: 0
+V4: 0
+V5: 3
+Vertex weight sum = 191
+
+Algorithm 2 : 
+V0: 1
+V1: 3
+V2: 1
+V3: 0
+V4: 0
+V5: 2
+Vertex weight sum = 191
+
+Algorithm 3 : 
+V0: 2
+V1: 3
+V2: 2
+V3: 1
+V4: 1
+V5: 4
+Vertex weight sum = 191
+
+-- Test 192 --
+Algorithm 1 : 
+V0: 4
+V1: 4
+V2: 1
+V3: 2
+V4: 1
+V5: 3
+V6: 2
+V7: 0
+V8: 3
+V9: 3
+V10: 6
+V11: 5
+V12: 5
+V13: 1
+Vertex weight sum = 449
+
+Algorithm 2 : 
+V0: 4
+V1: 4
+V2: 1
+V3: 2
+V4: 1
+V5: 3
+V6: 2
+V7: 0
+V8: 3
+V9: 3
+V10: 6
+V11: 5
+V12: 5
+V13: 1
+Vertex weight sum = 449
+
+Algorithm 3 : 
+V0: 5
+V1: 5
+V2: 2
+V3: 3
+V4: 2
+V5: 4
+V6: 3
+V7: 1
+V8: 4
+V9: 4
+V10: 7
+V11: 6
+V12: 6
+V13: 2
+Vertex weight sum = 449
+
+-- Test 193 --
+Algorithm 1 : 
+V0: 0
+V1: 7
+V2: 3
+V3: 0
+V4: 6
+V5: 0
+V6: 1
+V7: 0
+V8: 1
+V9: 3
+V10: 0
+V11: 4
+V12: 2
+V13: 5
+V14: 2
+Vertex weight sum = 339
+
+Algorithm 2 : 
+V0: 0
+V1: 7
+V2: 3
+V3: 0
+V4: 6
+V5: 0
+V6: 1
+V7: 0
+V8: 1
+V9: 3
+V10: 0
+V11: 4
+V12: 2
+V13: 5
+V14: 2
+Vertex weight sum = 339
+
+Algorithm 3 : 
+V0: 1
+V1: 8
+V2: 4
+V3: 1
+V4: 7
+V5: 1
+V6: 2
+V7: 1
+V8: 2
+V9: 4
+V10: 1
+V11: 5
+V12: 3
+V13: 6
+V14: 3
+Vertex weight sum = 339
+
+-- Test 194 --
+Algorithm 1 : 
+V0: 1
+V1: 7
+V2: 6
+V3: 0
+V4: 1
+V5: 1
+V6: 2
+V7: 0
+V8: 2
+V9: 0
+V10: 3
+V11: 5
+V12: 3
+V13: 1
+V14: 4
+V15: 0
+V16: 5
+V17: 4
+Vertex weight sum = 447
+
+Algorithm 2 : 
+V0: 1
+V1: 5
+V2: 6
+V3: 0
+V4: 1
+V5: 1
+V6: 2
+V7: 0
+V8: 2
+V9: 0
+V10: 3
+V11: 4
+V12: 3
+V13: 1
+V14: 5
+V15: 0
+V16: 4
+V17: 7
+Vertex weight sum = 457
+
+Algorithm 3 : 
+V0: 2
+V1: 8
+V2: 7
+V3: 1
+V4: 2
+V5: 2
+V6: 3
+V7: 1
+V8: 3
+V9: 1
+V10: 4
+V11: 6
+V12: 4
+V13: 2
+V14: 5
+V15: 1
+V16: 6
+V17: 5
+Vertex weight sum = 447
+
+-- Test 195 --
+Algorithm 1 : 
+V0: 2
+V1: 1
+V2: 2
+V3: 0
+V4: 6
+V5: 0
+V6: 6
+V7: 1
+V8: 2
+V9: 3
+V10: 5
+V11: 3
+V12: 4
+V13: 1
+Vertex weight sum = 428
+
+Algorithm 2 : 
+V0: 2
+V1: 1
+V2: 2
+V3: 0
+V4: 6
+V5: 0
+V6: 6
+V7: 1
+V8: 2
+V9: 3
+V10: 5
+V11: 3
+V12: 4
+V13: 1
+Vertex weight sum = 428
+
+Algorithm 3 : 
+V0: 3
+V1: 2
+V2: 3
+V3: 1
+V4: 7
+V5: 1
+V6: 7
+V7: 2
+V8: 3
+V9: 4
+V10: 6
+V11: 4
+V12: 5
+V13: 2
+Vertex weight sum = 428
+
+-- Test 196 --
+Algorithm 1 : 
+V0: 0
+V1: 1
+V2: 3
+V3: 1
+V4: 1
+V5: 2
+V6: 0
+Vertex weight sum = 200
+
+Algorithm 2 : 
+V0: 0
+V1: 1
+V2: 3
+V3: 1
+V4: 1
+V5: 2
+V6: 0
+Vertex weight sum = 200
+
+Algorithm 3 : 
+V0: 1
+V1: 2
+V2: 4
+V3: 2
+V4: 2
+V5: 3
+V6: 1
+Vertex weight sum = 200
+
+-- Test 197 --
+Algorithm 1 : 
+V0: 0
+V1: 6
+V2: 2
+V3: 0
+V4: 2
+V5: 3
+V6: 5
+V7: 2
+V8: 1
+V9: 1
+V10: 4
+V11: 5
+V12: 4
+V13: 7
+V14: 4
+V15: 3
+Vertex weight sum = 427
+
+Algorithm 2 : 
+V0: 0
+V1: 6
+V2: 2
+V3: 0
+V4: 2
+V5: 3
+V6: 5
+V7: 2
+V8: 1
+V9: 1
+V10: 4
+V11: 5
+V12: 4
+V13: 7
+V14: 4
+V15: 3
+Vertex weight sum = 427
+
+Algorithm 3 : 
+V0: 1
+V1: 7
+V2: 3
+V3: 1
+V4: 3
+V5: 4
+V6: 6
+V7: 3
+V8: 2
+V9: 2
+V10: 5
+V11: 6
+V12: 5
+V13: 8
+V14: 5
+V15: 4
+Vertex weight sum = 427
+
+-- Test 198 --
+Algorithm 1 : 
+V0: 0
+V1: 1
+V2: 5
+V3: 2
+V4: 2
+V5: 0
+V6: 4
+V7: 1
+V8: 3
+Vertex weight sum = 259
+
+Algorithm 2 : 
+V0: 0
+V1: 1
+V2: 5
+V3: 2
+V4: 2
+V5: 0
+V6: 3
+V7: 1
+V8: 4
+Vertex weight sum = 259
+
+Algorithm 3 : 
+V0: 1
+V1: 2
+V2: 6
+V3: 3
+V4: 3
+V5: 1
+V6: 5
+V7: 2
+V8: 4
+Vertex weight sum = 259
+
+-- Test 199 --
+Algorithm 1 : 
+V0: 3
+V1: 4
+V2: 2
+V3: 1
+V4: 1
+V5: 2
+V6: 2
+V7: 0
+V8: 3
+V9: 3
+V10: 0
+V11: 0
+V12: 5
+Vertex weight sum = 426
+
+Algorithm 2 : 
+V0: 3
+V1: 5
+V2: 2
+V3: 1
+V4: 1
+V5: 2
+V6: 2
+V7: 0
+V8: 3
+V9: 3
+V10: 0
+V11: 0
+V12: 4
+Vertex weight sum = 426
+
+Algorithm 3 : 
+V0: 4
+V1: 5
+V2: 3
+V3: 2
+V4: 2
+V5: 3
+V6: 3
+V7: 1
+V8: 4
+V9: 4
+V10: 1
+V11: 1
+V12: 6
+Vertex weight sum = 426
+
+-- Test 200 --
+Algorithm 1 : 
+V0: 2
+V1: 3
+V2: 5
+V3: 4
+V4: 0
+V5: 3
+V6: 3
+V7: 4
+V8: 5
+V9: 0
+V10: 5
+V11: 1
+V12: 1
+V13: 2
+V14: 0
+Vertex weight sum = 439
+
+Algorithm 2 : 
+V0: 1
+V1: 2
+V2: 4
+V3: 3
+V4: 0
+V5: 2
+V6: 2
+V7: 3
+V8: 4
+V9: 0
+V10: 4
+V11: 5
+V12: 5
+V13: 1
+V14: 0
+Vertex weight sum = 439
+
+Algorithm 3 : 
+V0: 3
+V1: 4
+V2: 6
+V3: 5
+V4: 1
+V5: 4
+V6: 4
+V7: 5
+V8: 6
+V9: 1
+V10: 6
+V11: 2
+V12: 2
+V13: 3
+V14: 1
+Vertex weight sum = 439
+
+-- Test 201 --
+Algorithm 1 : 
+V0: 1
+V1: 3
+V2: 3
+V3: 6
+V4: 3
+V5: 1
+V6: 6
+V7: 7
+V8: 4
+V9: 0
+V10: 2
+V11: 5
+V12: 2
+V13: 0
+Vertex weight sum = 476
+
+Algorithm 2 : 
+V0: 1
+V1: 3
+V2: 3
+V3: 6
+V4: 3
+V5: 1
+V6: 6
+V7: 7
+V8: 5
+V9: 0
+V10: 2
+V11: 4
+V12: 2
+V13: 0
+Vertex weight sum = 476
+
+Algorithm 3 : 
+V0: 2
+V1: 4
+V2: 4
+V3: 7
+V4: 4
+V5: 2
+V6: 7
+V7: 8
+V8: 5
+V9: 1
+V10: 3
+V11: 6
+V12: 3
+V13: 1
+Vertex weight sum = 476
+
+-- Test 202 --
+Algorithm 1 : 
+V0: 6
+V1: 1
+V2: 1
+V3: 5
+V4: 0
+V5: 3
+V6: 0
+V7: 3
+V8: 2
+V9: 2
+V10: 4
+V11: 0
+Vertex weight sum = 377
+
+Algorithm 2 : 
+V0: 6
+V1: 1
+V2: 1
+V3: 5
+V4: 0
+V5: 3
+V6: 0
+V7: 3
+V8: 2
+V9: 2
+V10: 4
+V11: 0
+Vertex weight sum = 377
+
+Algorithm 3 : 
+V0: 7
+V1: 2
+V2: 2
+V3: 6
+V4: 1
+V5: 4
+V6: 1
+V7: 4
+V8: 3
+V9: 3
+V10: 5
+V11: 1
+Vertex weight sum = 377
+
+-- Test 203 --
+Algorithm 1 : 
+V0: 0
+V1: 3
+V2: 0
+V3: 0
+V4: 1
+V5: 2
+V6: 1
+Vertex weight sum = 280
+
+Algorithm 2 : 
+V0: 0
+V1: 3
+V2: 0
+V3: 0
+V4: 1
+V5: 2
+V6: 1
+Vertex weight sum = 280
+
+Algorithm 3 : 
+V0: 1
+V1: 4
+V2: 1
+V3: 1
+V4: 2
+V5: 3
+V6: 2
+Vertex weight sum = 280
+
+-- Test 204 --
+Algorithm 1 : 
+V0: 2
+V1: 0
+V2: 3
+V3: 4
+V4: 1
+V5: 0
+Vertex weight sum = 260
+
+Algorithm 2 : 
+V0: 4
+V1: 0
+V2: 2
+V3: 3
+V4: 1
+V5: 0
+Vertex weight sum = 260
+
+Algorithm 3 : 
+V0: 3
+V1: 1
+V2: 4
+V3: 5
+V4: 2
+V5: 1
+Vertex weight sum = 260
+
+-- Test 205 --
+Algorithm 1 : 
+V0: 1
+V1: 3
+V2: 0
+V3: 2
+V4: 4
+V5: 3
+V6: 0
+V7: 1
+Vertex weight sum = 335
+
+Algorithm 2 : 
+V0: 1
+V1: 3
+V2: 0
+V3: 2
+V4: 4
+V5: 3
+V6: 0
+V7: 1
+Vertex weight sum = 335
+
+Algorithm 3 : 
+V0: 2
+V1: 4
+V2: 1
+V3: 3
+V4: 5
+V5: 4
+V6: 1
+V7: 2
+Vertex weight sum = 335
+
+-- Test 206 --
+Algorithm 1 : 
+V0: 8
+V1: 0
+V2: 2
+V3: 3
+V4: 2
+V5: 0
+V6: 1
+V7: 4
+V8: 1
+V9: 6
+V10: 5
+V11: 5
+V12: 5
+V13: 0
+V14: 1
+V15: 7
+V16: 3
+V17: 4
+Vertex weight sum = 414
+
+Algorithm 2 : 
+V0: 8
+V1: 0
+V2: 2
+V3: 3
+V4: 2
+V5: 0
+V6: 1
+V7: 5
+V8: 1
+V9: 6
+V10: 4
+V11: 4
+V12: 4
+V13: 0
+V14: 1
+V15: 7
+V16: 3
+V17: 5
+Vertex weight sum = 414
+
+Algorithm 3 : 
+V0: 9
+V1: 1
+V2: 3
+V3: 4
+V4: 3
+V5: 1
+V6: 2
+V7: 5
+V8: 2
+V9: 7
+V10: 6
+V11: 6
+V12: 6
+V13: 1
+V14: 2
+V15: 8
+V16: 4
+V17: 5
+Vertex weight sum = 414
+
+-- Test 207 --
+Algorithm 1 : 
+V0: 0
+V1: 4
+V2: 2
+V3: 1
+V4: 2
+V5: 1
+V6: 3
+V7: 0
+V8: 0
+Vertex weight sum = 379
+
+Algorithm 2 : 
+V0: 0
+V1: 4
+V2: 2
+V3: 1
+V4: 2
+V5: 1
+V6: 3
+V7: 0
+V8: 0
+Vertex weight sum = 379
+
+Algorithm 3 : 
+V0: 1
+V1: 5
+V2: 3
+V3: 2
+V4: 3
+V5: 2
+V6: 4
+V7: 1
+V8: 1
+Vertex weight sum = 379
+
+-- Test 208 --
+Algorithm 1 : 
+V0: 0
+V1: 1
+V2: 2
+V3: 1
+V4: 3
+V5: 0
+V6: 1
+Vertex weight sum = 326
+
+Algorithm 2 : 
+V0: 0
+V1: 1
+V2: 2
+V3: 1
+V4: 3
+V5: 0
+V6: 1
+Vertex weight sum = 326
+
+Algorithm 3 : 
+V0: 1
+V1: 2
+V2: 3
+V3: 2
+V4: 4
+V5: 1
+V6: 2
+Vertex weight sum = 326
+
+-- Test 209 --
+Algorithm 1 : 
+V0: 1
+V1: 8
+V2: 0
+V3: 1
+V4: 5
+V5: 4
+V6: 3
+V7: 8
+V8: 2
+V9: 6
+V10: 6
+V11: 3
+V12: 2
+V13: 0
+V14: 7
+V15: 2
+V16: 4
+Vertex weight sum = 546
+
+Algorithm 2 : 
+V0: 1
+V1: 8
+V2: 0
+V3: 1
+V4: 5
+V5: 4
+V6: 3
+V7: 8
+V8: 2
+V9: 7
+V10: 6
+V11: 3
+V12: 6
+V13: 0
+V14: 2
+V15: 4
+V16: 4
+Vertex weight sum = 539
+
+Algorithm 3 : 
+V0: 2
+V1: 9
+V2: 1
+V3: 2
+V4: 6
+V5: 5
+V6: 4
+V7: 9
+V8: 3
+V9: 7
+V10: 7
+V11: 4
+V12: 3
+V13: 1
+V14: 8
+V15: 3
+V16: 5
+Vertex weight sum = 546
+
+-- Test 210 --
+Algorithm 1 : 
+V0: 2
+V1: 0
+V2: 4
+V3: 1
+V4: 5
+V5: 4
+V6: 0
+V7: 2
+V8: 3
+V9: 3
+Vertex weight sum = 390
+
+Algorithm 2 : 
+V0: 2
+V1: 0
+V2: 4
+V3: 1
+V4: 5
+V5: 4
+V6: 0
+V7: 2
+V8: 3
+V9: 3
+Vertex weight sum = 390
+
+Algorithm 3 : 
+V0: 3
+V1: 1
+V2: 5
+V3: 2
+V4: 6
+V5: 5
+V6: 1
+V7: 3
+V8: 4
+V9: 4
+Vertex weight sum = 390
+
+-- Test 211 --
+Algorithm 1 : 
+V0: 3
+V1: 1
+V2: 2
+V3: 5
+V4: 5
+V5: 4
+V6: 0
+V7: 4
+V8: 1
+V9: 6
+V10: 3
+V11: 2
+V12: 0
+V13: 1
+V14: 0
+Vertex weight sum = 422
+
+Algorithm 2 : 
+V0: 3
+V1: 1
+V2: 2
+V3: 5
+V4: 5
+V5: 4
+V6: 0
+V7: 4
+V8: 1
+V9: 6
+V10: 3
+V11: 2
+V12: 0
+V13: 1
+V14: 0
+Vertex weight sum = 422
+
+Algorithm 3 : 
+V0: 4
+V1: 2
+V2: 3
+V3: 6
+V4: 6
+V5: 5
+V6: 1
+V7: 5
+V8: 2
+V9: 7
+V10: 4
+V11: 3
+V12: 1
+V13: 2
+V14: 1
+Vertex weight sum = 422
+
+-- Test 212 --
+Algorithm 1 : 
+V0: 2
+V1: 4
+V2: 0
+V3: 1
+V4: 6
+V5: 3
+V6: 5
+V7: 0
+V8: 7
+V9: 1
+V10: 5
+V11: 3
+V12: 2
+Vertex weight sum = 406
+
+Algorithm 2 : 
+V0: 2
+V1: 4
+V2: 0
+V3: 1
+V4: 6
+V5: 3
+V6: 7
+V7: 0
+V8: 5
+V9: 1
+V10: 5
+V11: 3
+V12: 2
+Vertex weight sum = 406
+
+Algorithm 3 : 
+V0: 3
+V1: 5
+V2: 1
+V3: 2
+V4: 7
+V5: 4
+V6: 6
+V7: 1
+V8: 8
+V9: 2
+V10: 6
+V11: 4
+V12: 3
+Vertex weight sum = 406
+
+-- Test 213 --
+Algorithm 1 : 
+V0: 0
+V1: 4
+V2: 2
+V3: 5
+V4: 1
+V5: 8
+V6: 1
+V7: 3
+V8: 7
+V9: 6
+V10: 5
+V11: 0
+Vertex weight sum = 346
+
+Algorithm 2 : 
+V0: 0
+V1: 4
+V2: 2
+V3: 3
+V4: 1
+V5: 8
+V6: 1
+V7: 7
+V8: 6
+V9: 5
+V10: 3
+V11: 0
+Vertex weight sum = 346
+
+Algorithm 3 : 
+V0: 1
+V1: 5
+V2: 3
+V3: 6
+V4: 2
+V5: 9
+V6: 2
+V7: 4
+V8: 8
+V9: 7
+V10: 6
+V11: 1
+Vertex weight sum = 346
+
+-- Test 214 --
+Algorithm 1 : 
+V0: 3
+V1: 0
+V2: 1
+V3: 3
+V4: 1
+V5: 1
+V6: 2
+V7: 0
+Vertex weight sum = 251
+
+Algorithm 2 : 
+V0: 3
+V1: 0
+V2: 1
+V3: 3
+V4: 1
+V5: 1
+V6: 2
+V7: 0
+Vertex weight sum = 251
+
+Algorithm 3 : 
+V0: 4
+V1: 1
+V2: 2
+V3: 4
+V4: 2
+V5: 2
+V6: 3
+V7: 1
+Vertex weight sum = 251
+
+-- Test 215 --
+Algorithm 1 : 
+V0: 0
+V1: 6
+V2: 4
+V3: 1
+V4: 5
+V5: 0
+V6: 4
+V7: 2
+V8: 3
+V9: 2
+V10: 7
+V11: 1
+V12: 1
+V13: 0
+Vertex weight sum = 498
+
+Algorithm 2 : 
+V0: 0
+V1: 6
+V2: 4
+V3: 1
+V4: 5
+V5: 0
+V6: 4
+V7: 2
+V8: 3
+V9: 2
+V10: 7
+V11: 1
+V12: 1
+V13: 0
+Vertex weight sum = 498
+
+Algorithm 3 : 
+V0: 1
+V1: 7
+V2: 5
+V3: 2
+V4: 6
+V5: 1
+V6: 5
+V7: 3
+V8: 4
+V9: 3
+V10: 8
+V11: 2
+V12: 2
+V13: 1
+Vertex weight sum = 498
+
+-- Test 216 --
+Algorithm 1 : 
+V0: 2
+V1: 1
+V2: 0
+V3: 3
+V4: 0
+V5: 2
+V6: 0
+V7: 1
+Vertex weight sum = 214
+
+Algorithm 2 : 
+V0: 3
+V1: 1
+V2: 0
+V3: 2
+V4: 0
+V5: 2
+V6: 0
+V7: 1
+Vertex weight sum = 216
+
+Algorithm 3 : 
+V0: 3
+V1: 2
+V2: 1
+V3: 4
+V4: 1
+V5: 3
+V6: 1
+V7: 2
+Vertex weight sum = 214
+
+-- Test 217 --
+Algorithm 1 : 
+V0: 0
+V1: 3
+V2: 1
+V3: 0
+V4: 3
+V5: 2
+Vertex weight sum = 277
+
+Algorithm 2 : 
+V0: 0
+V1: 3
+V2: 1
+V3: 0
+V4: 3
+V5: 2
+Vertex weight sum = 277
+
+Algorithm 3 : 
+V0: 1
+V1: 4
+V2: 2
+V3: 1
+V4: 4
+V5: 3
+Vertex weight sum = 277
+
+-- Test 218 --
+Algorithm 1 : 
+V0: 2
+V1: 3
+V2: 0
+V3: 4
+V4: 2
+V5: 5
+V6: 0
+V7: 1
+V8: 1
+V9: 4
+V10: 1
+Vertex weight sum = 303
+
+Algorithm 2 : 
+V0: 2
+V1: 5
+V2: 0
+V3: 3
+V4: 2
+V5: 4
+V6: 0
+V7: 1
+V8: 1
+V9: 3
+V10: 1
+Vertex weight sum = 303
+
+Algorithm 3 : 
+V0: 3
+V1: 4
+V2: 1
+V3: 5
+V4: 3
+V5: 6
+V6: 1
+V7: 2
+V8: 2
+V9: 5
+V10: 2
+Vertex weight sum = 303
+
+-- Test 219 --
+Algorithm 1 : 
+V0: 2
+V1: 1
+V2: 2
+V3: 0
+V4: 0
+Vertex weight sum = 193
+
+Algorithm 2 : 
+V0: 2
+V1: 1
+V2: 2
+V3: 0
+V4: 0
+Vertex weight sum = 193
+
+Algorithm 3 : 
+V0: 3
+V1: 2
+V2: 3
+V3: 1
+V4: 1
+Vertex weight sum = 193
+
+-- Test 220 --
+Algorithm 1 : 
+V0: 0
+V1: 0
+V2: 1
+V3: 2
+V4: 1
+Vertex weight sum = 169
+
+Algorithm 2 : 
+V0: 0
+V1: 0
+V2: 1
+V3: 2
+V4: 1
+Vertex weight sum = 169
+
+Algorithm 3 : 
+V0: 1
+V1: 1
+V2: 2
+V3: 3
+V4: 2
+Vertex weight sum = 169
+
+-- Test 221 --
+Algorithm 1 : 
+V0: 1
+V1: 2
+V2: 0
+V3: 0
+V4: 1
+Vertex weight sum = 176
+
+Algorithm 2 : 
+V0: 1
+V1: 2
+V2: 0
+V3: 0
+V4: 1
+Vertex weight sum = 176
+
+Algorithm 3 : 
+V0: 2
+V1: 3
+V2: 1
+V3: 1
+V4: 2
+Vertex weight sum = 176
+
+-- Test 222 --
+Algorithm 1 : 
+V0: 7
+V1: 2
+V2: 3
+V3: 2
+V4: 4
+V5: 0
+V6: 1
+V7: 1
+V8: 0
+V9: 5
+V10: 6
+V11: 0
+V12: 4
+V13: 7
+Vertex weight sum = 473
+
+Algorithm 2 : 
+V0: 6
+V1: 2
+V2: 3
+V3: 2
+V4: 4
+V5: 0
+V6: 1
+V7: 1
+V8: 0
+V9: 4
+V10: 5
+V11: 0
+V12: 7
+V13: 6
+Vertex weight sum = 473
+
+Algorithm 3 : 
+V0: 8
+V1: 3
+V2: 4
+V3: 3
+V4: 5
+V5: 1
+V6: 2
+V7: 2
+V8: 1
+V9: 6
+V10: 7
+V11: 1
+V12: 5
+V13: 8
+Vertex weight sum = 473
+
+-- Test 223 --
+Algorithm 1 : 
+V0: 1
+V1: 1
+V2: 3
+V3: 8
+V4: 0
+V5: 5
+V6: 2
+V7: 4
+V8: 6
+V9: 0
+V10: 4
+V11: 7
+Vertex weight sum = 609
+
+Algorithm 2 : 
+V0: 1
+V1: 1
+V2: 3
+V3: 8
+V4: 0
+V5: 5
+V6: 2
+V7: 4
+V8: 6
+V9: 0
+V10: 4
+V11: 7
+Vertex weight sum = 609
+
+Algorithm 3 : 
+V0: 2
+V1: 2
+V2: 4
+V3: 9
+V4: 1
+V5: 6
+V6: 3
+V7: 5
+V8: 7
+V9: 1
+V10: 5
+V11: 8
+Vertex weight sum = 609
+
+-- Test 224 --
+Algorithm 1 : 
+V0: 5
+V1: 0
+V2: 3
+V3: 3
+V4: 1
+V5: 4
+V6: 0
+V7: 2
+V8: 7
+V9: 0
+V10: 0
+V11: 6
+V12: 6
+V13: 1
+V14: 1
+V15: 2
+V16: 4
+V17: 4
+Vertex weight sum = 422
+
+Algorithm 2 : 
+V0: 5
+V1: 0
+V2: 3
+V3: 3
+V4: 1
+V5: 4
+V6: 0
+V7: 2
+V8: 7
+V9: 0
+V10: 0
+V11: 6
+V12: 6
+V13: 1
+V14: 1
+V15: 2
+V16: 4
+V17: 4
+Vertex weight sum = 422
+
+Algorithm 3 : 
+V0: 6
+V1: 1
+V2: 4
+V3: 4
+V4: 2
+V5: 5
+V6: 1
+V7: 3
+V8: 8
+V9: 1
+V10: 1
+V11: 7
+V12: 7
+V13: 2
+V14: 2
+V15: 3
+V16: 5
+V17: 5
+Vertex weight sum = 422
+
+-- Test 225 --
+Algorithm 1 : 
+V0: 8
+V1: 5
+V2: 0
+V3: 1
+V4: 6
+V5: 0
+V6: 1
+V7: 7
+V8: 0
+V9: 4
+V10: 2
+V11: 6
+V12: 4
+V13: 5
+V14: 3
+V15: 2
+Vertex weight sum = 603
+
+Algorithm 2 : 
+V0: 1
+V1: 5
+V2: 0
+V3: 1
+V4: 7
+V5: 0
+V6: 4
+V7: 6
+V8: 0
+V9: 4
+V10: 2
+V11: 7
+V12: 4
+V13: 5
+V14: 3
+V15: 2
+Vertex weight sum = 578
+
+Algorithm 3 : 
+V0: 9
+V1: 6
+V2: 1
+V3: 2
+V4: 7
+V5: 1
+V6: 2
+V7: 8
+V8: 1
+V9: 5
+V10: 3
+V11: 7
+V12: 5
+V13: 6
+V14: 4
+V15: 3
+Vertex weight sum = 603
+
+-- Test 226 --
+Algorithm 1 : 
+V0: 1
+V1: 0
+V2: 3
+V3: 5
+V4: 4
+V5: 1
+V6: 4
+V7: 2
+V8: 3
+V9: 0
+V10: 1
+Vertex weight sum = 317
+
+Algorithm 2 : 
+V0: 1
+V1: 0
+V2: 3
+V3: 5
+V4: 4
+V5: 1
+V6: 4
+V7: 2
+V8: 3
+V9: 0
+V10: 1
+Vertex weight sum = 317
+
+Algorithm 3 : 
+V0: 2
+V1: 1
+V2: 4
+V3: 6
+V4: 5
+V5: 2
+V6: 5
+V7: 3
+V8: 4
+V9: 1
+V10: 2
+Vertex weight sum = 317
+
+-- Test 227 --
+Algorithm 1 : 
+V0: 0
+V1: 1
+V2: 2
+V3: 6
+V4: 3
+V5: 2
+V6: 4
+V7: 5
+V8: 1
+V9: 4
+V10: 3
+V11: 4
+V12: 1
+V13: 5
+V14: 0
+Vertex weight sum = 403
+
+Algorithm 2 : 
+V0: 0
+V1: 1
+V2: 2
+V3: 5
+V4: 3
+V5: 2
+V6: 4
+V7: 6
+V8: 1
+V9: 4
+V10: 3
+V11: 4
+V12: 1
+V13: 5
+V14: 0
+Vertex weight sum = 409
+
+Algorithm 3 : 
+V0: 1
+V1: 2
+V2: 3
+V3: 7
+V4: 4
+V5: 3
+V6: 5
+V7: 6
+V8: 2
+V9: 5
+V10: 4
+V11: 5
+V12: 2
+V13: 6
+V14: 1
+Vertex weight sum = 403
+
+-- Test 228 --
+Algorithm 1 : 
+V0: 2
+V1: 3
+V2: 0
+V3: 0
+V4: 2
+V5: 0
+V6: 1
+Vertex weight sum = 254
+
+Algorithm 2 : 
+V0: 2
+V1: 3
+V2: 0
+V3: 0
+V4: 2
+V5: 0
+V6: 1
+Vertex weight sum = 254
+
+Algorithm 3 : 
+V0: 3
+V1: 4
+V2: 1
+V3: 1
+V4: 3
+V5: 1
+V6: 2
+Vertex weight sum = 254
+
+-- Test 229 --
+Algorithm 1 : 
+V0: 1
+V1: 2
+V2: 0
+V3: 0
+V4: 1
+Vertex weight sum = 164
+
+Algorithm 2 : 
+V0: 1
+V1: 2
+V2: 0
+V3: 0
+V4: 1
+Vertex weight sum = 164
+
+Algorithm 3 : 
+V0: 2
+V1: 3
+V2: 1
+V3: 1
+V4: 2
+Vertex weight sum = 164
+
+-- Test 230 --
+Algorithm 1 : 
+V0: 4
+V1: 2
+V2: 1
+V3: 6
+V4: 6
+V5: 5
+V6: 1
+V7: 8
+V8: 3
+V9: 0
+V10: 7
+V11: 4
+V12: 0
+V13: 7
+V14: 2
+V15: 3
+V16: 3
+Vertex weight sum = 566
+
+Algorithm 2 : 
+V0: 4
+V1: 2
+V2: 1
+V3: 6
+V4: 6
+V5: 5
+V6: 1
+V7: 7
+V8: 3
+V9: 0
+V10: 8
+V11: 4
+V12: 0
+V13: 7
+V14: 2
+V15: 3
+V16: 3
+Vertex weight sum = 578
+
+Algorithm 3 : 
+V0: 5
+V1: 3
+V2: 2
+V3: 7
+V4: 7
+V5: 6
+V6: 2
+V7: 9
+V8: 4
+V9: 1
+V10: 8
+V11: 5
+V12: 1
+V13: 8
+V14: 3
+V15: 4
+V16: 4
+Vertex weight sum = 566
+
+-- Test 231 --
+Algorithm 1 : 
+V0: 2
+V1: 3
+V2: 0
+V3: 6
+V4: 2
+V5: 4
+V6: 7
+V7: 0
+V8: 10
+V9: 3
+V10: 1
+V11: 8
+V12: 4
+V13: 9
+V14: 0
+V15: 5
+V16: 5
+V17: 1
+Vertex weight sum = 423
+
+Algorithm 2 : 
+V0: 2
+V1: 3
+V2: 0
+V3: 6
+V4: 2
+V5: 4
+V6: 7
+V7: 0
+V8: 10
+V9: 3
+V10: 1
+V11: 5
+V12: 4
+V13: 9
+V14: 0
+V15: 8
+V16: 5
+V17: 1
+Vertex weight sum = 434
+
+Algorithm 3 : 
+V0: 3
+V1: 4
+V2: 1
+V3: 7
+V4: 3
+V5: 5
+V6: 8
+V7: 1
+V8: 11
+V9: 4
+V10: 2
+V11: 9
+V12: 5
+V13: 10
+V14: 1
+V15: 6
+V16: 6
+V17: 2
+Vertex weight sum = 423
+
+-- Test 232 --
+Algorithm 1 : 
+V0: 1
+V1: 8
+V2: 1
+V3: 6
+V4: 0
+V5: 2
+V6: 6
+V7: 4
+V8: 1
+V9: 9
+V10: 3
+V11: 4
+V12: 7
+V13: 2
+V14: 5
+V15: 5
+V16: 0
+Vertex weight sum = 410
+
+Algorithm 2 : 
+V0: 1
+V1: 8
+V2: 1
+V3: 4
+V4: 0
+V5: 2
+V6: 4
+V7: 5
+V8: 1
+V9: 9
+V10: 3
+V11: 5
+V12: 7
+V13: 2
+V14: 6
+V15: 6
+V16: 0
+Vertex weight sum = 410
+
+Algorithm 3 : 
+V0: 2
+V1: 9
+V2: 2
+V3: 7
+V4: 1
+V5: 3
+V6: 7
+V7: 5
+V8: 2
+V9: 10
+V10: 4
+V11: 5
+V12: 8
+V13: 3
+V14: 6
+V15: 6
+V16: 1
+Vertex weight sum = 410
+
+-- Test 233 --
+Algorithm 1 : 
+V0: 5
+V1: 0
+V2: 1
+V3: 2
+V4: 0
+V5: 1
+V6: 3
+V7: 4
+V8: 2
+Vertex weight sum = 400
+
+Algorithm 2 : 
+V0: 5
+V1: 0
+V2: 1
+V3: 2
+V4: 0
+V5: 1
+V6: 3
+V7: 4
+V8: 2
+Vertex weight sum = 400
+
+Algorithm 3 : 
+V0: 6
+V1: 1
+V2: 2
+V3: 3
+V4: 1
+V5: 2
+V6: 4
+V7: 5
+V8: 3
+Vertex weight sum = 400
+
+-- Test 234 --
+Algorithm 1 : 
+V0: 2
+V1: 0
+V2: 1
+V3: 0
+V4: 1
+V5: 3
+V6: 2
+V7: 5
+V8: 4
+V9: 4
+V10: 0
+Vertex weight sum = 335
+
+Algorithm 2 : 
+V0: 2
+V1: 0
+V2: 1
+V3: 0
+V4: 1
+V5: 5
+V6: 2
+V7: 4
+V8: 3
+V9: 3
+V10: 0
+Vertex weight sum = 335
+
+Algorithm 3 : 
+V0: 3
+V1: 1
+V2: 2
+V3: 1
+V4: 2
+V5: 4
+V6: 3
+V7: 6
+V8: 5
+V9: 5
+V10: 1
+Vertex weight sum = 335
+
+-- Test 235 --
+Algorithm 1 : 
+V0: 5
+V1: 1
+V2: 7
+V3: 6
+V4: 0
+V5: 0
+V6: 8
+V7: 1
+V8: 3
+V9: 0
+V10: 4
+V11: 2
+V12: 5
+V13: 3
+V14: 2
+V15: 6
+V16: 1
+V17: 2
+Vertex weight sum = 579
+
+Algorithm 2 : 
+V0: 5
+V1: 1
+V2: 7
+V3: 6
+V4: 0
+V5: 0
+V6: 8
+V7: 1
+V8: 3
+V9: 0
+V10: 4
+V11: 2
+V12: 5
+V13: 3
+V14: 2
+V15: 6
+V16: 1
+V17: 2
+Vertex weight sum = 579
+
+Algorithm 3 : 
+V0: 6
+V1: 2
+V2: 8
+V3: 7
+V4: 1
+V5: 1
+V6: 9
+V7: 2
+V8: 4
+V9: 1
+V10: 5
+V11: 3
+V12: 6
+V13: 4
+V14: 3
+V15: 7
+V16: 2
+V17: 3
+Vertex weight sum = 579
+
+-- Test 236 --
+Algorithm 1 : 
+V0: 3
+V1: 2
+V2: 5
+V3: 2
+V4: 4
+V5: 0
+V6: 6
+V7: 1
+V8: 6
+V9: 2
+V10: 1
+V11: 0
+Vertex weight sum = 382
+
+Algorithm 2 : 
+V0: 3
+V1: 2
+V2: 5
+V3: 2
+V4: 4
+V5: 0
+V6: 6
+V7: 1
+V8: 6
+V9: 2
+V10: 1
+V11: 0
+Vertex weight sum = 382
+
+Algorithm 3 : 
+V0: 4
+V1: 3
+V2: 6
+V3: 3
+V4: 5
+V5: 1
+V6: 7
+V7: 2
+V8: 7
+V9: 3
+V10: 2
+V11: 1
+Vertex weight sum = 382
+
+-- Test 237 --
+Algorithm 1 : 
+V0: 1
+V1: 5
+V2: 3
+V3: 3
+V4: 0
+V5: 0
+V6: 4
+V7: 1
+V8: 6
+V9: 2
+V10: 2
+V11: 6
+V12: 2
+V13: 7
+V14: 1
+V15: 3
+Vertex weight sum = 598
+
+Algorithm 2 : 
+V0: 1
+V1: 5
+V2: 3
+V3: 3
+V4: 0
+V5: 0
+V6: 4
+V7: 1
+V8: 7
+V9: 2
+V10: 2
+V11: 7
+V12: 2
+V13: 6
+V14: 1
+V15: 3
+Vertex weight sum = 598
+
+Algorithm 3 : 
+V0: 2
+V1: 6
+V2: 4
+V3: 4
+V4: 1
+V5: 1
+V6: 5
+V7: 2
+V8: 7
+V9: 3
+V10: 3
+V11: 7
+V12: 3
+V13: 8
+V14: 2
+V15: 4
+Vertex weight sum = 598
+
+-- Test 238 --
+Algorithm 1 : 
+V0: 0
+V1: 2
+V2: 0
+V3: 1
+V4: 3
+Vertex weight sum = 253
+
+Algorithm 2 : 
+V0: 0
+V1: 2
+V2: 0
+V3: 1
+V4: 3
+Vertex weight sum = 253
+
+Algorithm 3 : 
+V0: 1
+V1: 3
+V2: 1
+V3: 2
+V4: 4
+Vertex weight sum = 253
+
+-- Test 239 --
+Algorithm 1 : 
+V0: 2
+V1: 0
+V2: 0
+V3: 6
+V4: 2
+V5: 4
+V6: 0
+V7: 1
+V8: 3
+V9: 6
+V10: 3
+V11: 2
+V12: 2
+V13: 1
+V14: 5
+Vertex weight sum = 354
+
+Algorithm 2 : 
+V0: 2
+V1: 0
+V2: 0
+V3: 6
+V4: 2
+V5: 4
+V6: 0
+V7: 1
+V8: 3
+V9: 6
+V10: 3
+V11: 2
+V12: 2
+V13: 1
+V14: 5
+Vertex weight sum = 354
+
+Algorithm 3 : 
+V0: 3
+V1: 1
+V2: 1
+V3: 7
+V4: 3
+V5: 5
+V6: 1
+V7: 2
+V8: 4
+V9: 7
+V10: 4
+V11: 3
+V12: 3
+V13: 2
+V14: 6
+Vertex weight sum = 354
+
+-- Test 240 --
+Algorithm 1 : 
+V0: 0
+V1: 3
+V2: 4
+V3: 2
+V4: 4
+V5: 0
+V6: 2
+V7: 1
+V8: 2
+Vertex weight sum = 310
+
+Algorithm 2 : 
+V0: 0
+V1: 4
+V2: 3
+V3: 2
+V4: 3
+V5: 0
+V6: 2
+V7: 1
+V8: 2
+Vertex weight sum = 310
+
+Algorithm 3 : 
+V0: 1
+V1: 4
+V2: 5
+V3: 3
+V4: 5
+V5: 1
+V6: 3
+V7: 2
+V8: 3
+Vertex weight sum = 310
+
+-- Test 241 --
+Algorithm 1 : 
+V0: 1
+V1: 2
+V2: 3
+V3: 7
+V4: 3
+V5: 4
+V6: 0
+V7: 6
+V8: 5
+V9: 0
+V10: 3
+V11: 2
+V12: 0
+V13: 1
+V14: 6
+V15: 1
+V16: 4
+V17: 6
+Vertex weight sum = 464
+
+Algorithm 2 : 
+V0: 1
+V1: 7
+V2: 3
+V3: 7
+V4: 3
+V5: 4
+V6: 0
+V7: 6
+V8: 5
+V9: 0
+V10: 3
+V11: 2
+V12: 0
+V13: 1
+V14: 6
+V15: 1
+V16: 2
+V17: 6
+Vertex weight sum = 500
+
+Algorithm 3 : 
+V0: 2
+V1: 3
+V2: 4
+V3: 8
+V4: 4
+V5: 5
+V6: 1
+V7: 7
+V8: 6
+V9: 1
+V10: 4
+V11: 3
+V12: 1
+V13: 2
+V14: 7
+V15: 2
+V16: 5
+V17: 7
+Vertex weight sum = 464
+
+-- Test 242 --
+Algorithm 1 : 
+V0: 0
+V1: 3
+V2: 0
+V3: 2
+V4: 0
+V5: 1
+Vertex weight sum = 213
+
+Algorithm 2 : 
+V0: 0
+V1: 3
+V2: 0
+V3: 2
+V4: 0
+V5: 1
+Vertex weight sum = 213
+
+Algorithm 3 : 
+V0: 1
+V1: 4
+V2: 1
+V3: 3
+V4: 1
+V5: 2
+Vertex weight sum = 213
+
+-- Test 243 --
+Algorithm 1 : 
+V0: 0
+V1: 1
+V2: 2
+V3: 0
+V4: 2
+V5: 3
+V6: 2
+V7: 1
+Vertex weight sum = 253
+
+Algorithm 2 : 
+V0: 0
+V1: 1
+V2: 2
+V3: 0
+V4: 2
+V5: 3
+V6: 2
+V7: 1
+Vertex weight sum = 253
+
+Algorithm 3 : 
+V0: 1
+V1: 2
+V2: 3
+V3: 1
+V4: 3
+V5: 4
+V6: 3
+V7: 2
+Vertex weight sum = 253
+
+-- Test 244 --
+Algorithm 1 : 
+V0: 0
+V1: 5
+V2: 3
+V3: 2
+V4: 3
+V5: 2
+V6: 7
+V7: 0
+V8: 4
+V9: 6
+V10: 4
+V11: 8
+V12: 0
+V13: 1
+Vertex weight sum = 507
+
+Algorithm 2 : 
+V0: 0
+V1: 5
+V2: 2
+V3: 2
+V4: 3
+V5: 4
+V6: 6
+V7: 0
+V8: 4
+V9: 3
+V10: 6
+V11: 7
+V12: 0
+V13: 1
+Vertex weight sum = 497
+
+Algorithm 3 : 
+V0: 1
+V1: 6
+V2: 4
+V3: 3
+V4: 4
+V5: 3
+V6: 8
+V7: 1
+V8: 5
+V9: 7
+V10: 5
+V11: 9
+V12: 1
+V13: 2
+Vertex weight sum = 507
+
+-- Test 245 --
+Algorithm 1 : 
+V0: 5
+V1: 0
+V2: 3
+V3: 1
+V4: 4
+V5: 8
+V6: 0
+V7: 5
+V8: 2
+V9: 4
+V10: 6
+V11: 2
+V12: 3
+V13: 7
+Vertex weight sum = 429
+
+Algorithm 2 : 
+V0: 5
+V1: 0
+V2: 3
+V3: 1
+V4: 4
+V5: 6
+V6: 0
+V7: 7
+V8: 2
+V9: 4
+V10: 5
+V11: 2
+V12: 3
+V13: 8
+Vertex weight sum = 429
+
+Algorithm 3 : 
+V0: 6
+V1: 1
+V2: 4
+V3: 2
+V4: 5
+V5: 9
+V6: 1
+V7: 6
+V8: 3
+V9: 5
+V10: 7
+V11: 3
+V12: 4
+V13: 8
+Vertex weight sum = 429
+
+-- Test 246 --
+Algorithm 1 : 
+V0: 0
+V1: 1
+V2: 5
+V3: 3
+V4: 4
+V5: 0
+V6: 2
+V7: 3
+V8: 3
+V9: 1
+Vertex weight sum = 300
+
+Algorithm 2 : 
+V0: 0
+V1: 1
+V2: 4
+V3: 1
+V4: 3
+V5: 0
+V6: 2
+V7: 5
+V8: 5
+V9: 2
+Vertex weight sum = 290
+
+Algorithm 3 : 
+V0: 1
+V1: 2
+V2: 6
+V3: 4
+V4: 5
+V5: 1
+V6: 3
+V7: 4
+V8: 4
+V9: 2
+Vertex weight sum = 300
+
+-- Test 247 --
+Algorithm 1 : 
+V0: 2
+V1: 1
+V2: 1
+V3: 3
+V4: 2
+V5: 6
+V6: 0
+V7: 5
+V8: 3
+V9: 4
+V10: 1
+Vertex weight sum = 394
+
+Algorithm 2 : 
+V0: 2
+V1: 1
+V2: 1
+V3: 3
+V4: 2
+V5: 6
+V6: 0
+V7: 5
+V8: 3
+V9: 4
+V10: 1
+Vertex weight sum = 394
+
+Algorithm 3 : 
+V0: 3
+V1: 2
+V2: 2
+V3: 4
+V4: 3
+V5: 7
+V6: 1
+V7: 6
+V8: 4
+V9: 5
+V10: 2
+Vertex weight sum = 394
+
+-- Test 248 --
+Algorithm 1 : 
+V0: 2
+V1: 0
+V2: 4
+V3: 1
+V4: 3
+V5: 2
+Vertex weight sum = 281
+
+Algorithm 2 : 
+V0: 2
+V1: 0
+V2: 4
+V3: 1
+V4: 3
+V5: 2
+Vertex weight sum = 281
+
+Algorithm 3 : 
+V0: 3
+V1: 1
+V2: 5
+V3: 2
+V4: 4
+V5: 3
+Vertex weight sum = 281
+
+-- Test 249 --
+Algorithm 1 : 
+V0: 2
+V1: 0
+V2: 1
+V3: 0
+V4: 1
+V5: 3
+V6: 2
+Vertex weight sum = 239
+
+Algorithm 2 : 
+V0: 2
+V1: 0
+V2: 1
+V3: 0
+V4: 1
+V5: 3
+V6: 2
+Vertex weight sum = 239
+
+Algorithm 3 : 
+V0: 3
+V1: 1
+V2: 2
+V3: 1
+V4: 2
+V5: 4
+V6: 3
+Vertex weight sum = 239
+
+-- Test 250 --
+Algorithm 1 : 
+V0: 4
+V1: 2
+V2: 1
+V3: 1
+V4: 3
+V5: 3
+V6: 0
+V7: 0
+V8: 1
+V9: 5
+V10: 3
+V11: 5
+Vertex weight sum = 420
+
+Algorithm 2 : 
+V0: 3
+V1: 2
+V2: 1
+V3: 1
+V4: 4
+V5: 4
+V6: 0
+V7: 0
+V8: 1
+V9: 5
+V10: 4
+V11: 5
+Vertex weight sum = 420
+
+Algorithm 3 : 
+V0: 5
+V1: 3
+V2: 2
+V3: 2
+V4: 4
+V5: 4
+V6: 1
+V7: 1
+V8: 2
+V9: 6
+V10: 4
+V11: 6
+Vertex weight sum = 420
+
+334	334	334	
+526	526	526	
+280	280	280	
+296	287	296	
+298	298	298	
+356	356	356	
+174	174	174	
+423	423	423	
+390	390	390	
+385	388	385	
+217	217	217	
+146	146	146	
+547	605	547	
+450	472	450	
+602	602	602	
+449	462	449	
+319	319	319	
+170	170	170	
+448	448	448	
+584	584	584	
+535	535	535	
+194	194	194	
+452	452	452	
+216	216	216	
+307	307	307	
+421	421	421	
+443	478	443	
+362	362	362	
+239	244	239	
+261	261	261	
+459	458	459	
+448	431	448	
+506	650	506	
+311	311	311	
+588	560	588	
+344	369	344	
+596	636	596	
+502	554	502	
+271	271	271	
+602	602	602	
+233	272	233	
+215	215	215	
+182	182	182	
+534	534	534	
+492	484	492	
+311	311	311	
+384	384	384	
+419	419	419	
+265	265	265	
+234	234	234	
+478	478	478	
+384	384	384	
+261	261	261	
+504	504	504	
+578	578	578	
+174	174	174	
+680	680	680	
+261	322	261	
+451	451	451	
+592	631	592	
+265	265	265	
+288	288	288	
+418	460	418	
+629	630	629	
+283	329	283	
+297	297	297	
+564	631	564	
+580	621	580	
+221	221	221	
+522	522	522	
+276	276	276	
+574	583	574	
+502	502	502	
+535	507	535	
+563	563	563	
+386	386	386	
+191	191	191	
+245	245	245	
+557	595	557	
+193	193	193	
+263	263	263	
+188	229	188	
+219	219	219	
+498	498	498	
+276	230	276	
+244	244	244	
+356	356	356	
+631	631	631	
+507	515	507	
+374	374	374	
+441	441	441	
+381	381	381	
+212	212	212	
+245	245	245	
+563	570	563	
+234	234	234	
+375	375	375	
+203	203	203	
+192	192	192	
+266	266	266	
+323	323	323	
+341	341	341	
+329	329	329	
+338	338	338	
+511	544	511	
+245	245	245	
+328	328	328	
+424	424	424	
+620	620	620	
+317	317	317	
+448	455	448	
+434	434	434	
+254	254	254	
+359	359	359	
+381	381	381	
+305	305	305	
+252	252	252	
+436	436	436	
+271	271	271	
+317	317	317	
+318	318	318	
+454	454	454	
+220	220	220	
+313	319	313	
+595	595	595	
+425	425	425	
+466	466	466	
+261	255	261	
+235	235	235	
+529	529	529	
+606	568	606	
+306	351	306	
+313	313	313	
+447	489	447	
+266	266	266	
+656	656	656	
+309	309	309	
+569	569	569	
+116	116	116	
+189	189	189	
+718	723	718	
+564	635	564	
+153	153	153	
+589	637	589	
+235	235	235	
+308	347	308	
+245	245	245	
+326	326	326	
+483	507	483	
+494	534	494	
+220	220	220	
+423	423	423	
+523	523	523	
+447	447	447	
+385	385	385	
+615	631	615	
+311	311	311	
+261	261	261	
+194	194	194	
+233	233	233	
+341	341	341	
+448	448	448	
+453	519	453	
+405	419	405	
+270	270	270	
+234	234	234	
+446	462	446	
+345	345	345	
+400	400	400	
+501	501	501	
+547	547	547	
+156	156	156	
+381	393	381	
+414	414	414	
+388	388	388	
+300	300	300	
+432	432	432	
+292	292	292	
+304	304	304	
+395	395	395	
+331	331	331	
+227	227	227	
+506	533	506	
+438	438	438	
+110	110	110	
+162	162	162	
+535	587	535	
+186	186	186	
+490	490	490	
+474	474	474	
+191	191	191	
+449	449	449	
+339	339	339	
+447	457	447	
+428	428	428	
+200	200	200	
+427	427	427	
+259	259	259	
+426	426	426	
+439	439	439	
+476	476	476	
+377	377	377	
+280	280	280	
+260	260	260	
+335	335	335	
+414	414	414	
+379	379	379	
+326	326	326	
+546	539	546	
+390	390	390	
+422	422	422	
+406	406	406	
+346	346	346	
+251	251	251	
+498	498	498	
+214	216	214	
+277	277	277	
+303	303	303	
+193	193	193	
+169	169	169	
+176	176	176	
+473	473	473	
+609	609	609	
+422	422	422	
+603	578	603	
+317	317	317	
+403	409	403	
+254	254	254	
+164	164	164	
+566	578	566	
+423	434	423	
+410	410	410	
+400	400	400	
+335	335	335	
+579	579	579	
+382	382	382	
+598	598	598	
+253	253	253	
+354	354	354	
+310	310	310	
+464	500	464	
+213	213	213	
+253	253	253	
+507	497	507	
+429	429	429	
+300	290	300	
+394	394	394	
+281	281	281	
+239	239	239	
+420	420	420	
+
